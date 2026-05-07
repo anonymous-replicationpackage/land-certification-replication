@@ -1,0 +1,21 @@
+anchor,spec,outcome,b,se,p_cluster,p_wild,N,households,counties,treated_counties,control_counties,reps,status
+future_high,linear_2009_2013,any_transfer_in_zfill,.0032561462019285,.0025637629,.20505886,,83626,19240,297,17,280,,boottest failed
+future_high,linear_2009_2013,asinh_transfer_in_area_zfill,.0037846585616529,.0036061702,.29480636,,83626,19240,297,17,280,,boottest failed
+future_high,linear_2009_2014,any_transfer_in_zfill,.0019070048154657,.0014981517,.20405062,,100031,19483,297,17,280,,boottest failed
+future_high,linear_2009_2014,asinh_transfer_in_area_zfill,.0038506107604144,.0027758086,.16642338,,100031,19483,297,17,280,,boottest failed
+future_high,placebo_2013,any_transfer_in_zfill,.0097086727819415,.0073497635,.18753821,,83626,19240,297,17,280,,boottest failed
+future_high,placebo_2013,asinh_transfer_in_area_zfill,.0135787891097095,.010654908,.20351547,,83626,19240,297,17,280,,boottest failed
+future_high,placebo_2013_14,any_transfer_in_zfill,.0057544189664748,.0060863239,.3451916,,100031,19483,297,17,280,,boottest failed
+future_high,placebo_2013_14,asinh_transfer_in_area_zfill,.0142939941732035,.010668906,.18134435,,100031,19483,297,17,280,,boottest failed
+future_high,placebo_2014,any_transfer_in_zfill,.0011835862406646,.006590094,.85758883,,100031,19483,297,17,280,,boottest failed
+future_high,placebo_2014,asinh_transfer_in_area_zfill,.0118562722576847,.012463985,.34225738,,100031,19483,297,17,280,,boottest failed
+high17,linear_2009_2013,any_transfer_in_zfill,.004248943441594,.0034123769,.21405903,,83626,19240,297,13,284,,boottest failed
+high17,linear_2009_2013,asinh_transfer_in_area_zfill,.0035059451860195,.0046544578,.45190164,,83626,19240,297,13,284,,boottest failed
+high17,linear_2009_2014,any_transfer_in_zfill,.0027413042461566,.0018352513,.13632075,,100031,19483,297,13,284,,boottest failed
+high17,linear_2009_2014,asinh_transfer_in_area_zfill,.0053465221306207,.0033683097,.11351205,,100031,19483,297,13,284,,boottest failed
+high17,placebo_2013,any_transfer_in_zfill,.0123567444373255,.0094407108,.19159071,,83626,19240,297,13,284,,boottest failed
+high17,placebo_2013,asinh_transfer_in_area_zfill,.0134504491069873,.012114302,.26777306,,83626,19240,297,13,284,,boottest failed
+high17,placebo_2013_14,any_transfer_in_zfill,.0082243186586091,.0074114273,.26803729,,100031,19483,297,13,284,,boottest failed
+high17,placebo_2013_14,asinh_transfer_in_area_zfill,.0204743538219038,.01202755,.089751296,,100031,19483,297,13,284,,boottest failed
+high17,placebo_2014,any_transfer_in_zfill,.0036857842978123,.0085447207,.66652626,,100031,19483,297,13,284,,boottest failed
+high17,placebo_2014,asinh_transfer_in_area_zfill,.0240124675027162,.014919586,.10858186,,100031,19483,297,13,284,,boottest failed

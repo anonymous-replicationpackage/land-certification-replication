@@ -1,0 +1,14 @@
+# Local/private data and generated logs
+data/raw_private/
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+__pycache__/
+.ipynb_checkpoints/
+
+# Stata generated files
+*.ster
+*.gph
+ado/

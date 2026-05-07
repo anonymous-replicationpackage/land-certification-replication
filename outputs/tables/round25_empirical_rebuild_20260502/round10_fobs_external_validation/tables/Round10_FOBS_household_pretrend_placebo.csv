@@ -1,0 +1,385 @@
+﻿sample,future_group,test,outcome,fe,controls,b,se,p,N,counties,treated_counties,status
+full,future_high,linear_2009_2013,any_transfer_in_zfill,hh_year,unconditional,0.0016019594705803278,0.003529874773952889,0.6499519229760087,5482.0,21.0,17.0,ok
+full,future_high,linear_2009_2013,any_transfer_in_zfill,hh_year,conditional_base2009_by_year,-0.0022478278382986033,0.005779237177894725,0.6973139610763726,5482.0,21.0,17.0,ok
+full,future_high,linear_2009_2013,any_transfer_in_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+full,future_high,linear_2009_2013,any_transfer_in_zfill,hh_provyear,conditional_base2009_by_year,,,,5482.0,21.0,17.0,ok
+full,future_high,linear_2009_2013,asinh_transfer_in_area_zfill,hh_year,unconditional,0.0020713973685281047,0.004973535678130193,0.6770559707413535,5482.0,21.0,17.0,ok
+full,future_high,linear_2009_2013,asinh_transfer_in_area_zfill,hh_year,conditional_base2009_by_year,-0.007207800834443468,0.006936342329973987,0.29874163698272516,5482.0,21.0,17.0,ok
+full,future_high,linear_2009_2013,asinh_transfer_in_area_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+full,future_high,linear_2009_2013,asinh_transfer_in_area_zfill,hh_provyear,conditional_base2009_by_year,,,,5482.0,21.0,17.0,ok
+full,future_high,linear_2009_2013,asinh_operated_area_end,hh_year,unconditional,-0.009850173110094389,0.012695840717591523,0.43783266978368074,4378.0,21.0,17.0,ok
+full,future_high,linear_2009_2013,asinh_operated_area_end,hh_year,conditional_base2009_by_year,-0.013473434550560227,0.0162977333196072,0.40840369788338227,4378.0,21.0,17.0,ok
+full,future_high,linear_2009_2013,asinh_operated_area_end,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+full,future_high,linear_2009_2013,asinh_operated_area_end,hh_provyear,conditional_base2009_by_year,,,,4378.0,21.0,17.0,ok
+full,future_high,linear_2009_2013,asinh_market_volume_area_zfill,hh_year,unconditional,-0.006811247719156239,0.01386812496441949,0.623324534229564,5482.0,21.0,17.0,ok
+full,future_high,linear_2009_2013,asinh_market_volume_area_zfill,hh_year,conditional_base2009_by_year,-0.01826264567790804,0.021016679114244787,0.3848692128589729,5482.0,21.0,17.0,ok
+full,future_high,linear_2009_2013,asinh_market_volume_area_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+full,future_high,linear_2009_2013,asinh_market_volume_area_zfill,hh_provyear,conditional_base2009_by_year,,,,5482.0,21.0,17.0,ok
+full,future_high,linear_2009_2014,any_transfer_in_zfill,hh_year,unconditional,0.0008768520370374876,0.0020673406457954566,0.6714601258710826,6604.0,21.0,17.0,ok
+full,future_high,linear_2009_2014,any_transfer_in_zfill,hh_year,conditional_base2009_by_year,-0.0025695473574379097,0.003950405331331195,0.5154005739368638,6604.0,21.0,17.0,ok
+full,future_high,linear_2009_2014,any_transfer_in_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+full,future_high,linear_2009_2014,any_transfer_in_zfill,hh_provyear,conditional_base2009_by_year,,,,6604.0,21.0,17.0,ok
+full,future_high,linear_2009_2014,asinh_transfer_in_area_zfill,hh_year,unconditional,0.0013204554224942521,0.0033960182518978713,0.6974059052732895,6604.0,21.0,17.0,ok
+full,future_high,linear_2009_2014,asinh_transfer_in_area_zfill,hh_year,conditional_base2009_by_year,-0.006433317898307221,0.0028862746334914068,0.025818244969384743,6604.0,21.0,17.0,ok
+full,future_high,linear_2009_2014,asinh_transfer_in_area_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+full,future_high,linear_2009_2014,asinh_transfer_in_area_zfill,hh_provyear,conditional_base2009_by_year,,,,6604.0,21.0,17.0,ok
+full,future_high,linear_2009_2014,asinh_operated_area_end,hh_year,unconditional,-0.012524567871977504,0.014221534252731012,0.3784930591670618,5269.0,21.0,17.0,ok
+full,future_high,linear_2009_2014,asinh_operated_area_end,hh_year,conditional_base2009_by_year,-0.006421840893314325,0.023181322833944657,0.7817597526850847,5269.0,21.0,17.0,ok
+full,future_high,linear_2009_2014,asinh_operated_area_end,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+full,future_high,linear_2009_2014,asinh_operated_area_end,hh_provyear,conditional_base2009_by_year,,,,5269.0,21.0,17.0,ok
+full,future_high,linear_2009_2014,asinh_market_volume_area_zfill,hh_year,unconditional,-0.0045940787777812445,0.014554053626997448,0.752263396380852,6604.0,21.0,17.0,ok
+full,future_high,linear_2009_2014,asinh_market_volume_area_zfill,hh_year,conditional_base2009_by_year,-0.0392446758517681,0.020237944197316997,0.05248147373467515,6604.0,21.0,17.0,ok
+full,future_high,linear_2009_2014,asinh_market_volume_area_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+full,future_high,linear_2009_2014,asinh_market_volume_area_zfill,hh_provyear,conditional_base2009_by_year,,,,6604.0,21.0,17.0,ok
+full,future_high,placebo_post2013,any_transfer_in_zfill,hh_year,unconditional,0.0003151605781418693,0.00662582632487935,0.9620625476202158,6604.0,21.0,17.0,ok
+full,future_high,placebo_post2013,any_transfer_in_zfill,hh_year,conditional_base2009_by_year,-0.012258677434450464,0.017878060811133748,0.4929132033401732,6604.0,21.0,17.0,ok
+full,future_high,placebo_post2013,any_transfer_in_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+full,future_high,placebo_post2013,any_transfer_in_zfill,hh_provyear,conditional_base2009_by_year,,,,6604.0,21.0,17.0,ok
+full,future_high,placebo_post2013,asinh_transfer_in_area_zfill,hh_year,unconditional,0.0012471890074412487,0.009793299438457746,0.8986623921939203,6604.0,21.0,17.0,ok
+full,future_high,placebo_post2013,asinh_transfer_in_area_zfill,hh_year,conditional_base2009_by_year,-0.016654035860796907,0.012747098122123246,0.1913838543630526,6604.0,21.0,17.0,ok
+full,future_high,placebo_post2013,asinh_transfer_in_area_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+full,future_high,placebo_post2013,asinh_transfer_in_area_zfill,hh_provyear,conditional_base2009_by_year,,,,6604.0,21.0,17.0,ok
+full,future_high,placebo_post2013,asinh_operated_area_end,hh_year,unconditional,-0.049833223246347466,0.04989560290410984,0.31791591136222963,5269.0,21.0,17.0,ok
+full,future_high,placebo_post2013,asinh_operated_area_end,hh_year,conditional_base2009_by_year,-0.020379862682642847,0.08612337905135176,0.8129394527393364,5269.0,21.0,17.0,ok
+full,future_high,placebo_post2013,asinh_operated_area_end,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+full,future_high,placebo_post2013,asinh_operated_area_end,hh_provyear,conditional_base2009_by_year,,,,5269.0,21.0,17.0,ok
+full,future_high,placebo_post2013,asinh_market_volume_area_zfill,hh_year,unconditional,-0.005898511938673871,0.04529997184779516,0.8964002375987026,6604.0,21.0,17.0,ok
+full,future_high,placebo_post2013,asinh_market_volume_area_zfill,hh_year,conditional_base2009_by_year,-0.14039966258170394,0.06974033708704461,0.044095981833522355,6604.0,21.0,17.0,ok
+full,future_high,placebo_post2013,asinh_market_volume_area_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+full,future_high,placebo_post2013,asinh_market_volume_area_zfill,hh_provyear,conditional_base2009_by_year,,,,6604.0,21.0,17.0,ok
+full,future_high,placebo_post2014,any_transfer_in_zfill,hh_year,unconditional,-0.0003397889651662924,0.00788706114717651,0.9656363097141197,6604.0,21.0,17.0,ok
+full,future_high,placebo_post2014,any_transfer_in_zfill,hh_year,conditional_base2009_by_year,-0.015308518305621164,0.02119066645282002,0.4700375400909351,6604.0,21.0,17.0,ok
+full,future_high,placebo_post2014,any_transfer_in_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+full,future_high,placebo_post2014,any_transfer_in_zfill,hh_provyear,conditional_base2009_by_year,,,,6604.0,21.0,17.0,ok
+full,future_high,placebo_post2014,asinh_transfer_in_area_zfill,hh_year,unconditional,0.00020468853649574056,0.01076518308639732,0.9848299855604851,6604.0,21.0,17.0,ok
+full,future_high,placebo_post2014,asinh_transfer_in_area_zfill,hh_year,conditional_base2009_by_year,-0.024754467571180976,0.01041861945674128,0.01750224703524355,6604.0,21.0,17.0,ok
+full,future_high,placebo_post2014,asinh_transfer_in_area_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+full,future_high,placebo_post2014,asinh_transfer_in_area_zfill,hh_provyear,conditional_base2009_by_year,,,,6604.0,21.0,17.0,ok
+full,future_high,placebo_post2014,asinh_operated_area_end,hh_year,unconditional,-0.05241026851029352,0.053758219702117055,0.3295971303834577,5269.0,21.0,17.0,ok
+full,future_high,placebo_post2014,asinh_operated_area_end,hh_year,conditional_base2009_by_year,-0.015961916417261374,0.09820263943488255,0.8708801552963669,5269.0,21.0,17.0,ok
+full,future_high,placebo_post2014,asinh_operated_area_end,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+full,future_high,placebo_post2014,asinh_operated_area_end,hh_provyear,conditional_base2009_by_year,,,,5269.0,21.0,17.0,ok
+full,future_high,placebo_post2014,asinh_market_volume_area_zfill,hh_year,unconditional,-0.01257029211589057,0.05470669257396724,0.8182657338236975,6604.0,21.0,17.0,ok
+full,future_high,placebo_post2014,asinh_market_volume_area_zfill,hh_year,conditional_base2009_by_year,-0.17207988487914183,0.07856852464076815,0.02851056361372449,6604.0,21.0,17.0,ok
+full,future_high,placebo_post2014,asinh_market_volume_area_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+full,future_high,placebo_post2014,asinh_market_volume_area_zfill,hh_provyear,conditional_base2009_by_year,,,,6604.0,21.0,17.0,ok
+overlap,future_high,linear_2009_2013,any_transfer_in_zfill,hh_year,unconditional,0.005130462046061603,0.0047519586497034305,0.2802971399495763,1510.0,21.0,17.0,ok
+overlap,future_high,linear_2009_2013,any_transfer_in_zfill,hh_year,conditional_base2009_by_year,0.005901266638737535,0.007992995601189599,0.4603292791868765,1510.0,21.0,17.0,ok
+overlap,future_high,linear_2009_2013,any_transfer_in_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+overlap,future_high,linear_2009_2013,any_transfer_in_zfill,hh_provyear,conditional_base2009_by_year,,,,1510.0,21.0,17.0,ok
+overlap,future_high,linear_2009_2013,asinh_transfer_in_area_zfill,hh_year,unconditional,-0.002151159923065172,0.003828696314301428,0.5742169946460288,1510.0,21.0,17.0,ok
+overlap,future_high,linear_2009_2013,asinh_transfer_in_area_zfill,hh_year,conditional_base2009_by_year,-0.004177638588188156,0.008139386161010231,0.6077679782963743,1510.0,21.0,17.0,ok
+overlap,future_high,linear_2009_2013,asinh_transfer_in_area_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+overlap,future_high,linear_2009_2013,asinh_transfer_in_area_zfill,hh_provyear,conditional_base2009_by_year,,,,1510.0,21.0,17.0,ok
+overlap,future_high,linear_2009_2013,asinh_operated_area_end,hh_year,unconditional,-0.004503993769574786,0.010482379096242814,0.6674336309798288,1234.0,21.0,17.0,ok
+overlap,future_high,linear_2009_2013,asinh_operated_area_end,hh_year,conditional_base2009_by_year,-0.001128295193913426,0.015620991179791661,0.9424193294229037,1234.0,21.0,17.0,ok
+overlap,future_high,linear_2009_2013,asinh_operated_area_end,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+overlap,future_high,linear_2009_2013,asinh_operated_area_end,hh_provyear,conditional_base2009_by_year,,,,1234.0,21.0,17.0,ok
+overlap,future_high,linear_2009_2013,asinh_market_volume_area_zfill,hh_year,unconditional,-0.017939285049958422,0.015076042244312573,0.23407781433198005,1510.0,21.0,17.0,ok
+overlap,future_high,linear_2009_2013,asinh_market_volume_area_zfill,hh_year,conditional_base2009_by_year,-0.0129978449467286,0.03159133706249355,0.6807521278853487,1510.0,21.0,17.0,ok
+overlap,future_high,linear_2009_2013,asinh_market_volume_area_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+overlap,future_high,linear_2009_2013,asinh_market_volume_area_zfill,hh_provyear,conditional_base2009_by_year,,,,1510.0,21.0,17.0,ok
+overlap,future_high,linear_2009_2014,any_transfer_in_zfill,hh_year,unconditional,0.006127215383260422,0.003488749481756972,0.07904088235291408,1822.0,21.0,17.0,ok
+overlap,future_high,linear_2009_2014,any_transfer_in_zfill,hh_year,conditional_base2009_by_year,0.011264920934574481,0.0069647819745207555,0.10578940838636433,1822.0,21.0,17.0,ok
+overlap,future_high,linear_2009_2014,any_transfer_in_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+overlap,future_high,linear_2009_2014,any_transfer_in_zfill,hh_provyear,conditional_base2009_by_year,,,,1822.0,21.0,17.0,ok
+overlap,future_high,linear_2009_2014,asinh_transfer_in_area_zfill,hh_year,unconditional,0.007978740616606085,0.0050894595264433734,0.11695139487960814,1822.0,21.0,17.0,ok
+overlap,future_high,linear_2009_2014,asinh_transfer_in_area_zfill,hh_year,conditional_base2009_by_year,0.009863311125695903,0.009616306484680011,0.3050396060623395,1822.0,21.0,17.0,ok
+overlap,future_high,linear_2009_2014,asinh_transfer_in_area_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+overlap,future_high,linear_2009_2014,asinh_transfer_in_area_zfill,hh_provyear,conditional_base2009_by_year,,,,1822.0,21.0,17.0,ok
+overlap,future_high,linear_2009_2014,asinh_operated_area_end,hh_year,unconditional,-0.015463063642285313,0.014656492965264452,0.291410859624184,1486.0,21.0,17.0,ok
+overlap,future_high,linear_2009_2014,asinh_operated_area_end,hh_year,conditional_base2009_by_year,0.005508807882076353,0.021557651157242976,0.7983072818172312,1486.0,21.0,17.0,ok
+overlap,future_high,linear_2009_2014,asinh_operated_area_end,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+overlap,future_high,linear_2009_2014,asinh_operated_area_end,hh_provyear,conditional_base2009_by_year,,,,1486.0,21.0,17.0,ok
+overlap,future_high,linear_2009_2014,asinh_market_volume_area_zfill,hh_year,unconditional,0.005118370800205404,0.012233924481865095,0.6756728039961135,1822.0,21.0,17.0,ok
+overlap,future_high,linear_2009_2014,asinh_market_volume_area_zfill,hh_year,conditional_base2009_by_year,-0.013819661700972933,0.017561438340260756,0.43132154361450215,1822.0,21.0,17.0,ok
+overlap,future_high,linear_2009_2014,asinh_market_volume_area_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+overlap,future_high,linear_2009_2014,asinh_market_volume_area_zfill,hh_provyear,conditional_base2009_by_year,,,,1822.0,21.0,17.0,ok
+overlap,future_high,placebo_post2013,any_transfer_in_zfill,hh_year,unconditional,0.019290718525995648,0.01485281752861292,0.1940153684081507,1822.0,21.0,17.0,ok
+overlap,future_high,placebo_post2013,any_transfer_in_zfill,hh_year,conditional_base2009_by_year,0.03981692477325481,0.029279686752671355,0.17386720532496736,1822.0,21.0,17.0,ok
+overlap,future_high,placebo_post2013,any_transfer_in_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+overlap,future_high,placebo_post2013,any_transfer_in_zfill,hh_provyear,conditional_base2009_by_year,,,,1822.0,21.0,17.0,ok
+overlap,future_high,placebo_post2013,asinh_transfer_in_area_zfill,hh_year,unconditional,0.03318663006873209,0.025098672357735698,0.18608610284413674,1822.0,21.0,17.0,ok
+overlap,future_high,placebo_post2013,asinh_transfer_in_area_zfill,hh_year,conditional_base2009_by_year,0.052283836851964104,0.038307796442699577,0.1723047883883706,1822.0,21.0,17.0,ok
+overlap,future_high,placebo_post2013,asinh_transfer_in_area_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+overlap,future_high,placebo_post2013,asinh_transfer_in_area_zfill,hh_provyear,conditional_base2009_by_year,,,,1822.0,21.0,17.0,ok
+overlap,future_high,placebo_post2013,asinh_operated_area_end,hh_year,unconditional,-0.07009171610255005,0.06202671675070298,0.258465856741361,1486.0,21.0,17.0,ok
+overlap,future_high,placebo_post2013,asinh_operated_area_end,hh_year,conditional_base2009_by_year,0.019273387922009392,0.0900612096164287,0.8305445542321941,1486.0,21.0,17.0,ok
+overlap,future_high,placebo_post2013,asinh_operated_area_end,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+overlap,future_high,placebo_post2013,asinh_operated_area_end,hh_provyear,conditional_base2009_by_year,,,,1486.0,21.0,17.0,ok
+overlap,future_high,placebo_post2013,asinh_market_volume_area_zfill,hh_year,unconditional,0.041442277907854756,0.040219843317494106,0.30282517414726284,1822.0,21.0,17.0,ok
+overlap,future_high,placebo_post2013,asinh_market_volume_area_zfill,hh_year,conditional_base2009_by_year,-0.046652233190262425,0.05603672397228205,0.4051100595286026,1822.0,21.0,17.0,ok
+overlap,future_high,placebo_post2013,asinh_market_volume_area_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+overlap,future_high,placebo_post2013,asinh_market_volume_area_zfill,hh_provyear,conditional_base2009_by_year,,,,1822.0,21.0,17.0,ok
+overlap,future_high,placebo_post2014,any_transfer_in_zfill,hh_year,unconditional,0.022108250022033527,0.017159545787239352,0.1976089641506925,1822.0,21.0,17.0,ok
+overlap,future_high,placebo_post2014,any_transfer_in_zfill,hh_year,conditional_base2009_by_year,0.05283776053442938,0.032304863812598,0.10192381475859583,1822.0,21.0,17.0,ok
+overlap,future_high,placebo_post2014,any_transfer_in_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+overlap,future_high,placebo_post2014,any_transfer_in_zfill,hh_provyear,conditional_base2009_by_year,,,,1822.0,21.0,17.0,ok
+overlap,future_high,placebo_post2014,asinh_transfer_in_area_zfill,hh_year,unconditional,0.043603056760694626,0.0242348280891064,0.07198865416981651,1822.0,21.0,17.0,ok
+overlap,future_high,placebo_post2014,asinh_transfer_in_area_zfill,hh_year,conditional_base2009_by_year,0.06990050513708225,0.04238607713129814,0.09911929532979137,1822.0,21.0,17.0,ok
+overlap,future_high,placebo_post2014,asinh_transfer_in_area_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+overlap,future_high,placebo_post2014,asinh_transfer_in_area_zfill,hh_provyear,conditional_base2009_by_year,,,,1822.0,21.0,17.0,ok
+overlap,future_high,placebo_post2014,asinh_operated_area_end,hh_year,unconditional,-0.07858753283556325,0.0662673759034273,0.2356555246997155,1486.0,21.0,17.0,ok
+overlap,future_high,placebo_post2014,asinh_operated_area_end,hh_year,conditional_base2009_by_year,0.02937113287652959,0.11205445754660365,0.7932329289356821,1486.0,21.0,17.0,ok
+overlap,future_high,placebo_post2014,asinh_operated_area_end,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+overlap,future_high,placebo_post2014,asinh_operated_area_end,hh_provyear,conditional_base2009_by_year,,,,1486.0,21.0,17.0,ok
+overlap,future_high,placebo_post2014,asinh_market_volume_area_zfill,hh_year,unconditional,0.056613875872682136,0.03969638187022327,0.15381864492423233,1822.0,21.0,17.0,ok
+overlap,future_high,placebo_post2014,asinh_market_volume_area_zfill,hh_year,conditional_base2009_by_year,-0.034219121818326016,0.060012295639987945,0.568540803499133,1822.0,21.0,17.0,ok
+overlap,future_high,placebo_post2014,asinh_market_volume_area_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+overlap,future_high,placebo_post2014,asinh_market_volume_area_zfill,hh_provyear,conditional_base2009_by_year,,,,1822.0,21.0,17.0,ok
+long,future_high,linear_2009_2013,any_transfer_in_zfill,hh_year,unconditional,0.0017024714024310055,0.0027747829361610063,0.5395119389353581,925.0,14.0,12.0,ok
+long,future_high,linear_2009_2013,any_transfer_in_zfill,hh_year,conditional_base2009_by_year,0.0044331614398692406,0.007263304186560202,0.5416296419676062,925.0,14.0,12.0,ok
+long,future_high,linear_2009_2013,any_transfer_in_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+long,future_high,linear_2009_2013,any_transfer_in_zfill,hh_provyear,conditional_base2009_by_year,,,,925.0,14.0,12.0,ok
+long,future_high,linear_2009_2013,asinh_transfer_in_area_zfill,hh_year,unconditional,-0.0036771438844440682,0.00458600468141405,0.42265789380267327,925.0,14.0,12.0,ok
+long,future_high,linear_2009_2013,asinh_transfer_in_area_zfill,hh_year,conditional_base2009_by_year,-0.013901839539514845,0.00830618603772129,0.09419487738226781,925.0,14.0,12.0,ok
+long,future_high,linear_2009_2013,asinh_transfer_in_area_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+long,future_high,linear_2009_2013,asinh_transfer_in_area_zfill,hh_provyear,conditional_base2009_by_year,,,,925.0,14.0,12.0,ok
+long,future_high,linear_2009_2013,asinh_operated_area_end,hh_year,unconditional,-0.011497059895574929,0.014988875732961694,0.44305802495153956,763.0,14.0,12.0,ok
+long,future_high,linear_2009_2013,asinh_operated_area_end,hh_year,conditional_base2009_by_year,0.0018066207021267924,0.01784001023275866,0.9193377825778382,763.0,14.0,12.0,ok
+long,future_high,linear_2009_2013,asinh_operated_area_end,hh_provyear,unconditional,2365.4494567885995,261184864.59206298,0.9999927738707071,761.0,13.0,12.0,ok
+long,future_high,linear_2009_2013,asinh_operated_area_end,hh_provyear,conditional_base2009_by_year,2114.1763357147574,2569.8966876291997,0.410695806516852,761.0,13.0,12.0,ok
+long,future_high,linear_2009_2013,asinh_market_volume_area_zfill,hh_year,unconditional,-0.02578866639747106,0.016956421182238748,0.1282901824555503,925.0,14.0,12.0,ok
+long,future_high,linear_2009_2013,asinh_market_volume_area_zfill,hh_year,conditional_base2009_by_year,-0.022323375998458798,0.02888895938347573,0.4396819748308384,925.0,14.0,12.0,ok
+long,future_high,linear_2009_2013,asinh_market_volume_area_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+long,future_high,linear_2009_2013,asinh_market_volume_area_zfill,hh_provyear,conditional_base2009_by_year,,,,925.0,14.0,12.0,ok
+long,future_high,linear_2009_2014,any_transfer_in_zfill,hh_year,unconditional,-0.0004383963407733232,0.002230225042640555,0.8441636966984336,1118.0,14.0,12.0,ok
+long,future_high,linear_2009_2014,any_transfer_in_zfill,hh_year,conditional_base2009_by_year,0.0034606757851399373,0.003915126581854489,0.3767370424763071,1118.0,14.0,12.0,ok
+long,future_high,linear_2009_2014,any_transfer_in_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+long,future_high,linear_2009_2014,any_transfer_in_zfill,hh_provyear,conditional_base2009_by_year,,,,1118.0,14.0,12.0,ok
+long,future_high,linear_2009_2014,asinh_transfer_in_area_zfill,hh_year,unconditional,-0.0034396826156563765,0.0035641771554118583,0.3345094472099873,1118.0,14.0,12.0,ok
+long,future_high,linear_2009_2014,asinh_transfer_in_area_zfill,hh_year,conditional_base2009_by_year,-0.00315168813539959,0.005039889566624143,0.5317422565494044,1118.0,14.0,12.0,ok
+long,future_high,linear_2009_2014,asinh_transfer_in_area_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+long,future_high,linear_2009_2014,asinh_transfer_in_area_zfill,hh_provyear,conditional_base2009_by_year,,,,1118.0,14.0,12.0,ok
+long,future_high,linear_2009_2014,asinh_operated_area_end,hh_year,unconditional,-0.021506977677822708,0.019140061594547286,0.26115604857155195,932.0,14.0,12.0,ok
+long,future_high,linear_2009_2014,asinh_operated_area_end,hh_year,conditional_base2009_by_year,0.007620047874573386,0.01418823790949015,0.5912206770931343,932.0,14.0,12.0,ok
+long,future_high,linear_2009_2014,asinh_operated_area_end,hh_provyear,unconditional,38.36538326740265,216087834.61630762,0.9999998583393321,930.0,13.0,12.0,ok
+long,future_high,linear_2009_2014,asinh_operated_area_end,hh_provyear,conditional_base2009_by_year,38.406078934669495,55.71889816342429,0.49064531071041084,930.0,13.0,12.0,ok
+long,future_high,linear_2009_2014,asinh_market_volume_area_zfill,hh_year,unconditional,-0.01619192303594473,0.014391600191163001,0.2605486144351382,1118.0,14.0,12.0,ok
+long,future_high,linear_2009_2014,asinh_market_volume_area_zfill,hh_year,conditional_base2009_by_year,-0.0187897599934816,0.019813762283666898,0.34296726714527803,1118.0,14.0,12.0,ok
+long,future_high,linear_2009_2014,asinh_market_volume_area_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+long,future_high,linear_2009_2014,asinh_market_volume_area_zfill,hh_provyear,conditional_base2009_by_year,,,,1118.0,14.0,12.0,ok
+long,future_high,placebo_post2013,any_transfer_in_zfill,hh_year,unconditional,-0.0056885501210758764,0.005451560110207562,0.2967297601454406,1118.0,14.0,12.0,ok
+long,future_high,placebo_post2013,any_transfer_in_zfill,hh_year,conditional_base2009_by_year,-0.005273553901791677,0.008668181999645672,0.5429350648223483,1118.0,14.0,12.0,ok
+long,future_high,placebo_post2013,any_transfer_in_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+long,future_high,placebo_post2013,any_transfer_in_zfill,hh_provyear,conditional_base2009_by_year,,,,1118.0,14.0,12.0,ok
+long,future_high,placebo_post2013,asinh_transfer_in_area_zfill,hh_year,unconditional,-0.015097655438093303,0.011069704704273627,0.1726079927564389,1118.0,14.0,12.0,ok
+long,future_high,placebo_post2013,asinh_transfer_in_area_zfill,hh_year,conditional_base2009_by_year,-0.0014779660221734738,0.01718648904842451,0.9314697491620232,1118.0,14.0,12.0,ok
+long,future_high,placebo_post2013,asinh_transfer_in_area_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+long,future_high,placebo_post2013,asinh_transfer_in_area_zfill,hh_provyear,conditional_base2009_by_year,,,,1118.0,14.0,12.0,ok
+long,future_high,placebo_post2013,asinh_operated_area_end,hh_year,unconditional,-0.08950500072061549,0.07734526741287517,0.24718507427516245,932.0,14.0,12.0,ok
+long,future_high,placebo_post2013,asinh_operated_area_end,hh_year,conditional_base2009_by_year,0.029339968587712945,0.07146191140923995,0.6813893881019081,932.0,14.0,12.0,ok
+long,future_high,placebo_post2013,asinh_operated_area_end,hh_provyear,unconditional,15.553629770874977,17262838.19736409,0.9999992811146744,930.0,13.0,12.0,ok
+long,future_high,placebo_post2013,asinh_operated_area_end,hh_provyear,conditional_base2009_by_year,13.594206422567368,24.362367565874983,0.5768442350328689,930.0,13.0,12.0,ok
+long,future_high,placebo_post2013,asinh_market_volume_area_zfill,hh_year,unconditional,-0.012396066229105012,0.041982356162474005,0.7677887977415142,1118.0,14.0,12.0,ok
+long,future_high,placebo_post2013,asinh_market_volume_area_zfill,hh_year,conditional_base2009_by_year,-0.0599273034554278,0.06000107112635756,0.3179058502110591,1118.0,14.0,12.0,ok
+long,future_high,placebo_post2013,asinh_market_volume_area_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+long,future_high,placebo_post2013,asinh_market_volume_area_zfill,hh_provyear,conditional_base2009_by_year,,,,1118.0,14.0,12.0,ok
+long,future_high,placebo_post2014,any_transfer_in_zfill,hh_year,unconditional,-0.011843876962299698,0.008496168933126215,0.1633098753614466,1118.0,14.0,12.0,ok
+long,future_high,placebo_post2014,any_transfer_in_zfill,hh_year,conditional_base2009_by_year,0.0026925764238862372,0.008843136367213006,0.7607606544202097,1118.0,14.0,12.0,ok
+long,future_high,placebo_post2014,any_transfer_in_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+long,future_high,placebo_post2014,any_transfer_in_zfill,hh_provyear,conditional_base2009_by_year,,,,1118.0,14.0,12.0,ok
+long,future_high,placebo_post2014,asinh_transfer_in_area_zfill,hh_year,unconditional,-0.01041610350333532,0.013504165881227244,0.4405141967304723,1118.0,14.0,12.0,ok
+long,future_high,placebo_post2014,asinh_transfer_in_area_zfill,hh_year,conditional_base2009_by_year,0.019678749571721343,0.013949999125660245,0.15834396439645226,1118.0,14.0,12.0,ok
+long,future_high,placebo_post2014,asinh_transfer_in_area_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+long,future_high,placebo_post2014,asinh_transfer_in_area_zfill,hh_provyear,conditional_base2009_by_year,,,,1118.0,14.0,12.0,ok
+long,future_high,placebo_post2014,asinh_operated_area_end,hh_year,unconditional,-0.09806643023672605,0.07039557167896411,0.163596600043301,932.0,14.0,12.0,ok
+long,future_high,placebo_post2014,asinh_operated_area_end,hh_year,conditional_base2009_by_year,0.028871597067446943,0.06165407070067069,0.6395817149693273,932.0,14.0,12.0,ok
+long,future_high,placebo_post2014,asinh_operated_area_end,hh_provyear,unconditional,26.514114767313004,26717232.139697503,0.999999208181345,930.0,13.0,12.0,ok
+long,future_high,placebo_post2014,asinh_operated_area_end,hh_provyear,conditional_base2009_by_year,26.260326236486435,17.053762246817012,0.12359562791537321,930.0,13.0,12.0,ok
+long,future_high,placebo_post2014,asinh_market_volume_area_zfill,hh_year,unconditional,-0.0038759221738131036,0.04949681634128837,0.9375842515095477,1118.0,14.0,12.0,ok
+long,future_high,placebo_post2014,asinh_market_volume_area_zfill,hh_year,conditional_base2009_by_year,-0.04351108791224236,0.050057224958025115,0.3847230210944572,1118.0,14.0,12.0,ok
+long,future_high,placebo_post2014,asinh_market_volume_area_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+long,future_high,placebo_post2014,asinh_market_volume_area_zfill,hh_provyear,conditional_base2009_by_year,,,,1118.0,14.0,12.0,ok
+full,future_any,linear_2009_2013,any_transfer_in_zfill,hh_year,unconditional,2.376554624678608e-06,0.0055781530343040646,0.9996600637928166,6986.0,28.0,21.0,ok
+full,future_any,linear_2009_2013,any_transfer_in_zfill,hh_year,conditional_base2009_by_year,-0.0025003245994559714,0.004632352500182718,0.5893676160937522,6986.0,28.0,21.0,ok
+full,future_any,linear_2009_2013,any_transfer_in_zfill,hh_provyear,unconditional,0.006072985327589839,170906.7001016283,0.9999999716480323,6986.0,28.0,21.0,ok
+full,future_any,linear_2009_2013,any_transfer_in_zfill,hh_provyear,conditional_base2009_by_year,0.020349610105155465,57885.32578055351,0.9999997195033542,6986.0,28.0,21.0,ok
+full,future_any,linear_2009_2013,asinh_transfer_in_area_zfill,hh_year,unconditional,-0.0014327971550208822,0.00966727686837613,0.8821762196781616,6986.0,28.0,21.0,ok
+full,future_any,linear_2009_2013,asinh_transfer_in_area_zfill,hh_year,conditional_base2009_by_year,-0.006877993020349492,0.007720263214972927,0.37298208906824837,6986.0,28.0,21.0,ok
+full,future_any,linear_2009_2013,asinh_transfer_in_area_zfill,hh_provyear,unconditional,0.0027129686715321594,118294.922364077,0.9999999817013632,6986.0,28.0,21.0,ok
+full,future_any,linear_2009_2013,asinh_transfer_in_area_zfill,hh_provyear,conditional_base2009_by_year,0.012815744171396375,146869.79870852057,0.999999930377215,6986.0,28.0,21.0,ok
+full,future_any,linear_2009_2013,asinh_operated_area_end,hh_year,unconditional,-0.0010993159225314423,0.01240078117355306,0.9293609244361979,5368.0,27.0,21.0,ok
+full,future_any,linear_2009_2013,asinh_operated_area_end,hh_year,conditional_base2009_by_year,0.009127119810442967,0.012857207553532915,0.4777763681591367,5368.0,27.0,21.0,ok
+full,future_any,linear_2009_2013,asinh_operated_area_end,hh_provyear,unconditional,-0.07447319267740445,444737.85503759346,0.9999998663909313,5368.0,27.0,21.0,ok
+full,future_any,linear_2009_2013,asinh_operated_area_end,hh_provyear,conditional_base2009_by_year,-0.06326396746986636,749642.5398619857,0.9999999326647833,5368.0,27.0,21.0,ok
+full,future_any,linear_2009_2013,asinh_market_volume_area_zfill,hh_year,unconditional,-0.011447740848937396,0.022882785435137682,0.6168797514131681,6986.0,28.0,21.0,ok
+full,future_any,linear_2009_2013,asinh_market_volume_area_zfill,hh_year,conditional_base2009_by_year,-0.021977087057983187,0.022541963169934308,0.32958946224452024,6986.0,28.0,21.0,ok
+full,future_any,linear_2009_2013,asinh_market_volume_area_zfill,hh_provyear,unconditional,0.01023255263705065,639164.0008940487,0.9999999872264462,6986.0,28.0,21.0,ok
+full,future_any,linear_2009_2013,asinh_market_volume_area_zfill,hh_provyear,conditional_base2009_by_year,0.07126828458045653,533189.9584703486,0.999999893351585,6986.0,28.0,21.0,ok
+full,future_any,linear_2009_2014,any_transfer_in_zfill,hh_year,unconditional,-0.0005678573996449971,0.005930367223383702,0.9237158159534075,8466.0,28.0,21.0,ok
+full,future_any,linear_2009_2014,any_transfer_in_zfill,hh_year,conditional_base2009_by_year,-0.0014771294347891294,0.004975312183642528,0.7665491098179872,8466.0,28.0,21.0,ok
+full,future_any,linear_2009_2014,any_transfer_in_zfill,hh_provyear,unconditional,-0.061379016925968116,330509.36914854846,0.9999998518245637,8466.0,28.0,21.0,ok
+full,future_any,linear_2009_2014,any_transfer_in_zfill,hh_provyear,conditional_base2009_by_year,-0.03927714353113073,393810.182005414,0.9999999204220006,8466.0,28.0,21.0,ok
+full,future_any,linear_2009_2014,asinh_transfer_in_area_zfill,hh_year,unconditional,-0.0017800236039781946,0.010287280273616878,0.8626266624911472,8466.0,28.0,21.0,ok
+full,future_any,linear_2009_2014,asinh_transfer_in_area_zfill,hh_year,conditional_base2009_by_year,-0.004546851388234741,0.008725286790979926,0.6022887728593578,8466.0,28.0,21.0,ok
+full,future_any,linear_2009_2014,asinh_transfer_in_area_zfill,hh_provyear,unconditional,-0.09899188676101578,538727.193947379,0.9999998533875791,8466.0,28.0,21.0,ok
+full,future_any,linear_2009_2014,asinh_transfer_in_area_zfill,hh_provyear,conditional_base2009_by_year,-0.07853450227181735,457864.0268689586,0.9999998631439397,8466.0,28.0,21.0,ok
+full,future_any,linear_2009_2014,asinh_operated_area_end,hh_year,unconditional,0.002369522832326168,0.012346874475910251,0.8478105374810879,6501.0,27.0,21.0,ok
+full,future_any,linear_2009_2014,asinh_operated_area_end,hh_year,conditional_base2009_by_year,0.01005224070126816,0.015862852495182243,0.526278638154632,6501.0,27.0,21.0,ok
+full,future_any,linear_2009_2014,asinh_operated_area_end,hh_provyear,unconditional,-0.0037564709558335916,1115464.8191238062,0.9999999973130214,6501.0,27.0,21.0,ok
+full,future_any,linear_2009_2014,asinh_operated_area_end,hh_provyear,conditional_base2009_by_year,0.10803681603882352,461844.78859799507,0.9999998133552448,6501.0,27.0,21.0,ok
+full,future_any,linear_2009_2014,asinh_market_volume_area_zfill,hh_year,unconditional,-0.008559192807136828,0.02118002701141113,0.6861272457934817,8466.0,28.0,21.0,ok
+full,future_any,linear_2009_2014,asinh_market_volume_area_zfill,hh_year,conditional_base2009_by_year,-0.013248342395632301,0.020330472296478136,0.5146272981013573,8466.0,28.0,21.0,ok
+full,future_any,linear_2009_2014,asinh_market_volume_area_zfill,hh_provyear,unconditional,-0.08371053711858223,1640082.3312990845,0.9999999592756145,8466.0,28.0,21.0,ok
+full,future_any,linear_2009_2014,asinh_market_volume_area_zfill,hh_provyear,conditional_base2009_by_year,-0.025632901956854505,639929.5569131934,0.9999999680400812,8466.0,28.0,21.0,ok
+full,future_any,placebo_post2013,any_transfer_in_zfill,hh_year,unconditional,-0.008265903408193727,0.02377139005552292,0.7280468207409059,8466.0,28.0,21.0,ok
+full,future_any,placebo_post2013,any_transfer_in_zfill,hh_year,conditional_base2009_by_year,-0.013489069648702615,0.01956377281591438,0.4905135514730329,8466.0,28.0,21.0,ok
+full,future_any,placebo_post2013,any_transfer_in_zfill,hh_provyear,unconditional,-0.0068754905407243105,266309.5579601989,0.9999999794004849,8466.0,28.0,21.0,ok
+full,future_any,placebo_post2013,any_transfer_in_zfill,hh_provyear,conditional_base2009_by_year,0.058653416203747505,317314.5033874479,0.9999998525164947,8466.0,28.0,21.0,ok
+full,future_any,placebo_post2013,asinh_transfer_in_area_zfill,hh_year,unconditional,-0.0200903879618724,0.04160072617156084,0.629142891921419,8466.0,28.0,21.0,ok
+full,future_any,placebo_post2013,asinh_transfer_in_area_zfill,hh_year,conditional_base2009_by_year,-0.027865898965658668,0.036493585554415016,0.4451154985096788,8466.0,28.0,21.0,ok
+full,future_any,placebo_post2013,asinh_transfer_in_area_zfill,hh_provyear,unconditional,-0.024444360048780735,434082.0995151659,0.9999999550689201,8466.0,28.0,21.0,ok
+full,future_any,placebo_post2013,asinh_transfer_in_area_zfill,hh_provyear,conditional_base2009_by_year,0.022624498718838964,368926.20553538535,0.9999999510695149,8466.0,28.0,21.0,ok
+full,future_any,placebo_post2013,asinh_operated_area_end,hh_year,unconditional,0.008981089387862675,0.04303843693664875,0.8347011674331432,6501.0,27.0,21.0,ok
+full,future_any,placebo_post2013,asinh_operated_area_end,hh_year,conditional_base2009_by_year,0.04313003618858635,0.05429320713100225,0.4269678303828901,6501.0,27.0,21.0,ok
+full,future_any,placebo_post2013,asinh_operated_area_end,hh_provyear,unconditional,-0.21021090422019137,961219.2295175846,0.9999998255090724,6501.0,27.0,21.0,ok
+full,future_any,placebo_post2013,asinh_operated_area_end,hh_provyear,conditional_base2009_by_year,-0.0352930616759448,397981.2584074608,0.9999999292434294,6501.0,27.0,21.0,ok
+full,future_any,placebo_post2013,asinh_market_volume_area_zfill,hh_year,unconditional,-0.05009564662698291,0.07604464302642801,0.5100458635169657,8466.0,28.0,21.0,ok
+full,future_any,placebo_post2013,asinh_market_volume_area_zfill,hh_year,conditional_base2009_by_year,-0.07059245968499253,0.06906533766262056,0.30672824180749847,8466.0,28.0,21.0,ok
+full,future_any,placebo_post2013,asinh_market_volume_area_zfill,hh_provyear,unconditional,0.03281186330281151,1321504.4797554102,0.9999999801891862,8466.0,28.0,21.0,ok
+full,future_any,placebo_post2013,asinh_market_volume_area_zfill,hh_provyear,conditional_base2009_by_year,0.3006365349620984,515626.41095403495,0.9999995347925463,8466.0,28.0,21.0,ok
+full,future_any,placebo_post2014,any_transfer_in_zfill,hh_year,unconditional,0.0005334865824560714,0.021418745858867327,0.9801287758665532,8466.0,28.0,21.0,ok
+full,future_any,placebo_post2014,any_transfer_in_zfill,hh_year,conditional_base2009_by_year,0.004670768700517825,0.0188250255083008,0.8040455329961549,8466.0,28.0,21.0,ok
+full,future_any,placebo_post2014,any_transfer_in_zfill,hh_provyear,unconditional,0.004942446416252352,343070.4745592915,0.9999999885052723,8466.0,28.0,21.0,ok
+full,future_any,placebo_post2014,any_transfer_in_zfill,hh_provyear,conditional_base2009_by_year,0.20606654993891785,1034848.9913006191,0.9999998411195062,8466.0,28.0,21.0,ok
+full,future_any,placebo_post2014,asinh_transfer_in_area_zfill,hh_year,unconditional,-0.00037060466054656213,0.03630925955432785,0.991856220530042,8466.0,28.0,21.0,ok
+full,future_any,placebo_post2014,asinh_transfer_in_area_zfill,hh_year,conditional_base2009_by_year,0.0022130658554966533,0.032596753019145205,0.9458714337576477,8466.0,28.0,21.0,ok
+full,future_any,placebo_post2014,asinh_transfer_in_area_zfill,hh_provyear,unconditional,-0.04491851073747424,559201.673854288,0.9999999359090148,8466.0,28.0,21.0,ok
+full,future_any,placebo_post2014,asinh_transfer_in_area_zfill,hh_provyear,conditional_base2009_by_year,0.056646985844895484,1203168.8098638465,0.9999999624344024,8466.0,28.0,21.0,ok
+full,future_any,placebo_post2014,asinh_operated_area_end,hh_year,unconditional,0.01236950359145999,0.04498087718053089,0.7833202971084763,6501.0,27.0,21.0,ok
+full,future_any,placebo_post2014,asinh_operated_area_end,hh_year,conditional_base2009_by_year,0.02302146648085799,0.05815136469944904,0.6921871590575656,6501.0,27.0,21.0,ok
+full,future_any,placebo_post2014,asinh_operated_area_end,hh_provyear,unconditional,0.15007060358355173,1137723.9346744877,0.9999998947556485,6501.0,27.0,21.0,ok
+full,future_any,placebo_post2014,asinh_operated_area_end,hh_provyear,conditional_base2009_by_year,0.0496863862143293,1161809.241715526,0.9999999658773583,6501.0,27.0,21.0,ok
+full,future_any,placebo_post2014,asinh_market_volume_area_zfill,hh_year,unconditional,-0.010368014364532632,0.07099463233658418,0.8838902756318988,8466.0,28.0,21.0,ok
+full,future_any,placebo_post2014,asinh_market_volume_area_zfill,hh_year,conditional_base2009_by_year,-0.0020951548848051446,0.0694347711642297,0.9759279383590455,8466.0,28.0,21.0,ok
+full,future_any,placebo_post2014,asinh_market_volume_area_zfill,hh_provyear,unconditional,0.16921990407213688,1702414.172979397,0.999999920690305,8466.0,28.0,21.0,ok
+full,future_any,placebo_post2014,asinh_market_volume_area_zfill,hh_provyear,conditional_base2009_by_year,0.9121314792115576,1681598.1354823075,0.9999995672119222,8466.0,28.0,21.0,ok
+overlap,future_any,linear_2009_2013,any_transfer_in_zfill,hh_year,unconditional,-0.0031251385089555695,0.0067520950031477785,0.6434791786248879,1933.0,28.0,21.0,ok
+overlap,future_any,linear_2009_2013,any_transfer_in_zfill,hh_year,conditional_base2009_by_year,-0.0034467681978603572,0.0067060458793009765,0.6072665224752496,1933.0,28.0,21.0,ok
+overlap,future_any,linear_2009_2013,any_transfer_in_zfill,hh_provyear,unconditional,0.002830088489279264,214238.10642881994,0.9999999894599334,1933.0,28.0,21.0,ok
+overlap,future_any,linear_2009_2013,any_transfer_in_zfill,hh_provyear,conditional_base2009_by_year,0.01835421027758795,327531.79297349066,0.9999999552881847,1933.0,28.0,21.0,ok
+overlap,future_any,linear_2009_2013,asinh_transfer_in_area_zfill,hh_year,unconditional,-0.009664027793074416,0.009794032903268628,0.32377693623222903,1933.0,28.0,21.0,ok
+overlap,future_any,linear_2009_2013,asinh_transfer_in_area_zfill,hh_year,conditional_base2009_by_year,-0.012305521728291182,0.009313171512696223,0.18640034445981812,1933.0,28.0,21.0,ok
+overlap,future_any,linear_2009_2013,asinh_transfer_in_area_zfill,hh_provyear,unconditional,0.0019279158475380591,495530.9073539314,0.999999996895745,1933.0,28.0,21.0,ok
+overlap,future_any,linear_2009_2013,asinh_transfer_in_area_zfill,hh_provyear,conditional_base2009_by_year,-0.003899417590192445,601065.2467236777,0.9999999948237149,1933.0,28.0,21.0,ok
+overlap,future_any,linear_2009_2013,asinh_operated_area_end,hh_year,unconditional,0.004887241254577262,0.01682011682529625,0.7713883968040958,1497.0,27.0,21.0,ok
+overlap,future_any,linear_2009_2013,asinh_operated_area_end,hh_year,conditional_base2009_by_year,0.027771723676805884,0.012284422273117523,0.02377617469845844,1497.0,27.0,21.0,ok
+overlap,future_any,linear_2009_2013,asinh_operated_area_end,hh_provyear,unconditional,0.4705095580425863,2724517.1738541727,0.9999998622095997,1497.0,27.0,21.0,ok
+overlap,future_any,linear_2009_2013,asinh_operated_area_end,hh_provyear,conditional_base2009_by_year,0.4584267535971597,2267532.401837273,0.9999998386917741,1497.0,27.0,21.0,ok
+overlap,future_any,linear_2009_2013,asinh_market_volume_area_zfill,hh_year,unconditional,-0.03287722775364582,0.03210602432586362,0.3058255824006403,1933.0,28.0,21.0,ok
+overlap,future_any,linear_2009_2013,asinh_market_volume_area_zfill,hh_year,conditional_base2009_by_year,-0.05094493729049373,0.034038434200549056,0.13447429735845343,1933.0,28.0,21.0,ok
+overlap,future_any,linear_2009_2013,asinh_market_volume_area_zfill,hh_provyear,unconditional,-0.017368952583950614,496786.6335120371,0.9999999721038809,1933.0,28.0,21.0,ok
+overlap,future_any,linear_2009_2013,asinh_market_volume_area_zfill,hh_provyear,conditional_base2009_by_year,-0.05072039894752869,2142736.961928919,0.9999999811133966,1933.0,28.0,21.0,ok
+overlap,future_any,linear_2009_2014,any_transfer_in_zfill,hh_year,unconditional,-0.00182544107682305,0.0059959607100599265,0.7607887847538675,2345.0,28.0,21.0,ok
+overlap,future_any,linear_2009_2014,any_transfer_in_zfill,hh_year,conditional_base2009_by_year,-0.002008989334438125,0.0063650801105853754,0.7522858568240959,2345.0,28.0,21.0,ok
+overlap,future_any,linear_2009_2014,any_transfer_in_zfill,hh_provyear,unconditional,-0.19503749246391117,491513.0556009636,0.9999996833911079,2345.0,28.0,21.0,ok
+overlap,future_any,linear_2009_2014,any_transfer_in_zfill,hh_provyear,conditional_base2009_by_year,-0.1541711392847543,329615.40634311043,0.9999996268051511,2345.0,28.0,21.0,ok
+overlap,future_any,linear_2009_2014,asinh_transfer_in_area_zfill,hh_year,unconditional,-0.006413092850139992,0.008777781326008057,0.4650203231562282,2345.0,28.0,21.0,ok
+overlap,future_any,linear_2009_2014,asinh_transfer_in_area_zfill,hh_year,conditional_base2009_by_year,-0.007486143829676059,0.008535469722378088,0.38045247427177253,2345.0,28.0,21.0,ok
+overlap,future_any,linear_2009_2014,asinh_transfer_in_area_zfill,hh_provyear,unconditional,-0.14603355974138804,1223186.8441418994,0.9999999047423349,2345.0,28.0,21.0,ok
+overlap,future_any,linear_2009_2014,asinh_transfer_in_area_zfill,hh_provyear,conditional_base2009_by_year,-0.14487974485580765,650827.1941075617,0.9999998223840174,2345.0,28.0,21.0,ok
+overlap,future_any,linear_2009_2014,asinh_operated_area_end,hh_year,unconditional,0.00040451918277875106,0.016757509069541213,0.9807412745224411,1815.0,27.0,21.0,ok
+overlap,future_any,linear_2009_2014,asinh_operated_area_end,hh_year,conditional_base2009_by_year,0.02360519270231553,0.019019656478638958,0.21457080897276493,1815.0,27.0,21.0,ok
+overlap,future_any,linear_2009_2014,asinh_operated_area_end,hh_provyear,unconditional,-0.21593137675375565,2925200.707336808,0.9999999411020546,1815.0,27.0,21.0,ok
+overlap,future_any,linear_2009_2014,asinh_operated_area_end,hh_provyear,conditional_base2009_by_year,-0.14546240810434477,1453285.0516170254,0.9999999201380283,1815.0,27.0,21.0,ok
+overlap,future_any,linear_2009_2014,asinh_market_volume_area_zfill,hh_year,unconditional,-0.022958213860963635,0.02462747153183956,0.3512230020545275,2345.0,28.0,21.0,ok
+overlap,future_any,linear_2009_2014,asinh_market_volume_area_zfill,hh_year,conditional_base2009_by_year,-0.033371682012560334,0.024917628086916718,0.18047952319218807,2345.0,28.0,21.0,ok
+overlap,future_any,linear_2009_2014,asinh_market_volume_area_zfill,hh_provyear,unconditional,-0.13044242029581773,1522710.1952957087,0.9999999316495065,2345.0,28.0,21.0,ok
+overlap,future_any,linear_2009_2014,asinh_market_volume_area_zfill,hh_provyear,conditional_base2009_by_year,-0.18116662646361692,2761569.250224535,0.9999999476565529,2345.0,28.0,21.0,ok
+overlap,future_any,placebo_post2013,any_transfer_in_zfill,hh_year,unconditional,-0.007131756109706888,0.02312308835608093,0.7577583827649172,2345.0,28.0,21.0,ok
+overlap,future_any,placebo_post2013,any_transfer_in_zfill,hh_year,conditional_base2009_by_year,-0.01188802252538787,0.02321658000142692,0.6086168384761135,2345.0,28.0,21.0,ok
+overlap,future_any,placebo_post2013,any_transfer_in_zfill,hh_provyear,unconditional,-0.016317461795297767,302390.4725961209,0.999999956944904,2345.0,28.0,21.0,ok
+overlap,future_any,placebo_post2013,any_transfer_in_zfill,hh_provyear,conditional_base2009_by_year,0.0015325544135022828,202787.22881001487,0.999999993970027,2345.0,28.0,21.0,ok
+overlap,future_any,placebo_post2013,asinh_transfer_in_area_zfill,hh_year,unconditional,-0.02590639019111691,0.03386065708288901,0.4442190081116917,2345.0,28.0,21.0,ok
+overlap,future_any,placebo_post2013,asinh_transfer_in_area_zfill,hh_year,conditional_base2009_by_year,-0.02693159026159219,0.034538369115729876,0.4355329804888133,2345.0,28.0,21.0,ok
+overlap,future_any,placebo_post2013,asinh_transfer_in_area_zfill,hh_provyear,unconditional,-0.055810279325380685,752533.5295123515,0.999999940826344,2345.0,28.0,21.0,ok
+overlap,future_any,placebo_post2013,asinh_transfer_in_area_zfill,hh_provyear,conditional_base2009_by_year,-0.09474515276968935,400404.3314381787,0.9999998112016063,2345.0,28.0,21.0,ok
+overlap,future_any,placebo_post2013,asinh_operated_area_end,hh_year,unconditional,-0.007223602677855436,0.06205880431968286,0.9073360735901967,1815.0,27.0,21.0,ok
+overlap,future_any,placebo_post2013,asinh_operated_area_end,hh_year,conditional_base2009_by_year,0.08114939344076678,0.066707017443782,0.2237927605527108,1815.0,27.0,21.0,ok
+overlap,future_any,placebo_post2013,asinh_operated_area_end,hh_provyear,unconditional,0.09224018079305467,2430367.2548460984,0.9999999697177387,1815.0,27.0,21.0,ok
+overlap,future_any,placebo_post2013,asinh_operated_area_end,hh_provyear,conditional_base2009_by_year,0.39726368400318074,2946259.9101666617,0.9999998924159545,1815.0,27.0,21.0,ok
+overlap,future_any,placebo_post2013,asinh_market_volume_area_zfill,hh_year,unconditional,-0.0803891945256657,0.07601808210895217,0.2902830184139712,2345.0,28.0,21.0,ok
+overlap,future_any,placebo_post2013,asinh_market_volume_area_zfill,hh_year,conditional_base2009_by_year,-0.11076178534465783,0.07619153737874645,0.14602168076751285,2345.0,28.0,21.0,ok
+overlap,future_any,placebo_post2013,asinh_market_volume_area_zfill,hh_provyear,unconditional,-0.03962025648797449,936807.3911395813,0.9999999662551863,2345.0,28.0,21.0,ok
+overlap,future_any,placebo_post2013,asinh_market_volume_area_zfill,hh_provyear,conditional_base2009_by_year,-0.10986453575660046,1698982.8802786819,0.9999999484048852,2345.0,28.0,21.0,ok
+overlap,future_any,placebo_post2014,any_transfer_in_zfill,hh_year,unconditional,0.0022695273380243623,0.01861651166157222,0.9029707892745554,2345.0,28.0,21.0,ok
+overlap,future_any,placebo_post2014,any_transfer_in_zfill,hh_year,conditional_base2009_by_year,0.000959022553283037,0.021601929616256493,0.9645893667799832,2345.0,28.0,21.0,ok
+overlap,future_any,placebo_post2014,any_transfer_in_zfill,hh_provyear,unconditional,-0.17419724084469518,313738.1677879963,0.9999995569895432,2345.0,28.0,21.0,ok
+overlap,future_any,placebo_post2014,any_transfer_in_zfill,hh_provyear,conditional_base2009_by_year,-1.639882351864212,1654003.3964270768,0.999999208927374,2345.0,28.0,21.0,ok
+overlap,future_any,placebo_post2014,asinh_transfer_in_area_zfill,hh_year,unconditional,-0.0026196219302458542,0.028644548122888244,0.9271328701828189,2345.0,28.0,21.0,ok
+overlap,future_any,placebo_post2014,asinh_transfer_in_area_zfill,hh_year,conditional_base2009_by_year,-0.0021639455792120668,0.030706910125423436,0.9438188098993073,2345.0,28.0,21.0,ok
+overlap,future_any,placebo_post2014,asinh_transfer_in_area_zfill,hh_provyear,unconditional,-0.4465897739536708,780773.5759654727,0.9999995436230213,2345.0,28.0,21.0,ok
+overlap,future_any,placebo_post2014,asinh_transfer_in_area_zfill,hh_provyear,conditional_base2009_by_year,-2.6411690306066498,3265837.709204281,0.9999993547297265,2345.0,28.0,21.0,ok
+overlap,future_any,placebo_post2014,asinh_operated_area_end,hh_year,unconditional,-0.018009432397056203,0.06116623103866703,0.7684261105011789,1815.0,27.0,21.0,ok
+overlap,future_any,placebo_post2014,asinh_operated_area_end,hh_year,conditional_base2009_by_year,0.03752607061971438,0.08222673347087335,0.6481216941262031,1815.0,27.0,21.0,ok
+overlap,future_any,placebo_post2014,asinh_operated_area_end,hh_provyear,unconditional,0.04737069290022951,2676508.5906487815,0.9999999858784894,1815.0,27.0,21.0,ok
+overlap,future_any,placebo_post2014,asinh_operated_area_end,hh_provyear,conditional_base2009_by_year,1.1473695690371342,7917203.331014414,0.9999998843697167,1815.0,27.0,21.0,ok
+overlap,future_any,placebo_post2014,asinh_market_volume_area_zfill,hh_year,unconditional,-0.024828407931379616,0.08514221722894617,0.770584056648898,2345.0,28.0,21.0,ok
+overlap,future_any,placebo_post2014,asinh_market_volume_area_zfill,hh_year,conditional_base2009_by_year,-0.027259901136181035,0.08291907863804684,0.7423423425541784,2345.0,28.0,21.0,ok
+overlap,future_any,placebo_post2014,asinh_market_volume_area_zfill,hh_provyear,unconditional,0.16956189438117178,971962.6136820671,0.9999998608065622,2345.0,28.0,21.0,ok
+overlap,future_any,placebo_post2014,asinh_market_volume_area_zfill,hh_provyear,conditional_base2009_by_year,-5.342977656732825,13857498.982664883,0.9999996923630025,2345.0,28.0,21.0,ok
+long,future_any,linear_2009_2013,any_transfer_in_zfill,hh_year,unconditional,0.005987611767359147,0.003397866335087659,0.07804089493106035,1205.0,19.0,14.0,ok
+long,future_any,linear_2009_2013,any_transfer_in_zfill,hh_year,conditional_base2009_by_year,0.005933330665674215,0.004082955485181565,0.14616960851214522,1205.0,19.0,14.0,ok
+long,future_any,linear_2009_2013,any_transfer_in_zfill,hh_provyear,unconditional,0.0,0.0,,1205.0,19.0,14.0,ok
+long,future_any,linear_2009_2013,any_transfer_in_zfill,hh_provyear,conditional_base2009_by_year,-0.04971368292319762,0.033539410596182,0.13827464688431904,1205.0,19.0,14.0,ok
+long,future_any,linear_2009_2013,asinh_transfer_in_area_zfill,hh_year,unconditional,0.0012615529820015183,0.005569182771086524,0.8207939754413731,1205.0,19.0,14.0,ok
+long,future_any,linear_2009_2013,asinh_transfer_in_area_zfill,hh_year,conditional_base2009_by_year,-0.0005703352045542512,0.002464939107982956,0.8170203596376611,1205.0,19.0,14.0,ok
+long,future_any,linear_2009_2013,asinh_transfer_in_area_zfill,hh_provyear,unconditional,0.0,0.0,,1205.0,19.0,14.0,ok
+long,future_any,linear_2009_2013,asinh_transfer_in_area_zfill,hh_provyear,conditional_base2009_by_year,-0.04203151671193431,0.05152064521022745,0.41460371512586536,1205.0,19.0,14.0,ok
+long,future_any,linear_2009_2013,asinh_operated_area_end,hh_year,unconditional,0.010573933400094708,0.020351657397108217,0.6033693832645819,919.0,19.0,14.0,ok
+long,future_any,linear_2009_2013,asinh_operated_area_end,hh_year,conditional_base2009_by_year,0.02877866634642405,0.016405975423309703,0.07940350751518066,919.0,19.0,14.0,ok
+long,future_any,linear_2009_2013,asinh_operated_area_end,hh_provyear,unconditional,2367.565487064421,258213381.51185307,0.9999926841748568,917.0,18.0,13.0,ok
+long,future_any,linear_2009_2013,asinh_operated_area_end,hh_provyear,conditional_base2009_by_year,,,,917.0,18.0,13.0,ok
+long,future_any,linear_2009_2013,asinh_market_volume_area_zfill,hh_year,unconditional,-0.03515499201936581,0.04200228109892406,0.4026048434821099,1205.0,19.0,14.0,ok
+long,future_any,linear_2009_2013,asinh_market_volume_area_zfill,hh_year,conditional_base2009_by_year,-0.05011150311322537,0.040244808070323684,0.21307040497410623,1205.0,19.0,14.0,ok
+long,future_any,linear_2009_2013,asinh_market_volume_area_zfill,hh_provyear,unconditional,-0.008689858950674534,1.099672199814969e-09,0.0,1205.0,19.0,14.0,ok
+long,future_any,linear_2009_2013,asinh_market_volume_area_zfill,hh_provyear,conditional_base2009_by_year,-0.238676933106035,0.2089285088610548,0.2532937480238089,1205.0,19.0,14.0,ok
+long,future_any,linear_2009_2014,any_transfer_in_zfill,hh_year,unconditional,0.005804029404139065,0.0036891465771584277,0.11565595084295774,1457.0,19.0,14.0,ok
+long,future_any,linear_2009_2014,any_transfer_in_zfill,hh_year,conditional_base2009_by_year,0.0053821031327455525,0.004936186490960373,0.27556504677790217,1457.0,19.0,14.0,ok
+long,future_any,linear_2009_2014,any_transfer_in_zfill,hh_provyear,unconditional,0.0,0.0,,1457.0,19.0,14.0,ok
+long,future_any,linear_2009_2014,any_transfer_in_zfill,hh_provyear,conditional_base2009_by_year,-0.02208828842465623,0.019365839459213142,0.2540447600025667,1457.0,19.0,14.0,ok
+long,future_any,linear_2009_2014,asinh_transfer_in_area_zfill,hh_year,unconditional,0.0038553317777558754,0.004890748375414473,0.43052664830353593,1457.0,19.0,14.0,ok
+long,future_any,linear_2009_2014,asinh_transfer_in_area_zfill,hh_year,conditional_base2009_by_year,0.0024041781643052303,0.0042585438581150895,0.5723771296834067,1457.0,19.0,14.0,ok
+long,future_any,linear_2009_2014,asinh_transfer_in_area_zfill,hh_provyear,unconditional,-2.6816981271139016e-18,3.7669302216595947e-34,0.0,1457.0,19.0,14.0,ok
+long,future_any,linear_2009_2014,asinh_transfer_in_area_zfill,hh_provyear,conditional_base2009_by_year,-0.017742463007344736,0.0360463853080685,0.6225694899598173,1457.0,19.0,14.0,ok
+long,future_any,linear_2009_2014,asinh_operated_area_end,hh_year,unconditional,0.009821479968369209,0.02358136499855604,0.6770490863969139,1123.0,19.0,14.0,ok
+long,future_any,linear_2009_2014,asinh_operated_area_end,hh_year,conditional_base2009_by_year,0.03461706534915474,0.021303329510725742,0.10417101187602028,1123.0,19.0,14.0,ok
+long,future_any,linear_2009_2014,asinh_operated_area_end,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+long,future_any,linear_2009_2014,asinh_operated_area_end,hh_provyear,conditional_base2009_by_year,,,,1121.0,18.0,13.0,ok
+long,future_any,linear_2009_2014,asinh_market_volume_area_zfill,hh_year,unconditional,-0.02175940786508394,0.0269039142762492,0.4186404175824078,1457.0,19.0,14.0,ok
+long,future_any,linear_2009_2014,asinh_market_volume_area_zfill,hh_year,conditional_base2009_by_year,-0.032257194792257256,0.02517444613658871,0.20007189828158412,1457.0,19.0,14.0,ok
+long,future_any,linear_2009_2014,asinh_market_volume_area_zfill,hh_provyear,unconditional,0.022230782546103,3.1284495985230117e-09,0.0,1457.0,19.0,14.0,ok
+long,future_any,linear_2009_2014,asinh_market_volume_area_zfill,hh_provyear,conditional_base2009_by_year,-0.2603893093764782,0.14996021396838663,0.08249502478461106,1457.0,19.0,14.0,ok
+long,future_any,placebo_post2013,any_transfer_in_zfill,hh_year,unconditional,0.027946822271283433,0.01496155498446475,0.061774764936486544,1457.0,19.0,14.0,ok
+long,future_any,placebo_post2013,any_transfer_in_zfill,hh_year,conditional_base2009_by_year,0.02123616356059156,0.016588150301590505,0.2004745188489222,1457.0,19.0,14.0,ok
+long,future_any,placebo_post2013,any_transfer_in_zfill,hh_provyear,unconditional,0.0,0.0,,1457.0,19.0,14.0,ok
+long,future_any,placebo_post2013,any_transfer_in_zfill,hh_provyear,conditional_base2009_by_year,-0.10530095989100298,0.0905371559001441,0.24480150610388218,1457.0,19.0,14.0,ok
+long,future_any,placebo_post2013,asinh_transfer_in_area_zfill,hh_year,unconditional,0.024784333530738417,0.01920405616589067,0.19685002825560405,1457.0,19.0,14.0,ok
+long,future_any,placebo_post2013,asinh_transfer_in_area_zfill,hh_year,conditional_base2009_by_year,0.02119410643740793,0.024088204069578383,0.3789383229286195,1457.0,19.0,14.0,ok
+long,future_any,placebo_post2013,asinh_transfer_in_area_zfill,hh_provyear,unconditional,-1.2067641572012566e-17,4.149816002006616e-33,0.0,1457.0,19.0,14.0,ok
+long,future_any,placebo_post2013,asinh_transfer_in_area_zfill,hh_provyear,conditional_base2009_by_year,-0.08874444037511765,0.16749429489989082,0.5962259195213622,1457.0,19.0,14.0,ok
+long,future_any,placebo_post2013,asinh_operated_area_end,hh_year,unconditional,0.02675883331318913,0.09457562409314173,0.7772260229566271,1123.0,19.0,14.0,ok
+long,future_any,placebo_post2013,asinh_operated_area_end,hh_year,conditional_base2009_by_year,0.12459162367351313,0.08418734049926196,0.1388911269758888,1123.0,19.0,14.0,ok
+long,future_any,placebo_post2013,asinh_operated_area_end,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+long,future_any,placebo_post2013,asinh_operated_area_end,hh_provyear,conditional_base2009_by_year,,,,1121.0,18.0,13.0,ok
+long,future_any,placebo_post2013,asinh_market_volume_area_zfill,hh_year,unconditional,-0.07175691914385901,0.07361155581909057,0.3296569528269513,1457.0,19.0,14.0,ok
+long,future_any,placebo_post2013,asinh_market_volume_area_zfill,hh_year,conditional_base2009_by_year,-0.10947782647524215,0.0696266196523355,0.11586803478030379,1457.0,19.0,14.0,ok
+long,future_any,placebo_post2013,asinh_market_volume_area_zfill,hh_provyear,unconditional,0.07787898927927017,2.045329069391913e-09,0.0,1457.0,19.0,14.0,ok
+long,future_any,placebo_post2013,asinh_market_volume_area_zfill,hh_provyear,conditional_base2009_by_year,-1.1786538576707244,0.6744211896544583,0.08052422381207808,1457.0,19.0,14.0,ok
+long,future_any,placebo_post2014,any_transfer_in_zfill,hh_year,unconditional,0.015603472719914987,0.013956377565588134,0.2635595693448186,1457.0,19.0,14.0,ok
+long,future_any,placebo_post2014,any_transfer_in_zfill,hh_year,conditional_base2009_by_year,0.012742490810483318,0.019700545708166393,0.517755549022737,1457.0,19.0,14.0,ok
+long,future_any,placebo_post2014,any_transfer_in_zfill,hh_provyear,unconditional,0.0,0.0,,1457.0,19.0,14.0,ok
+long,future_any,placebo_post2014,any_transfer_in_zfill,hh_provyear,conditional_base2009_by_year,-0.20968600237170673,0.1805310893874898,0.24544055471530601,1457.0,19.0,14.0,ok
+long,future_any,placebo_post2014,asinh_transfer_in_area_zfill,hh_year,unconditional,0.02024935711927283,0.018309252632774994,0.2687425072445877,1457.0,19.0,14.0,ok
+long,future_any,placebo_post2014,asinh_transfer_in_area_zfill,hh_year,conditional_base2009_by_year,0.017189961773790136,0.026056291544006762,0.5094309403396686,1457.0,19.0,14.0,ok
+long,future_any,placebo_post2014,asinh_transfer_in_area_zfill,hh_provyear,unconditional,-2.4135283144025126e-17,4.980172290017827e-33,0.0,1457.0,19.0,14.0,ok
+long,future_any,placebo_post2014,asinh_transfer_in_area_zfill,hh_provyear,conditional_base2009_by_year,-0.1761075785850167,0.334148346444732,0.5981698969007139,1457.0,19.0,14.0,ok
+long,future_any,placebo_post2014,asinh_operated_area_end,hh_year,unconditional,0.02690798988717202,0.10578224556269301,0.7992085563859672,1123.0,19.0,14.0,ok
+long,future_any,placebo_post2014,asinh_operated_area_end,hh_year,conditional_base2009_by_year,0.12245464782112031,0.10814407492340397,0.2574962371015964,1123.0,19.0,14.0,ok
+long,future_any,placebo_post2014,asinh_operated_area_end,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+long,future_any,placebo_post2014,asinh_operated_area_end,hh_provyear,conditional_base2009_by_year,,,,1121.0,18.0,13.0,ok
+long,future_any,placebo_post2014,asinh_market_volume_area_zfill,hh_year,unconditional,-0.012675003557477327,0.05472187453531143,0.8168285875383975,1457.0,19.0,14.0,ok
+long,future_any,placebo_post2014,asinh_market_volume_area_zfill,hh_year,conditional_base2009_by_year,-0.02619582021280059,0.05312912371868651,0.6219705325354896,1457.0,19.0,14.0,ok
+long,future_any,placebo_post2014,asinh_market_volume_area_zfill,hh_provyear,unconditional,0.1591958859935403,2.020891474205766e-09,0.0,1457.0,19.0,14.0,ok
+long,future_any,placebo_post2014,asinh_market_volume_area_zfill,hh_provyear,conditional_base2009_by_year,-2.356236926279962,1.348899535347197,0.08067471004724558,1457.0,19.0,14.0,ok

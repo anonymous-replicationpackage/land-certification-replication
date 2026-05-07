@@ -1,0 +1,7 @@
+﻿source,design,outcome,label,treat,b,se,p,N,clusters,mean_y
+FOBS village panel,village and year FE; county-clustered; county rollout start,asinh_transfer_in_area,asinh transferred-in cultivated area,hybrid_started_t,1.06929749479697,0.4302658717693684,0.012947803427291116,78,18,4.510074217136899
+FOBS village panel,village and year FE; county-clustered; county rollout start,asinh_market_volume_area,asinh transfer-in plus transfer-out area,hybrid_started_t,0.661355043751628,0.27445314404286875,0.01596479731267847,117,22,4.943328612987652
+FOBS village panel,village and year FE; county-clustered; county rollout start,asinh_transfer_out_area,asinh transferred-out cultivated area,hybrid_started_t,0.012414973422194525,0.36964961641829747,0.9732074559027316,114,22,5.263744441475835
+FOBS village panel,village and year FE; county-clustered; county rollout start,asinh_transfer_out_hh,asinh households transferring out cultivated land,hybrid_started_t,-0.4586224491349348,0.42773336146876473,0.2836231355023364,114,22,3.5376296243556267
+FOBS village panel,village and year FE; county-clustered; county rollout start,any_transfer_in_v,any transfer-in in village-year,hybrid_started_t,-0.024673722385645563,0.06165277649941012,0.6890058551425674,78,18,0.9176470588235294
+FOBS village panel,village and year FE; county-clustered; county rollout start,any_transfer_out_v,any transfer-out in village-year,hybrid_started_t,0.003272900131215988,0.03235906482027896,0.9194367664169897,114,22,0.9568965517241379

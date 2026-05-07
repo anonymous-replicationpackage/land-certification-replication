@@ -1,0 +1,129 @@
+﻿instrument,z,outcome,label,b,se,p,N,counties,status
+geo,iv_official_x_geo_area_rugged,any_rentin,Any rent-in (2014),-0.030135996126707493,0.022661266058223342,0.18506865214907017,2329,203,ok
+geo,iv_official_x_geo_area_rugged,asinh_rentin,asinh rented-in area (2014),-0.03648044317810922,0.04101197955257505,0.3747887480692409,2329,203,ok
+geo,iv_official_x_geo_area_rugged,any_rentout,Any rent-out (2014),,,,0,0,too_few
+geo,iv_official_x_geo_area_rugged,asinh_rentout,asinh rented-out area (2014),,,,0,0,too_few
+geo,iv_official_x_geo_area_rugged,a3_tenure_insec_z,Baseline tenure insecurity index,-0.17434828105722175,0.1596322745758869,0.2760583187688702,2362,202,ok
+geo,iv_official_x_geo_area_rugged,ib_nonfarm_curr_n,Current nonfarm workers,-0.0026003785094111474,0.07565026373826797,0.9726124491306268,2446,207,ok
+geo,iv_official_x_geo_area_rugged,rb_nonfarm_any,Any broad nonfarm work,0.010037236599823106,0.03111553736902057,0.7473408281103531,2446,207,ok
+geo,iv_official_x_geo_area_rugged,rb_nonfarm_n,Broad nonfarm workers,-0.03861262173175034,0.08911842176478091,0.6652696550060267,2446,207,ok
+geo,iv_official_x_geo_area_rugged,land_total_mu,Household land base,0.6450748336712231,0.5160707165924484,0.21274118616550086,2267,205,ok
+geo,iv_official_x_geo_area_rugged,contracted_land_mu,Contracted land,,,,0,0,too_few
+geo,iv_official_x_geo_area_rugged,asinh_rb_inc_farm,asinh farm income,-0.023511354914373256,0.3890877166692767,0.951874236810063,2408,207,ok
+geo,iv_official_x_geo_area_rugged,asinh_rb_farm_cost,asinh farm cost,-4.813401627625641e-05,0.1789157470729972,0.9997856173446206,1926,197,ok
+geo,iv_official_x_geo_area_rugged,base14_rg_govrent_any,Government rent-in any,-0.05562505260034435,0.05875187329405508,0.3448937903055741,2347,201,ok
+geo,iv_official_x_geo_area_rugged,base14_rg_abs_rent,Absolute rent paid,0.017209316097546886,0.018679049946425105,0.35932132928861427,1008,92,ok
+geo,iv_official_x_geo_area_rugged,a2_mobility_ease_county_z,County mobility ease,-0.013475099126467641,0.04579648403866776,0.768871762030726,2446,207,ok
+geo,iv_official_x_geo_area_rugged,base14_broad_z,Village broad insecurity z,-0.12512964332482626,0.14117747535809338,0.3764739636853591,2446,207,ok
+net,iv_official_x_survey_net_distance,any_rentin,Any rent-in (2014),-0.031204548996394126,0.021678284272103786,0.15157426670238475,2329,203,ok
+net,iv_official_x_survey_net_distance,asinh_rentin,asinh rented-in area (2014),-0.0549893370456147,0.04104071246313201,0.1817919954882198,2329,203,ok
+net,iv_official_x_survey_net_distance,any_rentout,Any rent-out (2014),,,,0,0,too_few
+net,iv_official_x_survey_net_distance,asinh_rentout,asinh rented-out area (2014),,,,0,0,too_few
+net,iv_official_x_survey_net_distance,a3_tenure_insec_z,Baseline tenure insecurity index,-0.10941053914004119,0.18956479064546514,0.5644725439859275,2362,202,ok
+net,iv_official_x_survey_net_distance,ib_nonfarm_curr_n,Current nonfarm workers,0.07603350706111481,0.07348771850647366,0.3020490223855557,2446,207,ok
+net,iv_official_x_survey_net_distance,rb_nonfarm_any,Any broad nonfarm work,0.05742244164744374,0.03146319910713563,0.06943919024487025,2446,207,ok
+net,iv_official_x_survey_net_distance,rb_nonfarm_n,Broad nonfarm workers,0.05673777823371516,0.08908662016960114,0.5249079881213071,2446,207,ok
+net,iv_official_x_survey_net_distance,land_total_mu,Household land base,0.23053958793359663,0.6469082203812635,0.7219307461096087,2267,205,ok
+net,iv_official_x_survey_net_distance,contracted_land_mu,Contracted land,,,,0,0,too_few
+net,iv_official_x_survey_net_distance,asinh_rb_inc_farm,asinh farm income,-0.5030661027304981,0.3614385576984639,0.16547057013785296,2408,207,ok
+net,iv_official_x_survey_net_distance,asinh_rb_farm_cost,asinh farm cost,-0.3071528290637557,0.2107179898779025,0.1465377402684251,1926,197,ok
+net,iv_official_x_survey_net_distance,base14_rg_govrent_any,Government rent-in any,-0.033453207317151755,0.06022392758724876,0.5791869618802787,2347,201,ok
+net,iv_official_x_survey_net_distance,base14_rg_abs_rent,Absolute rent paid,0.05389230977759876,0.04793427104872486,0.2638444508832595,1008,92,ok
+net,iv_official_x_survey_net_distance,a2_mobility_ease_county_z,County mobility ease,-0.022443897799949496,0.056508577300360976,0.6916482663265083,2446,207,ok
+net,iv_official_x_survey_net_distance,base14_broad_z,Village broad insecurity z,-0.0368370012594138,0.15067265216472406,0.8070995995119431,2446,207,ok
+raw,iv_official_x_survey_cost,any_rentin,Any rent-in (2014),-0.02617113763904725,0.02417435233845463,0.2802769174028923,2329,203,ok
+raw,iv_official_x_survey_cost,asinh_rentin,asinh rented-in area (2014),-0.014451772306245225,0.04363709763327643,0.7408511685263803,2329,203,ok
+raw,iv_official_x_survey_cost,any_rentout,Any rent-out (2014),,,,0,0,too_few
+raw,iv_official_x_survey_cost,asinh_rentout,asinh rented-out area (2014),,,,0,0,too_few
+raw,iv_official_x_survey_cost,a3_tenure_insec_z,Baseline tenure insecurity index,-0.22875083632030982,0.1448876919105251,0.1159509704228147,2362,202,ok
+raw,iv_official_x_survey_cost,ib_nonfarm_curr_n,Current nonfarm workers,-0.0824452784294196,0.08568967181973663,0.3371083597994157,2446,207,ok
+raw,iv_official_x_survey_cost,rb_nonfarm_any,Any broad nonfarm work,-0.03880745476112659,0.03187806534040958,0.22485552568022574,2446,207,ok
+raw,iv_official_x_survey_cost,rb_nonfarm_n,Broad nonfarm workers,-0.13320164549525362,0.09521423084080419,0.16332645725838055,2446,207,ok
+raw,iv_official_x_survey_cost,land_total_mu,Household land base,1.0141494272129172,0.6458706177410947,0.11791710840990152,2267,205,ok
+raw,iv_official_x_survey_cost,contracted_land_mu,Contracted land,,,,0,0,too_few
+raw,iv_official_x_survey_cost,asinh_rb_inc_farm,asinh farm income,0.46376299640307994,0.46184434761178267,0.3164822848799596,2408,207,ok
+raw,iv_official_x_survey_cost,asinh_rb_farm_cost,asinh farm cost,0.2916711379131007,0.19186415622037825,0.13007322944365055,1926,197,ok
+raw,iv_official_x_survey_cost,base14_rg_govrent_any,Government rent-in any,-0.0744681075584583,0.0609433700871207,0.22317495961616282,2347,201,ok
+raw,iv_official_x_survey_cost,base14_rg_abs_rent,Absolute rent paid,0.0001580538578533977,0.02096763280891758,0.9940021098292503,1008,92,ok
+raw,iv_official_x_survey_cost,a2_mobility_ease_county_z,County mobility ease,-0.0035021540143856692,0.045453631160538535,0.9386593952555863,2446,207,ok
+raw,iv_official_x_survey_cost,base14_broad_z,Village broad insecurity z,-0.2070969900653649,0.15723451238113553,0.18926104272057662,2446,207,ok
+workload,iv_offlate_x_workload,any_rentin,Any rent-in (2014),0.034152126109248344,0.011536687317678523,0.003440993653239715,2329,203,ok
+workload,iv_offlate_x_workload,asinh_rentin,asinh rented-in area (2014),0.06168521059177991,0.021240043786091886,0.00409172570665066,2329,203,ok
+workload,iv_offlate_x_workload,any_rentout,Any rent-out (2014),,,,0,0,too_few
+workload,iv_offlate_x_workload,asinh_rentout,asinh rented-out area (2014),,,,0,0,too_few
+workload,iv_offlate_x_workload,a3_tenure_insec_z,Baseline tenure insecurity index,0.03856116195255202,0.10831757327707851,0.7222132008725408,2362,202,ok
+workload,iv_offlate_x_workload,ib_nonfarm_curr_n,Current nonfarm workers,0.04407857229385903,0.034574439228364395,0.2037845900646115,2446,207,ok
+workload,iv_offlate_x_workload,rb_nonfarm_any,Any broad nonfarm work,0.011305228520216086,0.01853424683498736,0.542557724305073,2446,207,ok
+workload,iv_offlate_x_workload,rb_nonfarm_n,Broad nonfarm workers,-0.003033599651343373,0.05949953858739868,0.9593866664962357,2446,207,ok
+workload,iv_offlate_x_workload,land_total_mu,Household land base,0.1350892622924833,0.2656558902844562,0.6116436595209335,2267,205,ok
+workload,iv_offlate_x_workload,contracted_land_mu,Contracted land,,,,0,0,too_few
+workload,iv_offlate_x_workload,asinh_rb_inc_farm,asinh farm income,-0.43695163115404595,0.18851443641607496,0.021438118290436497,2408,207,ok
+workload,iv_offlate_x_workload,asinh_rb_farm_cost,asinh farm cost,-0.051763637642742104,0.12323511052395474,0.6749165542683507,1926,197,ok
+workload,iv_offlate_x_workload,base14_rg_govrent_any,Government rent-in any,0.0469208053861657,0.03156852295300106,0.13877019797881202,2347,201,ok
+workload,iv_offlate_x_workload,base14_rg_abs_rent,Absolute rent paid,-0.0035642802207639388,0.005407730466569049,0.5114906383637045,1008,92,ok
+workload,iv_offlate_x_workload,a2_mobility_ease_county_z,County mobility ease,-0.024251481102569323,0.03246873855150616,0.45596477900485066,2446,207,ok
+workload,iv_offlate_x_workload,base14_broad_z,Village broad insecurity z,0.017925132436327908,0.07783167821198761,0.8180822440754356,2446,207,ok
+rugged,iv_offlate_x_rugged,any_rentin,Any rent-in (2014),-0.062320242676629174,0.02510095744118088,0.01385082613160213,2329,203,ok
+rugged,iv_offlate_x_rugged,asinh_rentin,asinh rented-in area (2014),-0.10999345154171175,0.03822208252338285,0.004435889647943756,2329,203,ok
+rugged,iv_offlate_x_rugged,any_rentout,Any rent-out (2014),,,,0,0,too_few
+rugged,iv_offlate_x_rugged,asinh_rentout,asinh rented-out area (2014),,,,0,0,too_few
+rugged,iv_offlate_x_rugged,a3_tenure_insec_z,Baseline tenure insecurity index,-0.40745474986648145,0.180800569190266,0.02529993264146061,2362,202,ok
+rugged,iv_offlate_x_rugged,ib_nonfarm_curr_n,Current nonfarm workers,-0.02210060138468408,0.10189562987110751,0.8285052190141943,2446,207,ok
+rugged,iv_offlate_x_rugged,rb_nonfarm_any,Any broad nonfarm work,-0.007907968345354562,0.04036446715820808,0.8448705198260138,2446,207,ok
+rugged,iv_offlate_x_rugged,rb_nonfarm_n,Broad nonfarm workers,-0.06346078893967785,0.11744201989851652,0.589533575408021,2446,207,ok
+rugged,iv_offlate_x_rugged,land_total_mu,Household land base,-0.18771310971938415,0.31892625807424074,0.5567952255738946,2267,205,ok
+rugged,iv_offlate_x_rugged,contracted_land_mu,Contracted land,,,,0,0,too_few
+rugged,iv_offlate_x_rugged,asinh_rb_inc_farm,asinh farm income,-0.1843281832985794,0.5301843937886919,0.7284444541112445,2408,207,ok
+rugged,iv_offlate_x_rugged,asinh_rb_farm_cost,asinh farm cost,-0.08515367782739844,0.2040557852575126,0.6769114267173041,1926,197,ok
+rugged,iv_offlate_x_rugged,base14_rg_govrent_any,Government rent-in any,-0.05855772810510332,0.07363139632261861,0.4273922550132599,2347,201,ok
+rugged,iv_offlate_x_rugged,base14_rg_abs_rent,Absolute rent paid,0.0023701678813597337,0.014615899625683857,0.8715365035904392,1008,92,ok
+rugged,iv_offlate_x_rugged,a2_mobility_ease_county_z,County mobility ease,-0.023155839496604866,0.05934698264572661,0.6968086631925485,2446,207,ok
+rugged,iv_offlate_x_rugged,base14_broad_z,Village broad insecurity z,-0.06749349933732443,0.19700702930025965,0.7322529487093613,2446,207,ok
+area,iv_offlate_x_log_area,any_rentin,Any rent-in (2014),-0.003486609608603499,0.02175620263835144,0.8728378380304085,2329,203,ok
+area,iv_offlate_x_log_area,asinh_rentin,asinh rented-in area (2014),0.01795856386444128,0.04438398961692818,0.6861863958271228,2329,203,ok
+area,iv_offlate_x_log_area,any_rentout,Any rent-out (2014),,,,0,0,too_few
+area,iv_offlate_x_log_area,asinh_rentout,asinh rented-out area (2014),,,,0,0,too_few
+area,iv_offlate_x_log_area,a3_tenure_insec_z,Baseline tenure insecurity index,-0.009969983207795335,0.13232983221060063,0.9400176045134071,2362,202,ok
+area,iv_offlate_x_log_area,ib_nonfarm_curr_n,Current nonfarm workers,0.008619195025696316,0.05847068165743672,0.8829521579829142,2446,207,ok
+area,iv_offlate_x_log_area,rb_nonfarm_any,Any broad nonfarm work,0.01748217177112133,0.02485463007718174,0.48261512604717016,2446,207,ok
+area,iv_offlate_x_log_area,rb_nonfarm_n,Broad nonfarm workers,-0.01613767447635221,0.06854659321812753,0.8141117088476542,2446,207,ok
+area,iv_offlate_x_log_area,land_total_mu,Household land base,0.9775779341505196,0.5843729164525776,0.09588638329261756,2267,205,ok
+area,iv_offlate_x_log_area,contracted_land_mu,Contracted land,,,,0,0,too_few
+area,iv_offlate_x_log_area,asinh_rb_inc_farm,asinh farm income,0.06889255310003828,0.2569163133210223,0.7888508527609651,2408,207,ok
+area,iv_offlate_x_log_area,asinh_rb_farm_cost,asinh farm cost,0.04552639679265941,0.1542000086836247,0.7681211511048929,1926,197,ok
+area,iv_offlate_x_log_area,base14_rg_govrent_any,Government rent-in any,-0.040696308774466346,0.04760382072600814,0.39363171846080713,2347,201,ok
+area,iv_offlate_x_log_area,base14_rg_abs_rent,Absolute rent paid,0.034027439264719475,0.023082318730707773,0.14388488637891036,1008,92,ok
+area,iv_offlate_x_log_area,a2_mobility_ease_county_z,County mobility ease,-0.00508229273369948,0.037164899257513685,0.891362114375796,2446,207,ok
+area,iv_offlate_x_log_area,base14_broad_z,Village broad insecurity z,-0.12751910130268188,0.11203585548084309,0.25635938472247977,2446,207,ok
+dist,iv_offlate_x_dist_capital,any_rentin,Any rent-in (2014),-0.007045029556128847,0.011863682183465483,0.5532891466149493,2329,203,ok
+dist,iv_offlate_x_dist_capital,asinh_rentin,asinh rented-in area (2014),0.008719043984114353,0.022151190863978203,0.6942803576320409,2329,203,ok
+dist,iv_offlate_x_dist_capital,any_rentout,Any rent-out (2014),,,,0,0,too_few
+dist,iv_offlate_x_dist_capital,asinh_rentout,asinh rented-out area (2014),,,,0,0,too_few
+dist,iv_offlate_x_dist_capital,a3_tenure_insec_z,Baseline tenure insecurity index,-0.11802731961523338,0.07542268208829525,0.11918445524260249,2362,202,ok
+dist,iv_offlate_x_dist_capital,ib_nonfarm_curr_n,Current nonfarm workers,-0.08381402710927607,0.0438217134984754,0.057184521570587205,2446,207,ok
+dist,iv_offlate_x_dist_capital,rb_nonfarm_any,Any broad nonfarm work,-0.047067100185526,0.014372986425365731,0.0012408020618749648,2446,207,ok
+dist,iv_offlate_x_dist_capital,rb_nonfarm_n,Broad nonfarm workers,-0.11214252775225611,0.047741519768130854,0.01977323286046751,2446,207,ok
+dist,iv_offlate_x_dist_capital,land_total_mu,Household land base,0.6282053500906942,0.43528880930577657,0.150500159337177,2267,205,ok
+dist,iv_offlate_x_dist_capital,contracted_land_mu,Contracted land,,,,0,0,too_few
+dist,iv_offlate_x_dist_capital,asinh_rb_inc_farm,asinh farm income,0.4937748494614266,0.24284689185470953,0.043307246304820725,2408,207,ok
+dist,iv_offlate_x_dist_capital,asinh_rb_farm_cost,asinh farm cost,0.29404822271178643,0.11611859009356643,0.012115479423225772,1926,197,ok
+dist,iv_offlate_x_dist_capital,base14_rg_govrent_any,Government rent-in any,-0.03920006763207379,0.030003322827946946,0.1928747817132307,2347,201,ok
+dist,iv_offlate_x_dist_capital,base14_rg_abs_rent,Absolute rent paid,-0.007705860447461773,0.01780131839931841,0.666125146524831,1008,92,ok
+dist,iv_offlate_x_dist_capital,a2_mobility_ease_county_z,County mobility ease,0.005477478742219984,0.02694189771865529,0.8390956978112177,2446,207,ok
+dist,iv_offlate_x_dist_capital,base14_broad_z,Village broad insecurity z,-0.13033407085217488,0.08754753063392062,0.13808945875854567,2446,207,ok
+costwork,iv_official_x_cost_workload,any_rentin,Any rent-in (2014),0.0462280156306921,0.021609255910395236,0.03361393174284553,2329,203,ok
+costwork,iv_official_x_cost_workload,asinh_rentin,asinh rented-in area (2014),0.103211424417421,0.04260351340883895,0.01629187412858438,2329,203,ok
+costwork,iv_official_x_cost_workload,any_rentout,Any rent-out (2014),,,,0,0,too_few
+costwork,iv_official_x_cost_workload,asinh_rentout,asinh rented-out area (2014),,,,0,0,too_few
+costwork,iv_official_x_cost_workload,a3_tenure_insec_z,Baseline tenure insecurity index,-0.06922821254637854,0.22066798914692362,0.7540581809451201,2362,202,ok
+costwork,iv_official_x_cost_workload,ib_nonfarm_curr_n,Current nonfarm workers,0.027075197927025483,0.06515824704720093,0.6781865572676063,2446,207,ok
+costwork,iv_official_x_cost_workload,rb_nonfarm_any,Any broad nonfarm work,-0.004095838716202617,0.03361803537398665,0.9031488047248245,2446,207,ok
+costwork,iv_official_x_cost_workload,rb_nonfarm_n,Broad nonfarm workers,-0.0886711512597932,0.09805006254099996,0.366868509449115,2446,207,ok
+costwork,iv_official_x_cost_workload,land_total_mu,Household land base,0.8783428405185838,0.6753631198373865,0.19488013985084687,2267,205,ok
+costwork,iv_official_x_cost_workload,contracted_land_mu,Contracted land,,,,0,0,too_few
+costwork,iv_official_x_cost_workload,asinh_rb_inc_farm,asinh farm income,-0.49362178925623346,0.3548454173237113,0.16569886832910802,2408,207,ok
+costwork,iv_official_x_cost_workload,asinh_rb_farm_cost,asinh farm cost,0.08692193774704154,0.24323525988065683,0.7212086977092762,1926,197,ok
+costwork,iv_official_x_cost_workload,base14_rg_govrent_any,Government rent-in any,0.03877230979302183,0.06355974372454234,0.5425452507045249,2347,201,ok
+costwork,iv_official_x_cost_workload,base14_rg_abs_rent,Absolute rent paid,-0.00743490510233277,0.01860699232646716,0.6904052262280193,1008,92,ok
+costwork,iv_official_x_cost_workload,a2_mobility_ease_county_z,County mobility ease,-0.04543918029334268,0.06849466103977885,0.507817765974953,2446,207,ok
+costwork,iv_official_x_cost_workload,base14_broad_z,Village broad insecurity z,-0.0974835061414776,0.1555450500277039,0.5315353929608688,2446,207,ok

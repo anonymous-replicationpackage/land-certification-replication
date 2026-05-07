@@ -1,0 +1,49 @@
+﻿instrument,instrument_col,outcome,outcome_label,controls,b,se,p,N,counties,status
+geo_area_rugged,iv_official_x_geo_area_rugged,any_rentin,Any rent-in (2014),province_fe,-0.030135996126707493,0.022661266058223342,0.18506865214907017,2329,203,ok
+geo_area_rugged,iv_official_x_geo_area_rugged,asinh_rentin,asinh rented-in area (2014),province_fe,-0.03648044317810922,0.04101197955257505,0.3747887480692409,2329,203,ok
+geo_area_rugged,iv_official_x_geo_area_rugged,any_rentout,Any rent-out (2014),province_fe,,,,0,0,too_few
+geo_area_rugged,iv_official_x_geo_area_rugged,asinh_rentout,asinh rented-out area (2014),province_fe,,,,0,0,too_few
+geo_area_rugged,iv_official_x_geo_area_rugged,a3_tenure_insec_z,Baseline tenure insecurity index,province_fe,-0.17434828105722175,0.1596322745758869,0.2760583187688702,2362,202,ok
+geo_area_rugged,iv_official_x_geo_area_rugged,ib_nonfarm_curr_n,Current nonfarm workers,province_fe,-0.0026003785094111474,0.07565026373826797,0.9726124491306268,2446,207,ok
+geo_area_rugged,iv_official_x_geo_area_rugged,rb_nonfarm_any,Any broad nonfarm work,province_fe,0.010037236599823106,0.03111553736902057,0.7473408281103531,2446,207,ok
+geo_area_rugged,iv_official_x_geo_area_rugged,rb_nonfarm_n,Broad nonfarm workers,province_fe,-0.03861262173175034,0.08911842176478091,0.6652696550060267,2446,207,ok
+geo_area_rugged,iv_official_x_geo_area_rugged,land_total_mu,Household land base,province_fe,0.6450748336712231,0.5160707165924484,0.21274118616550086,2267,205,ok
+geo_area_rugged,iv_official_x_geo_area_rugged,contracted_land_mu,Contracted land,province_fe,,,,0,0,too_few
+geo_area_rugged,iv_official_x_geo_area_rugged,asinh_rb_inc_farm,asinh farm income,province_fe,-0.023511354914373256,0.3890877166692767,0.951874236810063,2408,207,ok
+geo_area_rugged,iv_official_x_geo_area_rugged,asinh_rb_farm_cost,asinh farm cost,province_fe,-4.813401627625641e-05,0.1789157470729972,0.9997856173446206,1926,197,ok
+geo_area_rugged,iv_official_x_geo_area_rugged,base14_rg_govrent_any,Government rent-in any,province_fe,-0.05562505260034435,0.05875187329405508,0.3448937903055741,2347,201,ok
+geo_area_rugged,iv_official_x_geo_area_rugged,base14_rg_abs_rent,Absolute rent paid,province_fe,0.017209316097546886,0.018679049946425105,0.35932132928861427,1008,92,ok
+geo_area_rugged,iv_official_x_geo_area_rugged,a2_mobility_ease_county_z,County mobility ease,province_fe,-0.013475099126467641,0.04579648403866776,0.768871762030726,2446,207,ok
+geo_area_rugged,iv_official_x_geo_area_rugged,base14_broad_z,Village broad insecurity z,province_fe,-0.12512964332482626,0.14117747535809338,0.3764739636853591,2446,207,ok
+survey_net_distance,iv_official_x_survey_net_distance,any_rentin,Any rent-in (2014),province_fe,-0.031204548996394126,0.021678284272103786,0.15157426670238475,2329,203,ok
+survey_net_distance,iv_official_x_survey_net_distance,asinh_rentin,asinh rented-in area (2014),province_fe,-0.0549893370456147,0.04104071246313201,0.1817919954882198,2329,203,ok
+survey_net_distance,iv_official_x_survey_net_distance,any_rentout,Any rent-out (2014),province_fe,,,,0,0,too_few
+survey_net_distance,iv_official_x_survey_net_distance,asinh_rentout,asinh rented-out area (2014),province_fe,,,,0,0,too_few
+survey_net_distance,iv_official_x_survey_net_distance,a3_tenure_insec_z,Baseline tenure insecurity index,province_fe,-0.10941053914004119,0.18956479064546514,0.5644725439859275,2362,202,ok
+survey_net_distance,iv_official_x_survey_net_distance,ib_nonfarm_curr_n,Current nonfarm workers,province_fe,0.07603350706111481,0.07348771850647366,0.3020490223855557,2446,207,ok
+survey_net_distance,iv_official_x_survey_net_distance,rb_nonfarm_any,Any broad nonfarm work,province_fe,0.05742244164744374,0.03146319910713563,0.06943919024487025,2446,207,ok
+survey_net_distance,iv_official_x_survey_net_distance,rb_nonfarm_n,Broad nonfarm workers,province_fe,0.05673777823371516,0.08908662016960114,0.5249079881213071,2446,207,ok
+survey_net_distance,iv_official_x_survey_net_distance,land_total_mu,Household land base,province_fe,0.23053958793359663,0.6469082203812635,0.7219307461096087,2267,205,ok
+survey_net_distance,iv_official_x_survey_net_distance,contracted_land_mu,Contracted land,province_fe,,,,0,0,too_few
+survey_net_distance,iv_official_x_survey_net_distance,asinh_rb_inc_farm,asinh farm income,province_fe,-0.5030661027304981,0.3614385576984639,0.16547057013785296,2408,207,ok
+survey_net_distance,iv_official_x_survey_net_distance,asinh_rb_farm_cost,asinh farm cost,province_fe,-0.3071528290637557,0.2107179898779025,0.1465377402684251,1926,197,ok
+survey_net_distance,iv_official_x_survey_net_distance,base14_rg_govrent_any,Government rent-in any,province_fe,-0.033453207317151755,0.06022392758724876,0.5791869618802787,2347,201,ok
+survey_net_distance,iv_official_x_survey_net_distance,base14_rg_abs_rent,Absolute rent paid,province_fe,0.05389230977759876,0.04793427104872486,0.2638444508832595,1008,92,ok
+survey_net_distance,iv_official_x_survey_net_distance,a2_mobility_ease_county_z,County mobility ease,province_fe,-0.022443897799949496,0.056508577300360976,0.6916482663265083,2446,207,ok
+survey_net_distance,iv_official_x_survey_net_distance,base14_broad_z,Village broad insecurity z,province_fe,-0.0368370012594138,0.15067265216472406,0.8070995995119431,2446,207,ok
+raw_survey_cost,iv_official_x_survey_cost,any_rentin,Any rent-in (2014),province_fe,-0.02617113763904725,0.02417435233845463,0.2802769174028923,2329,203,ok
+raw_survey_cost,iv_official_x_survey_cost,asinh_rentin,asinh rented-in area (2014),province_fe,-0.014451772306245225,0.04363709763327643,0.7408511685263803,2329,203,ok
+raw_survey_cost,iv_official_x_survey_cost,any_rentout,Any rent-out (2014),province_fe,,,,0,0,too_few
+raw_survey_cost,iv_official_x_survey_cost,asinh_rentout,asinh rented-out area (2014),province_fe,,,,0,0,too_few
+raw_survey_cost,iv_official_x_survey_cost,a3_tenure_insec_z,Baseline tenure insecurity index,province_fe,-0.22875083632030982,0.1448876919105251,0.1159509704228147,2362,202,ok
+raw_survey_cost,iv_official_x_survey_cost,ib_nonfarm_curr_n,Current nonfarm workers,province_fe,-0.0824452784294196,0.08568967181973663,0.3371083597994157,2446,207,ok
+raw_survey_cost,iv_official_x_survey_cost,rb_nonfarm_any,Any broad nonfarm work,province_fe,-0.03880745476112659,0.03187806534040958,0.22485552568022574,2446,207,ok
+raw_survey_cost,iv_official_x_survey_cost,rb_nonfarm_n,Broad nonfarm workers,province_fe,-0.13320164549525362,0.09521423084080419,0.16332645725838055,2446,207,ok
+raw_survey_cost,iv_official_x_survey_cost,land_total_mu,Household land base,province_fe,1.0141494272129172,0.6458706177410947,0.11791710840990152,2267,205,ok
+raw_survey_cost,iv_official_x_survey_cost,contracted_land_mu,Contracted land,province_fe,,,,0,0,too_few
+raw_survey_cost,iv_official_x_survey_cost,asinh_rb_inc_farm,asinh farm income,province_fe,0.46376299640307994,0.46184434761178267,0.3164822848799596,2408,207,ok
+raw_survey_cost,iv_official_x_survey_cost,asinh_rb_farm_cost,asinh farm cost,province_fe,0.2916711379131007,0.19186415622037825,0.13007322944365055,1926,197,ok
+raw_survey_cost,iv_official_x_survey_cost,base14_rg_govrent_any,Government rent-in any,province_fe,-0.0744681075584583,0.0609433700871207,0.22317495961616282,2347,201,ok
+raw_survey_cost,iv_official_x_survey_cost,base14_rg_abs_rent,Absolute rent paid,province_fe,0.0001580538578533977,0.02096763280891758,0.9940021098292503,1008,92,ok
+raw_survey_cost,iv_official_x_survey_cost,a2_mobility_ease_county_z,County mobility ease,province_fe,-0.0035021540143856692,0.045453631160538535,0.9386593952555863,2446,207,ok
+raw_survey_cost,iv_official_x_survey_cost,base14_broad_z,Village broad insecurity z,province_fe,-0.2070969900653649,0.15723451238113553,0.18926104272057662,2446,207,ok

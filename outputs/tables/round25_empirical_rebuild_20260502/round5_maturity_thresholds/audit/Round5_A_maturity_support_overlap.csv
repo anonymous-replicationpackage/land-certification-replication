@@ -1,0 +1,17 @@
+block,item,category,rows,households,counties
+threshold_support,signoff_or_issue_t_observed,all,978,643,38
+threshold_support,signoff_or_issue_t_positive,all,316,270,19
+threshold_support,completed_t_observed,all,1295,889,56
+threshold_support,completed_t_positive,all,428,376,30
+threshold_support,high_sat70_t_observed,all,1339,933,60
+threshold_support,high_sat70_t_positive,all,457,405,33
+threshold_support,high_sat80_t_observed,all,1339,933,60
+threshold_support,high_sat80_t_positive,all,457,405,33
+threshold_support,high_sat90_t_observed,all,1339,933,60
+threshold_support,high_sat90_t_positive,all,421,371,30
+stage_support,maturity_stage,0,614,523,37
+stage_support,maturity_stage,3,457,405,33
+threshold_overlap,completed_eq_high80,rows,2019,,
+threshold_overlap,completed_high80_total,rows,2019,,
+threshold_overlap,completed_only_not_high80,rows,0,,
+threshold_overlap,high80_without_completed,rows,0,,

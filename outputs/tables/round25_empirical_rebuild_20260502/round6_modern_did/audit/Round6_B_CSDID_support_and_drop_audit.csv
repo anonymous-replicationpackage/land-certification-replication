@@ -1,0 +1,25 @@
+﻿scope,sample,threshold,threshold_var,outcome,outcome_label,raw_obs,raw_households,raw_counties,raw_county_cohort_counts,validator_drop_always_entities,validator_ignore_after_entities,valid_obs,valid_households,valid_counties,status,error_message,warnings,warn_drop_always_entities,warn_ignore_after_entities
+mechanism,Mechanism sample,Signoff/issuance,signoff_or_issue_t,any_rentin,Any rent-in,5144,3460,214,"{nan: 195, 2016.0: 15, 2018.0: 4}",113,90,5011,3347,214,ok,,"113 entities have been dropped because always treated (treated from before their first time) | 90 entity-events ignored because the event (cohort) date
+ is after the end of the panel for the specific entity, as if never treated",113,90
+mechanism,Mechanism sample,Signoff/issuance,signoff_or_issue_t,asinh_rentin,asinh rented-in area,5138,3457,214,"{nan: 195, 2016.0: 15, 2018.0: 4}",113,90,5005,3344,214,ok,,"113 entities have been dropped because always treated (treated from before their first time) | 90 entity-events ignored because the event (cohort) date
+ is after the end of the panel for the specific entity, as if never treated",113,90
+mechanism,Mechanism sample,Completion,completed_t,any_rentin,Any rent-in,5144,3460,214,"{nan: 184, 2016.0: 17, 2018.0: 13}",173,157,4948,3287,214,ok,,"173 entities have been dropped because always treated (treated from before their first time) | 157 entity-events ignored because the event (cohort) date
+ is after the end of the panel for the specific entity, as if never treated",173,157
+mechanism,Mechanism sample,Completion,completed_t,asinh_rentin,asinh rented-in area,5138,3457,214,"{nan: 184, 2016.0: 17, 2018.0: 13}",173,157,4942,3284,214,ok,,"173 entities have been dropped because always treated (treated from before their first time) | 157 entity-events ignored because the event (cohort) date
+ is after the end of the panel for the specific entity, as if never treated",173,157
+mechanism,Mechanism sample,High-saturation,high_sat80_t,any_rentin,Any rent-in,5144,3460,214,"{nan: 181, 2016.0: 17, 2018.0: 16}",188,183,4933,3272,214,ok,,"188 entities have been dropped because always treated (treated from before their first time) | 183 entity-events ignored because the event (cohort) date
+ is after the end of the panel for the specific entity, as if never treated",188,183
+mechanism,Mechanism sample,High-saturation,high_sat80_t,asinh_rentin,asinh rented-in area,5138,3457,214,"{nan: 181, 2016.0: 17, 2018.0: 16}",188,183,4927,3269,214,ok,,"188 entities have been dropped because always treated (treated from before their first time) | 183 entity-events ignored because the event (cohort) date
+ is after the end of the panel for the specific entity, as if never treated",188,183
+adjacent,Adjacent sample,Signoff/issuance,signoff_or_issue_t,any_rentin,Any rent-in,4390,2838,208,"{nan: 189, 2016.0: 15, 2018.0: 4}",62,84,4317,2776,208,ok,,"62 entities have been dropped because always treated (treated from before their first time) | 84 entity-events ignored because the event (cohort) date
+ is after the end of the panel for the specific entity, as if never treated",62,84
+adjacent,Adjacent sample,Signoff/issuance,signoff_or_issue_t,asinh_rentin,asinh rented-in area,4385,2836,208,"{nan: 189, 2016.0: 15, 2018.0: 4}",62,84,4312,2774,208,ok,,"62 entities have been dropped because always treated (treated from before their first time) | 84 entity-events ignored because the event (cohort) date
+ is after the end of the panel for the specific entity, as if never treated",62,84
+adjacent,Adjacent sample,Completion,completed_t,any_rentin,Any rent-in,4390,2838,208,"{nan: 178, 2016.0: 17, 2018.0: 13}",98,130,4278,2740,208,ok,,"98 entities have been dropped because always treated (treated from before their first time) | 130 entity-events ignored because the event (cohort) date
+ is after the end of the panel for the specific entity, as if never treated",98,130
+adjacent,Adjacent sample,Completion,completed_t,asinh_rentin,asinh rented-in area,4385,2836,208,"{nan: 178, 2016.0: 17, 2018.0: 13}",98,130,4273,2738,208,ok,,"98 entities have been dropped because always treated (treated from before their first time) | 130 entity-events ignored because the event (cohort) date
+ is after the end of the panel for the specific entity, as if never treated",98,130
+adjacent,Adjacent sample,High-saturation,high_sat80_t,any_rentin,Any rent-in,4390,2838,208,"{nan: 175, 2016.0: 17, 2018.0: 16}",110,150,4266,2728,208,ok,,"110 entities have been dropped because always treated (treated from before their first time) | 150 entity-events ignored because the event (cohort) date
+ is after the end of the panel for the specific entity, as if never treated",110,150
+adjacent,Adjacent sample,High-saturation,high_sat80_t,asinh_rentin,asinh rented-in area,4385,2836,208,"{nan: 175, 2016.0: 17, 2018.0: 16}",110,150,4261,2726,208,ok,,"110 entities have been dropped because always treated (treated from before their first time) | 150 entity-events ignored because the event (cohort) date
+ is after the end of the panel for the specific entity, as if never treated",110,150

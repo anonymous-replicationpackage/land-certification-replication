@@ -1,0 +1,43 @@
+order,step,source,hh_year,households,counties,note
+1,CLDS 2014/2016/2018 registry wave rows,registry,22051,9504,349,s_wave==1
+2,Land/rural-eligible registry rows,registry,19327,8381,349,s_land==1 within wave rows
+3,Timing/main-variable eligible registry rows,registry,13106,6188,349,s_mech_hh==1 within land-eligible rows
+4,Current mechanism panel rows,panel,8542,6188,349,topjournal household mechanism panel
+5,Current panel households observed in 2014,panel,2405,2405,207,baseline row available
+6,Adjacent-switch validation panel rows,panel,6611,4703,342,timing_adjacent_hh==1
+10,Raw stacked rows: adjacent x completed_t,stack,8338,4623,342,before outcome/A3/singleton restrictions
+10,Raw stacked rows: adjacent x high_sat80_t,stack,8338,4623,342,before outcome/A3/singleton restrictions
+10,Raw stacked rows: adjacent x signoff_or_issue_t,stack,8417,4641,342,before outcome/A3/singleton restrictions
+10,Raw stacked rows: mech x completed_t,stack,11152,6082,349,before outcome/A3/singleton restrictions
+10,Raw stacked rows: mech x high_sat80_t,stack,11152,6082,349,before outcome/A3/singleton restrictions
+10,Raw stacked rows: mech x signoff_or_issue_t,stack,11253,6107,349,before outcome/A3/singleton restrictions
+11,A3 moderator nonmissing: adjacent x completed_t,stack,5810,2878,210,instab_high nonmissing
+11,A3 moderator nonmissing: adjacent x high_sat80_t,stack,5810,2878,210,instab_high nonmissing
+11,A3 moderator nonmissing: adjacent x signoff_or_issue_t,stack,5842,2884,210,instab_high nonmissing
+11,A3 moderator nonmissing: mech x completed_t,stack,7000,3503,216,instab_high nonmissing
+11,A3 moderator nonmissing: mech x high_sat80_t,stack,7000,3503,216,instab_high nonmissing
+11,A3 moderator nonmissing: mech x signoff_or_issue_t,stack,7038,3510,216,instab_high nonmissing
+12,Outcome nonmissing: adjacent x completed_t x any_rentin,stack,5661,2814,208,before reghdfe singleton drop
+12,Outcome nonmissing: adjacent x completed_t x asinh_rentin,stack,5653,2812,208,before reghdfe singleton drop
+12,Outcome nonmissing: adjacent x high_sat80_t x any_rentin,stack,5661,2814,208,before reghdfe singleton drop
+12,Outcome nonmissing: adjacent x high_sat80_t x asinh_rentin,stack,5653,2812,208,before reghdfe singleton drop
+12,Outcome nonmissing: adjacent x signoff_or_issue_t x any_rentin,stack,5692,2819,208,before reghdfe singleton drop
+12,Outcome nonmissing: adjacent x signoff_or_issue_t x asinh_rentin,stack,5684,2817,208,before reghdfe singleton drop
+12,Outcome nonmissing: mech x completed_t x any_rentin,stack,6827,3432,214,before reghdfe singleton drop
+12,Outcome nonmissing: mech x completed_t x asinh_rentin,stack,6818,3429,214,before reghdfe singleton drop
+12,Outcome nonmissing: mech x high_sat80_t x any_rentin,stack,6827,3432,214,before reghdfe singleton drop
+12,Outcome nonmissing: mech x high_sat80_t x asinh_rentin,stack,6818,3429,214,before reghdfe singleton drop
+12,Outcome nonmissing: mech x signoff_or_issue_t x any_rentin,stack,6864,3438,214,before reghdfe singleton drop
+12,Outcome nonmissing: mech x signoff_or_issue_t x asinh_rentin,stack,6855,3435,214,before reghdfe singleton drop
+13,Estimation sample: adjacent x completed_t x any_rentin,stack,2860,1138,134,after reghdfe singleton drop
+13,Estimation sample: adjacent x completed_t x asinh_rentin,stack,2854,1135,134,after reghdfe singleton drop
+13,Estimation sample: adjacent x high_sat80_t x any_rentin,stack,2860,1138,134,after reghdfe singleton drop
+13,Estimation sample: adjacent x high_sat80_t x asinh_rentin,stack,2854,1135,134,after reghdfe singleton drop
+13,Estimation sample: adjacent x signoff_or_issue_t x any_rentin,stack,2872,1141,134,after reghdfe singleton drop
+13,Estimation sample: adjacent x signoff_or_issue_t x asinh_rentin,stack,2866,1138,134,after reghdfe singleton drop
+13,Estimation sample: mech x completed_t x any_rentin,stack,3024,1220,139,after reghdfe singleton drop
+13,Estimation sample: mech x completed_t x asinh_rentin,stack,3018,1217,139,after reghdfe singleton drop
+13,Estimation sample: mech x high_sat80_t x any_rentin,stack,3024,1220,139,after reghdfe singleton drop
+13,Estimation sample: mech x high_sat80_t x asinh_rentin,stack,3018,1217,139,after reghdfe singleton drop
+13,Estimation sample: mech x signoff_or_issue_t x any_rentin,stack,3036,1223,139,after reghdfe singleton drop
+13,Estimation sample: mech x signoff_or_issue_t x asinh_rentin,stack,3030,1220,139,after reghdfe singleton drop

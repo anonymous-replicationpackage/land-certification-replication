@@ -1,0 +1,905 @@
+﻿level,sample,risk_proxy,risk_type,treat,outcome,term,b,se,p,N,counties,proxy_counties,status
+household,full,tenure_risk_index_z,continuous,hybrid_started_t,any_transfer_in_zfill,baseline/low-risk treatment effect,0.009915613923295529,0.012113579372134987,0.41304115303490385,8873.0,24.0,24.0,ok
+household,full,tenure_risk_index_z,continuous,hybrid_started_t,any_transfer_in_zfill,risk interaction,0.0026143812288459732,0.007540978028901017,0.7288242679083958,8873.0,24.0,24.0,ok
+household,full,tenure_risk_index_z,continuous,hybrid_started_t,any_transfer_in_zfill,high-risk total effect,0.012529995152141503,0.0097567390498805,0.19905797200088238,8873.0,24.0,24.0,ok
+household,full,tenure_risk_index_z,continuous,hybrid_started_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,0.01212426398881451,0.021288392376366486,0.5690001545255601,8873.0,24.0,24.0,ok
+household,full,tenure_risk_index_z,continuous,hybrid_started_t,asinh_transfer_in_area_zfill,risk interaction,0.00514173207446804,0.013423922104822716,0.7016993326202199,8873.0,24.0,24.0,ok
+household,full,tenure_risk_index_z,continuous,hybrid_started_t,asinh_transfer_in_area_zfill,high-risk total effect,0.017265996063282548,0.017478789706256114,0.3232380639214111,8873.0,24.0,24.0,ok
+household,full,tenure_risk_index_z,continuous,hybrid_started_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,-0.021653784392057226,0.03440104848267301,0.529053647643751,8873.0,24.0,24.0,ok
+household,full,tenure_risk_index_z,continuous,hybrid_started_t,asinh_market_volume_area_zfill,risk interaction,-0.007658459490175232,0.02290919173770199,0.7381559342125606,8873.0,24.0,24.0,ok
+household,full,tenure_risk_index_z,continuous,hybrid_started_t,asinh_market_volume_area_zfill,high-risk total effect,-0.02931224388223246,0.021177555426623845,0.1663222073472126,8873.0,24.0,24.0,ok
+household,full,tenure_risk_index_z,continuous,hybrid_started_t,asinh_operated_area_end,baseline/low-risk treatment effect,-0.1394752659346767,0.09196031580694194,0.12934504014637468,6878.0,24.0,24.0,ok
+household,full,tenure_risk_index_z,continuous,hybrid_started_t,asinh_operated_area_end,risk interaction,-0.37989516135360857,0.24957373610680425,0.12796497694306602,6878.0,24.0,24.0,ok
+household,full,tenure_risk_index_z,continuous,hybrid_started_t,asinh_operated_area_end,high-risk total effect,-0.5193704272882853,0.33327604284094375,0.11914340263182571,6878.0,24.0,24.0,ok
+household,full,tenure_risk_index_z,continuous,hybrid_rate_high_t,any_transfer_in_zfill,baseline/low-risk treatment effect,0.026748073203837278,0.01247128644446851,0.03197103456038321,2338.0,8.0,8.0,ok
+household,full,tenure_risk_index_z,continuous,hybrid_rate_high_t,any_transfer_in_zfill,risk interaction,0.017374539918016744,0.035570307762173826,0.6252266918910342,2338.0,8.0,8.0,ok
+household,full,tenure_risk_index_z,continuous,hybrid_rate_high_t,any_transfer_in_zfill,high-risk total effect,0.04412261312185402,0.02993980083298399,0.14055942620072276,2338.0,8.0,8.0,ok
+household,full,tenure_risk_index_z,continuous,hybrid_rate_high_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,0.04196563848683828,0.015231201515990986,0.005864882859884323,2338.0,8.0,8.0,ok
+household,full,tenure_risk_index_z,continuous,hybrid_rate_high_t,asinh_transfer_in_area_zfill,risk interaction,0.06592768059656821,0.0200389957577643,0.001001983186158006,2338.0,8.0,8.0,ok
+household,full,tenure_risk_index_z,continuous,hybrid_rate_high_t,asinh_transfer_in_area_zfill,high-risk total effect,0.10789331908340649,0.01915225168341611,1.7663617076613226e-08,2338.0,8.0,8.0,ok
+household,full,tenure_risk_index_z,continuous,hybrid_rate_high_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,0.11306731285517853,0.0358323912430273,0.0016025082409851239,2338.0,8.0,8.0,ok
+household,full,tenure_risk_index_z,continuous,hybrid_rate_high_t,asinh_market_volume_area_zfill,risk interaction,0.08796463453652521,0.060224308452364705,0.14412064304050892,2338.0,8.0,8.0,ok
+household,full,tenure_risk_index_z,continuous,hybrid_rate_high_t,asinh_market_volume_area_zfill,high-risk total effect,0.20103194739170374,0.049726304350115734,5.2823720943017096e-05,2338.0,8.0,8.0,ok
+household,full,tenure_risk_index_z,continuous,hybrid_rate_high_t,asinh_operated_area_end,baseline/low-risk treatment effect,0.06471220374913247,0.05160408910185157,0.2098372439590208,1660.0,8.0,8.0,ok
+household,full,tenure_risk_index_z,continuous,hybrid_rate_high_t,asinh_operated_area_end,risk interaction,-0.06776414879204701,0.09459833959450199,0.4737842121418847,1660.0,8.0,8.0,ok
+household,full,tenure_risk_index_z,continuous,hybrid_rate_high_t,asinh_operated_area_end,high-risk total effect,-0.0030519450429145334,0.10499707792688506,0.9768111929966738,1660.0,8.0,8.0,ok
+household,full,tenure_risk_index_z,continuous,hybrid_rate_any_t,any_transfer_in_zfill,baseline/low-risk treatment effect,-0.015510976698117863,0.01590518065162694,0.32945343759545,9966.0,27.0,27.0,ok
+household,full,tenure_risk_index_z,continuous,hybrid_rate_any_t,any_transfer_in_zfill,risk interaction,0.010374289649222298,0.02067814993311101,0.615876460946393,9966.0,27.0,27.0,ok
+household,full,tenure_risk_index_z,continuous,hybrid_rate_any_t,any_transfer_in_zfill,high-risk total effect,-0.005136687048895566,0.026652954243404137,0.8471744478633798,9966.0,27.0,27.0,ok
+household,full,tenure_risk_index_z,continuous,hybrid_rate_any_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,-0.03448398023546809,0.020865961156941677,0.09840358432383234,9966.0,27.0,27.0,ok
+household,full,tenure_risk_index_z,continuous,hybrid_rate_any_t,asinh_transfer_in_area_zfill,risk interaction,0.039396244858419645,0.03698651379961727,0.2868073257302449,9966.0,27.0,27.0,ok
+household,full,tenure_risk_index_z,continuous,hybrid_rate_any_t,asinh_transfer_in_area_zfill,high-risk total effect,0.004912264622951558,0.04601849241789869,0.9149909256943589,9966.0,27.0,27.0,ok
+household,full,tenure_risk_index_z,continuous,hybrid_rate_any_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,-0.0033220083628673833,0.06947236750517365,0.9618615354637462,9966.0,27.0,27.0,ok
+household,full,tenure_risk_index_z,continuous,hybrid_rate_any_t,asinh_market_volume_area_zfill,risk interaction,0.2577044689585609,0.09854568025936143,0.008920753540467653,9966.0,27.0,27.0,ok
+household,full,tenure_risk_index_z,continuous,hybrid_rate_any_t,asinh_market_volume_area_zfill,high-risk total effect,0.2543824605956935,0.10735997357129867,0.01781529451487468,9966.0,27.0,27.0,ok
+household,full,tenure_risk_index_z,continuous,hybrid_rate_any_t,asinh_operated_area_end,baseline/low-risk treatment effect,0.06376823446220553,0.0644955485189293,0.32279866949636293,7410.0,27.0,27.0,ok
+household,full,tenure_risk_index_z,continuous,hybrid_rate_any_t,asinh_operated_area_end,risk interaction,0.05276447550476751,0.15712559215033337,0.7370135228557226,7410.0,27.0,27.0,ok
+household,full,tenure_risk_index_z,continuous,hybrid_rate_any_t,asinh_operated_area_end,high-risk total effect,0.11653270996697304,0.21618518885922838,0.5898584701255973,7410.0,27.0,27.0,ok
+household,full,tenure_risk_index_z,high_binary,hybrid_started_t,any_transfer_in_zfill,baseline/low-risk treatment effect,0.006220778185434253,0.01610227160969951,0.6992528555944064,8873.0,24.0,24.0,ok
+household,full,tenure_risk_index_z,high_binary,hybrid_started_t,any_transfer_in_zfill,risk interaction,0.011804184111234427,0.017220555955987087,0.4930470328037969,8873.0,24.0,24.0,ok
+household,full,tenure_risk_index_z,high_binary,hybrid_started_t,any_transfer_in_zfill,high-risk total effect,0.01802496229666868,0.0061044570969264085,0.0031495247630993926,8873.0,24.0,24.0,ok
+household,full,tenure_risk_index_z,high_binary,hybrid_started_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,0.006572866214761517,0.0291132303749155,0.8213810541030004,8873.0,24.0,24.0,ok
+household,full,tenure_risk_index_z,high_binary,hybrid_started_t,asinh_transfer_in_area_zfill,risk interaction,0.017383793020306057,0.03129963062571775,0.5786215695266044,8873.0,24.0,24.0,ok
+household,full,tenure_risk_index_z,high_binary,hybrid_started_t,asinh_transfer_in_area_zfill,high-risk total effect,0.023956659235067575,0.011492897570157373,0.03711696951620795,8873.0,24.0,24.0,ok
+household,full,tenure_risk_index_z,high_binary,hybrid_started_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,-0.039040956299989556,0.04502521271953636,0.38589215657131193,8873.0,24.0,24.0,ok
+household,full,tenure_risk_index_z,high_binary,hybrid_started_t,asinh_market_volume_area_zfill,risk interaction,0.03212312640249068,0.0488350121016838,0.5106738206980894,8873.0,24.0,24.0,ok
+household,full,tenure_risk_index_z,high_binary,hybrid_started_t,asinh_market_volume_area_zfill,high-risk total effect,-0.006917829897498874,0.018910013930500343,0.714492741470935,8873.0,24.0,24.0,ok
+household,full,tenure_risk_index_z,high_binary,hybrid_started_t,asinh_operated_area_end,baseline/low-risk treatment effect,0.004772516107698913,0.037496043294012626,0.898718373060176,6878.0,24.0,24.0,ok
+household,full,tenure_risk_index_z,high_binary,hybrid_started_t,asinh_operated_area_end,risk interaction,-0.5510884168991185,0.2586347240295566,0.03310895356048587,6878.0,24.0,24.0,ok
+household,full,tenure_risk_index_z,high_binary,hybrid_started_t,asinh_operated_area_end,high-risk total effect,-0.5463159007914196,0.255902261058804,0.03277231987751279,6878.0,24.0,24.0,ok
+household,full,tenure_risk_index_z,high_binary,hybrid_rate_high_t,any_transfer_in_zfill,baseline/low-risk treatment effect,0.010193882074828306,0.0138881569315226,0.4629498401387647,2338.0,8.0,8.0,ok
+household,full,tenure_risk_index_z,high_binary,hybrid_rate_high_t,any_transfer_in_zfill,risk interaction,0.022064182441300505,0.013888156931522923,0.11212704075190787,2338.0,8.0,8.0,ok
+household,full,tenure_risk_index_z,high_binary,hybrid_rate_high_t,any_transfer_in_zfill,high-risk total effect,0.03225806451612881,2.8515813671787943e-10,0.0,2338.0,8.0,8.0,ok
+household,full,tenure_risk_index_z,high_binary,hybrid_rate_high_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,-0.009552699022898943,0.007966586016205864,0.23049073654559904,2338.0,8.0,8.0,ok
+household,full,tenure_risk_index_z,high_binary,hybrid_rate_high_t,asinh_transfer_in_area_zfill,risk interaction,0.07612853352951868,0.013856906518877865,3.9314114296802304e-08,2338.0,8.0,8.0,ok
+household,full,tenure_risk_index_z,high_binary,hybrid_rate_high_t,asinh_transfer_in_area_zfill,high-risk total effect,0.06657583450661973,0.011337873062803882,4.306045180609311e-09,2338.0,8.0,8.0,ok
+household,full,tenure_risk_index_z,high_binary,hybrid_rate_high_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,0.036588645320191196,0.03855935930345177,0.3426758372616584,2338.0,8.0,8.0,ok
+household,full,tenure_risk_index_z,high_binary,hybrid_rate_high_t,asinh_market_volume_area_zfill,risk interaction,0.10071456886008583,0.048298476723140187,0.03704629359124153,2338.0,8.0,8.0,ok
+household,full,tenure_risk_index_z,high_binary,hybrid_rate_high_t,asinh_market_volume_area_zfill,high-risk total effect,0.13730321418027702,0.029084680922036688,2.349088163095169e-06,2338.0,8.0,8.0,ok
+household,full,tenure_risk_index_z,high_binary,hybrid_rate_high_t,asinh_operated_area_end,baseline/low-risk treatment effect,0.04281554873851031,0.0033537061517691946,2.5180096102133157e-37,1660.0,8.0,8.0,ok
+household,full,tenure_risk_index_z,high_binary,hybrid_rate_high_t,asinh_operated_area_end,risk interaction,0.014541762463238253,0.05124632103619392,0.7765927190221829,1660.0,8.0,8.0,ok
+household,full,tenure_risk_index_z,high_binary,hybrid_rate_high_t,asinh_operated_area_end,high-risk total effect,0.05735731120174856,0.0511364651652302,0.26201049289601597,1660.0,8.0,8.0,ok
+household,full,tenure_risk_index_z,high_binary,hybrid_rate_any_t,any_transfer_in_zfill,baseline/low-risk treatment effect,-0.015254018247730535,0.01557278477168983,0.3273179072482626,9966.0,27.0,27.0,ok
+household,full,tenure_risk_index_z,high_binary,hybrid_rate_any_t,any_transfer_in_zfill,risk interaction,0.001237376118902623,0.028672080102057493,0.965577072818196,9966.0,27.0,27.0,ok
+household,full,tenure_risk_index_z,high_binary,hybrid_rate_any_t,any_transfer_in_zfill,high-risk total effect,-0.014016642128827913,0.024074396190794208,0.5604171836415925,9966.0,27.0,27.0,ok
+household,full,tenure_risk_index_z,high_binary,hybrid_rate_any_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,-0.05239552015457409,0.023076217874673448,0.023174722549096298,9966.0,27.0,27.0,ok
+household,full,tenure_risk_index_z,high_binary,hybrid_rate_any_t,asinh_transfer_in_area_zfill,risk interaction,0.03311803080684062,0.04020090992240155,0.4100458395857215,9966.0,27.0,27.0,ok
+household,full,tenure_risk_index_z,high_binary,hybrid_rate_any_t,asinh_transfer_in_area_zfill,high-risk total effect,-0.01927748934773347,0.03291810028824085,0.5581310796483379,9966.0,27.0,27.0,ok
+household,full,tenure_risk_index_z,high_binary,hybrid_rate_any_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,-0.095041663949487,0.10644878609929727,0.3719432154588437,9966.0,27.0,27.0,ok
+household,full,tenure_risk_index_z,high_binary,hybrid_rate_any_t,asinh_market_volume_area_zfill,risk interaction,0.15874676696423878,0.11848347033775423,0.1803032028512478,9966.0,27.0,27.0,ok
+household,full,tenure_risk_index_z,high_binary,hybrid_rate_any_t,asinh_market_volume_area_zfill,high-risk total effect,0.06370510301475178,0.05202872938855998,0.22079320384237255,9966.0,27.0,27.0,ok
+household,full,tenure_risk_index_z,high_binary,hybrid_rate_any_t,asinh_operated_area_end,baseline/low-risk treatment effect,0.06731604988880732,0.03284743177242178,0.04042741012922909,7410.0,27.0,27.0,ok
+household,full,tenure_risk_index_z,high_binary,hybrid_rate_any_t,asinh_operated_area_end,risk interaction,0.03157951920679303,0.1246502336670504,0.8000015893666351,7410.0,27.0,27.0,ok
+household,full,tenure_risk_index_z,high_binary,hybrid_rate_any_t,asinh_operated_area_end,high-risk total effect,0.09889556909560035,0.1202444467383298,0.41081835376343157,7410.0,27.0,27.0,ok
+household,full,risk_dispute_z,continuous,hybrid_started_t,any_transfer_in_zfill,baseline/low-risk treatment effect,0.01895763923814362,0.02944535232069554,0.5196892445891401,7305.0,20.0,20.0,ok
+household,full,risk_dispute_z,continuous,hybrid_started_t,any_transfer_in_zfill,risk interaction,0.026923142708576504,0.07519519182588688,0.7203108294399817,7305.0,20.0,20.0,ok
+household,full,risk_dispute_z,continuous,hybrid_started_t,any_transfer_in_zfill,high-risk total effect,0.04588078194672013,0.10075239861401426,0.648834777005657,7305.0,20.0,20.0,ok
+household,full,risk_dispute_z,continuous,hybrid_started_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,0.0022888562897038,0.04305631883322651,0.9576047519497942,7305.0,20.0,20.0,ok
+household,full,risk_dispute_z,continuous,hybrid_started_t,asinh_transfer_in_area_zfill,risk interaction,-0.031252847532090004,0.09495181554004212,0.7420466319828494,7305.0,20.0,20.0,ok
+household,full,risk_dispute_z,continuous,hybrid_started_t,asinh_transfer_in_area_zfill,high-risk total effect,-0.028963991242386203,0.1298443476408097,0.8234833485812372,7305.0,20.0,20.0,ok
+household,full,risk_dispute_z,continuous,hybrid_started_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,-0.11309621785931204,0.07465037507771534,0.1297693522903131,7305.0,20.0,20.0,ok
+household,full,risk_dispute_z,continuous,hybrid_started_t,asinh_market_volume_area_zfill,risk interaction,-0.2738863473811967,0.18354206609386214,0.13563975966540892,7305.0,20.0,20.0,ok
+household,full,risk_dispute_z,continuous,hybrid_started_t,asinh_market_volume_area_zfill,high-risk total effect,-0.3869825652405088,0.2521361032608639,0.12482899271162991,7305.0,20.0,20.0,ok
+household,full,risk_dispute_z,continuous,hybrid_started_t,asinh_operated_area_end,baseline/low-risk treatment effect,-0.24298668783378613,0.05325504066912097,5.050033871567222e-06,5860.0,20.0,20.0,ok
+household,full,risk_dispute_z,continuous,hybrid_started_t,asinh_operated_area_end,risk interaction,-0.8290091737270582,0.08225457032709282,6.87127236371035e-24,5860.0,20.0,20.0,ok
+household,full,risk_dispute_z,continuous,hybrid_started_t,asinh_operated_area_end,high-risk total effect,-1.0719958615608443,0.09282786991709782,7.537272617341465e-31,5860.0,20.0,20.0,ok
+household,full,risk_dispute_z,continuous,hybrid_rate_high_t,any_transfer_in_zfill,baseline/low-risk treatment effect,0.12766575291597712,0.023712070583822124,7.284910279050446e-08,2292.0,7.0,7.0,ok
+household,full,risk_dispute_z,continuous,hybrid_rate_high_t,any_transfer_in_zfill,risk interaction,0.3994569836012653,0.07880942697646387,4.0065835147444236e-07,2292.0,7.0,7.0,ok
+household,full,risk_dispute_z,continuous,hybrid_rate_high_t,any_transfer_in_zfill,high-risk total effect,0.5271227365172424,0.10242410761718121,2.654319656316683e-07,2292.0,7.0,7.0,ok
+household,full,risk_dispute_z,continuous,hybrid_rate_high_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,0.11631582361010297,0.014515586423791478,1.1179133181739507e-15,2292.0,7.0,7.0,ok
+household,full,risk_dispute_z,continuous,hybrid_rate_high_t,asinh_transfer_in_area_zfill,risk interaction,0.36655491718279787,0.03754952913501544,1.640451944299055e-22,2292.0,7.0,7.0,ok
+household,full,risk_dispute_z,continuous,hybrid_rate_high_t,asinh_transfer_in_area_zfill,high-risk total effect,0.4828707407929008,0.051247069960437104,4.40864458920297e-21,2292.0,7.0,7.0,ok
+household,full,risk_dispute_z,continuous,hybrid_rate_high_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,0.2938208853334491,0.030270081261441453,2.8248666309203316e-22,2292.0,7.0,7.0,ok
+household,full,risk_dispute_z,continuous,hybrid_rate_high_t,asinh_market_volume_area_zfill,risk interaction,0.8582740394915752,0.09664229733541535,6.630020432303117e-19,2292.0,7.0,7.0,ok
+household,full,risk_dispute_z,continuous,hybrid_rate_high_t,asinh_market_volume_area_zfill,high-risk total effect,1.1520949248250243,0.12614831574517218,6.671302048027439e-20,2292.0,7.0,7.0,ok
+household,full,risk_dispute_z,continuous,hybrid_rate_high_t,asinh_operated_area_end,baseline/low-risk treatment effect,0.60364058478106,0.09681084867511798,4.5103511867150167e-10,1626.0,7.0,7.0,ok
+household,full,risk_dispute_z,continuous,hybrid_rate_high_t,asinh_operated_area_end,risk interaction,0.49012353674271053,0.32275454239579493,0.12887219437269265,1626.0,7.0,7.0,ok
+household,full,risk_dispute_z,continuous,hybrid_rate_high_t,asinh_operated_area_end,high-risk total effect,1.0937641215237706,0.4188394528040433,0.009016809005590756,1626.0,7.0,7.0,ok
+household,full,risk_dispute_z,continuous,hybrid_rate_any_t,any_transfer_in_zfill,baseline/low-risk treatment effect,-0.028201219781792672,0.019926764992899717,0.1569971857297684,7689.0,21.0,21.0,ok
+household,full,risk_dispute_z,continuous,hybrid_rate_any_t,any_transfer_in_zfill,risk interaction,-0.03067506263094299,0.02112809101619519,0.14654011003544073,7689.0,21.0,21.0,ok
+household,full,risk_dispute_z,continuous,hybrid_rate_any_t,any_transfer_in_zfill,high-risk total effect,-0.05887628241273566,0.03479761425287343,0.09065299233626348,7689.0,21.0,21.0,ok
+household,full,risk_dispute_z,continuous,hybrid_rate_any_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,-0.05565332139549258,0.03220474977744001,0.0839686649752924,7689.0,21.0,21.0,ok
+household,full,risk_dispute_z,continuous,hybrid_rate_any_t,asinh_transfer_in_area_zfill,risk interaction,-0.06623671738051971,0.04506883613429738,0.14164874079216275,7689.0,21.0,21.0,ok
+household,full,risk_dispute_z,continuous,hybrid_rate_any_t,asinh_transfer_in_area_zfill,high-risk total effect,-0.12189003877601229,0.07157700884757835,0.08858272983041549,7689.0,21.0,21.0,ok
+household,full,risk_dispute_z,continuous,hybrid_rate_any_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,-0.03385497730684901,0.089343999935309,0.7047410475905503,7689.0,21.0,21.0,ok
+household,full,risk_dispute_z,continuous,hybrid_rate_any_t,asinh_market_volume_area_zfill,risk interaction,0.20350865293759793,0.12496197343691239,0.10340521207927093,7689.0,21.0,21.0,ok
+household,full,risk_dispute_z,continuous,hybrid_rate_any_t,asinh_market_volume_area_zfill,high-risk total effect,0.1696536756307489,0.15760716732979688,0.2817333109050689,7689.0,21.0,21.0,ok
+household,full,risk_dispute_z,continuous,hybrid_rate_any_t,asinh_operated_area_end,baseline/low-risk treatment effect,-0.053729905475437024,0.05226892718426465,0.30397279203998806,5970.0,21.0,21.0,ok
+household,full,risk_dispute_z,continuous,hybrid_rate_any_t,asinh_operated_area_end,risk interaction,-0.5449140878887081,0.16673634658700012,0.0010826514283392135,5970.0,21.0,21.0,ok
+household,full,risk_dispute_z,continuous,hybrid_rate_any_t,asinh_operated_area_end,high-risk total effect,-0.5986439933641451,0.20008694734055274,0.002772295646345651,5970.0,21.0,21.0,ok
+household,full,risk_dispute_z,high_binary,hybrid_started_t,any_transfer_in_zfill,baseline/low-risk treatment effect,0.01016114072097806,0.013645645749159718,0.45648729402604016,7305.0,20.0,20.0,ok
+household,full,risk_dispute_z,high_binary,hybrid_started_t,any_transfer_in_zfill,risk interaction,0.0027637117347985027,0.019724008760798422,0.8885658346155376,7305.0,20.0,20.0,ok
+household,full,risk_dispute_z,high_binary,hybrid_started_t,any_transfer_in_zfill,high-risk total effect,0.012924852455776563,0.014241940637692211,0.36413163726560327,7305.0,20.0,20.0,ok
+household,full,risk_dispute_z,high_binary,hybrid_started_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,0.01663905815690177,0.026771899990175027,0.5342627756600272,7305.0,20.0,20.0,ok
+household,full,risk_dispute_z,high_binary,hybrid_started_t,asinh_transfer_in_area_zfill,risk interaction,-0.016534178001149646,0.03359519889298741,0.6226069774056283,7305.0,20.0,20.0,ok
+household,full,risk_dispute_z,high_binary,hybrid_started_t,asinh_transfer_in_area_zfill,high-risk total effect,0.00010488015575212464,0.02029538760664489,0.9958768028392776,7305.0,20.0,20.0,ok
+household,full,risk_dispute_z,high_binary,hybrid_started_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,0.034072105243450626,0.058176291476580065,0.5580973370797926,7305.0,20.0,20.0,ok
+household,full,risk_dispute_z,high_binary,hybrid_started_t,asinh_market_volume_area_zfill,risk interaction,-0.13089267724029532,0.07402806012518699,0.0770359146089575,7305.0,20.0,20.0,ok
+household,full,risk_dispute_z,high_binary,hybrid_started_t,asinh_market_volume_area_zfill,high-risk total effect,-0.0968205719968447,0.045778518893402904,0.03443180069644202,7305.0,20.0,20.0,ok
+household,full,risk_dispute_z,high_binary,hybrid_started_t,asinh_operated_area_end,baseline/low-risk treatment effect,-0.0335221952680375,0.0838086472787372,0.6891676221621912,5860.0,20.0,20.0,ok
+household,full,risk_dispute_z,high_binary,hybrid_started_t,asinh_operated_area_end,risk interaction,-0.20102552551603867,0.3346932993071127,0.548089061077571,5860.0,20.0,20.0,ok
+household,full,risk_dispute_z,high_binary,hybrid_started_t,asinh_operated_area_end,high-risk total effect,-0.23454772078407615,0.32403042334087667,0.4691610525697322,5860.0,20.0,20.0,ok
+household,full,risk_dispute_z,high_binary,hybrid_rate_high_t,any_transfer_in_zfill,baseline/low-risk treatment effect,-0.013224969474969372,5.405587887263543e-10,0.0,2292.0,7.0,7.0,ok
+household,full,risk_dispute_z,high_binary,hybrid_rate_high_t,any_transfer_in_zfill,risk interaction,0.06761199970877485,0.018885936631618958,0.0003435700790486648,2292.0,7.0,7.0,ok
+household,full,risk_dispute_z,high_binary,hybrid_rate_high_t,any_transfer_in_zfill,high-risk total effect,0.05438703023380548,0.018885936235756098,0.0039797355410000025,2292.0,7.0,7.0,ok
+household,full,risk_dispute_z,high_binary,hybrid_rate_high_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,-0.015334203384766503,5.80538217072122e-10,0.0,2292.0,7.0,7.0,ok
+household,full,risk_dispute_z,high_binary,hybrid_rate_high_t,asinh_transfer_in_area_zfill,risk interaction,0.094775524494879,0.008369162475944169,9.938652552061926e-30,2292.0,7.0,7.0,ok
+household,full,risk_dispute_z,high_binary,hybrid_rate_high_t,asinh_transfer_in_area_zfill,high-risk total effect,0.0794413211101125,0.008369162474973092,2.263237589393924e-21,2292.0,7.0,7.0,ok
+household,full,risk_dispute_z,high_binary,hybrid_rate_high_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,-0.041035072648187794,,,2292.0,7.0,7.0,ok
+household,full,risk_dispute_z,high_binary,hybrid_rate_high_t,asinh_market_volume_area_zfill,risk interaction,0.22838525091349374,0.030344023294181646,5.210586451401789e-14,2292.0,7.0,7.0,ok
+household,full,risk_dispute_z,high_binary,hybrid_rate_high_t,asinh_market_volume_area_zfill,high-risk total effect,0.18735017826530595,0.030344023060571008,6.649777834487717e-10,2292.0,7.0,7.0,ok
+household,full,risk_dispute_z,high_binary,hybrid_rate_high_t,asinh_operated_area_end,baseline/low-risk treatment effect,-0.03137383136709104,3457680.2546559586,0.999999992760263,1626.0,7.0,7.0,ok
+household,full,risk_dispute_z,high_binary,hybrid_rate_high_t,asinh_operated_area_end,risk interaction,0.1925652342615649,3466529.2082585082,0.9999999556776192,1626.0,7.0,7.0,ok
+household,full,risk_dispute_z,high_binary,hybrid_rate_high_t,asinh_operated_area_end,high-risk total effect,0.16119140289447387,120.06600560993523,0.9989288217558675,1626.0,7.0,7.0,ok
+household,full,risk_dispute_z,high_binary,hybrid_rate_any_t,any_transfer_in_zfill,baseline/low-risk treatment effect,-0.01954153365269749,0.009260295542684567,0.034836874479310456,7689.0,21.0,21.0,ok
+household,full,risk_dispute_z,high_binary,hybrid_rate_any_t,any_transfer_in_zfill,risk interaction,0.0035832230028178436,0.028201270110996768,0.8988937627223638,7689.0,21.0,21.0,ok
+household,full,risk_dispute_z,high_binary,hybrid_rate_any_t,any_transfer_in_zfill,high-risk total effect,-0.015958310649879646,0.02663754046950975,0.5491122056690898,7689.0,21.0,21.0,ok
+household,full,risk_dispute_z,high_binary,hybrid_rate_any_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,-0.02490448263689287,0.011930672011934212,0.03684898002230338,7689.0,21.0,21.0,ok
+household,full,risk_dispute_z,high_binary,hybrid_rate_any_t,asinh_transfer_in_area_zfill,risk interaction,-0.02005391220860653,0.04508994976089498,0.6564979140445961,7689.0,21.0,21.0,ok
+household,full,risk_dispute_z,high_binary,hybrid_rate_any_t,asinh_transfer_in_area_zfill,high-risk total effect,-0.044958394845499405,0.043482900470638006,0.3011676034524292,7689.0,21.0,21.0,ok
+household,full,risk_dispute_z,high_binary,hybrid_rate_any_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,-0.0806281896914416,0.14955184211425648,0.5897957492730832,7689.0,21.0,21.0,ok
+household,full,risk_dispute_z,high_binary,hybrid_rate_any_t,asinh_market_volume_area_zfill,risk interaction,0.07783927349182619,0.16525257178171165,0.6376177792644337,7689.0,21.0,21.0,ok
+household,full,risk_dispute_z,high_binary,hybrid_rate_any_t,asinh_market_volume_area_zfill,high-risk total effect,-0.00278891619961541,0.07030404682189416,0.968356733510378,7689.0,21.0,21.0,ok
+household,full,risk_dispute_z,high_binary,hybrid_rate_any_t,asinh_operated_area_end,baseline/low-risk treatment effect,0.0790130184091899,0.050209531372232455,0.11556475055714416,5970.0,21.0,21.0,ok
+household,full,risk_dispute_z,high_binary,hybrid_rate_any_t,asinh_operated_area_end,risk interaction,-0.04593684516253679,0.08676694116533899,0.5965086024600066,5970.0,21.0,21.0,ok
+household,full,risk_dispute_z,high_binary,hybrid_rate_any_t,asinh_operated_area_end,high-risk total effect,0.03307617324665311,0.07076372678111287,0.6402015180457423,5970.0,21.0,21.0,ok
+household,full,risk_reserved_z,continuous,hybrid_started_t,any_transfer_in_zfill,baseline/low-risk treatment effect,-0.00046647977926151947,0.05670524536976304,0.9934363600151838,3050.0,9.0,9.0,ok
+household,full,risk_reserved_z,continuous,hybrid_started_t,any_transfer_in_zfill,risk interaction,0.1302388359072895,0.5470706562239287,0.8118300280009331,3050.0,9.0,9.0,ok
+household,full,risk_reserved_z,continuous,hybrid_started_t,any_transfer_in_zfill,high-risk total effect,0.12977235612802798,0.6022394517815244,0.8293907747100899,3050.0,9.0,9.0,ok
+household,full,risk_reserved_z,continuous,hybrid_started_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,0.013329049593993036,0.07451374906914705,0.8580316093436557,3050.0,9.0,9.0,ok
+household,full,risk_reserved_z,continuous,hybrid_started_t,asinh_transfer_in_area_zfill,risk interaction,0.3978215877103857,0.8014262155319228,0.6196178455961847,3050.0,9.0,9.0,ok
+household,full,risk_reserved_z,continuous,hybrid_started_t,asinh_transfer_in_area_zfill,high-risk total effect,0.4111506373043788,0.8737034136715368,0.6379380072714671,3050.0,9.0,9.0,ok
+household,full,risk_reserved_z,continuous,hybrid_started_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,0.1003595527091035,0.2036621379640371,0.6221717760421055,3050.0,9.0,9.0,ok
+household,full,risk_reserved_z,continuous,hybrid_started_t,asinh_market_volume_area_zfill,risk interaction,1.359577036902687,1.869965944127275,0.4671893328463995,3050.0,9.0,9.0,ok
+household,full,risk_reserved_z,continuous,hybrid_started_t,asinh_market_volume_area_zfill,high-risk total effect,1.4599365896117904,2.0691764946072864,0.4804592748227259,3050.0,9.0,9.0,ok
+household,full,risk_reserved_z,continuous,hybrid_started_t,asinh_operated_area_end,baseline/low-risk treatment effect,-1.1595389648614147,0.21023744073832082,3.4803101611936564e-08,2301.0,9.0,9.0,ok
+household,full,risk_reserved_z,continuous,hybrid_started_t,asinh_operated_area_end,risk interaction,-9.371913573551147,1.6498296732800883,1.3427484610276206e-08,2301.0,9.0,9.0,ok
+household,full,risk_reserved_z,continuous,hybrid_started_t,asinh_operated_area_end,high-risk total effect,-10.531452538412562,1.8574035932330688,1.428091131791619e-08,2301.0,9.0,9.0,ok
+household,full,risk_reserved_z,continuous,hybrid_rate_high_t,any_transfer_in_zfill,,,,,,,,error: too few observations
+household,full,risk_reserved_z,continuous,hybrid_rate_high_t,asinh_transfer_in_area_zfill,,,,,,,,error: too few observations
+household,full,risk_reserved_z,continuous,hybrid_rate_high_t,asinh_market_volume_area_zfill,,,,,,,,error: too few observations
+household,full,risk_reserved_z,continuous,hybrid_rate_high_t,asinh_operated_area_end,,,,,,,,error: too few observations
+household,full,risk_reserved_z,continuous,hybrid_rate_any_t,any_transfer_in_zfill,baseline/low-risk treatment effect,0.0358692409278976,0.034771864734921554,0.3022786085218425,4143.0,12.0,12.0,ok
+household,full,risk_reserved_z,continuous,hybrid_rate_any_t,any_transfer_in_zfill,risk interaction,0.17365265828815457,0.4197122847420487,0.6790629630983114,4143.0,12.0,12.0,ok
+household,full,risk_reserved_z,continuous,hybrid_rate_any_t,any_transfer_in_zfill,high-risk total effect,0.2095218992160522,0.45288740264010013,0.6436254852473237,4143.0,12.0,12.0,ok
+household,full,risk_reserved_z,continuous,hybrid_rate_any_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,0.07245806807047053,0.066266083875143,0.2742001206216572,4143.0,12.0,12.0,ok
+household,full,risk_reserved_z,continuous,hybrid_rate_any_t,asinh_transfer_in_area_zfill,risk interaction,0.6899015670267842,0.8111535779446387,0.395036576189047,4143.0,12.0,12.0,ok
+household,full,risk_reserved_z,continuous,hybrid_rate_any_t,asinh_transfer_in_area_zfill,high-risk total effect,0.7623596350972547,0.875234405862294,0.3837351462286611,4143.0,12.0,12.0,ok
+household,full,risk_reserved_z,continuous,hybrid_rate_any_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,0.2774430892626368,0.29683949633976736,0.34996513518125594,4143.0,12.0,12.0,ok
+household,full,risk_reserved_z,continuous,hybrid_rate_any_t,asinh_market_volume_area_zfill,risk interaction,3.3469415833059113,3.571227084305007,0.3486574812982437,4143.0,12.0,12.0,ok
+household,full,risk_reserved_z,continuous,hybrid_rate_any_t,asinh_market_volume_area_zfill,high-risk total effect,3.624384672568548,3.8677153497331322,0.3487139543810398,4143.0,12.0,12.0,ok
+household,full,risk_reserved_z,continuous,hybrid_rate_any_t,asinh_operated_area_end,baseline/low-risk treatment effect,-0.6055665616771273,0.5666587781972846,0.2852221128395356,2833.0,12.0,12.0,ok
+household,full,risk_reserved_z,continuous,hybrid_rate_any_t,asinh_operated_area_end,risk interaction,-5.044123781527656,4.7379734242959435,0.28704959623006354,2833.0,12.0,12.0,ok
+household,full,risk_reserved_z,continuous,hybrid_rate_any_t,asinh_operated_area_end,high-risk total effect,-5.649690343204783,5.303299030354238,0.2867328665635154,2833.0,12.0,12.0,ok
+household,full,risk_reserved_z,high_binary,hybrid_started_t,any_transfer_in_zfill,baseline/low-risk treatment effect,-0.03769269314215049,0.031174883090569296,0.22663500175181572,3050.0,9.0,9.0,ok
+household,full,risk_reserved_z,high_binary,hybrid_started_t,any_transfer_in_zfill,risk interaction,0.031110355416004473,0.03119025098096061,0.3185517385421388,3050.0,9.0,9.0,ok
+household,full,risk_reserved_z,high_binary,hybrid_started_t,any_transfer_in_zfill,high-risk total effect,-0.006582337726146019,0.000978989555301586,1.7728429295292487e-11,3050.0,9.0,9.0,ok
+household,full,risk_reserved_z,high_binary,hybrid_started_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,-0.0728471696279717,0.057696297198669554,0.20673405983719184,3050.0,9.0,9.0,ok
+household,full,risk_reserved_z,high_binary,hybrid_started_t,asinh_transfer_in_area_zfill,risk interaction,0.06334467337689964,0.05771360445133426,0.2723926579849254,3050.0,9.0,9.0,ok
+household,full,risk_reserved_z,high_binary,hybrid_started_t,asinh_transfer_in_area_zfill,high-risk total effect,-0.009502496251072065,0.0014133040500009402,1.7728428217018683e-11,3050.0,9.0,9.0,ok
+household,full,risk_reserved_z,high_binary,hybrid_started_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,-0.1599983028612935,0.09602034924897197,0.09565451660821499,3050.0,9.0,9.0,ok
+household,full,risk_reserved_z,high_binary,hybrid_started_t,asinh_market_volume_area_zfill,risk interaction,0.1300486389801755,0.09647640174149495,0.17766355194662575,3050.0,9.0,9.0,ok
+household,full,risk_reserved_z,high_binary,hybrid_started_t,asinh_market_volume_area_zfill,high-risk total effect,-0.029949663881118,0.009369558327110688,0.0013911248139911352,3050.0,9.0,9.0,ok
+household,full,risk_reserved_z,high_binary,hybrid_started_t,asinh_operated_area_end,baseline/low-risk treatment effect,0.0118934281261265,0.0052440796192458426,0.023330885618422385,2301.0,9.0,9.0,ok
+household,full,risk_reserved_z,high_binary,hybrid_started_t,asinh_operated_area_end,risk interaction,-0.3988398474781765,0.012914900466143938,2.0746337161557475e-209,2301.0,9.0,9.0,ok
+household,full,risk_reserved_z,high_binary,hybrid_started_t,asinh_operated_area_end,high-risk total effect,-0.38694641935205004,0.011802299909361012,9.421443981756082e-236,2301.0,9.0,9.0,ok
+household,full,risk_reserved_z,high_binary,hybrid_rate_high_t,any_transfer_in_zfill,,,,,,,,error: too few observations
+household,full,risk_reserved_z,high_binary,hybrid_rate_high_t,asinh_transfer_in_area_zfill,,,,,,,,error: too few observations
+household,full,risk_reserved_z,high_binary,hybrid_rate_high_t,asinh_market_volume_area_zfill,,,,,,,,error: too few observations
+household,full,risk_reserved_z,high_binary,hybrid_rate_high_t,asinh_operated_area_end,,,,,,,,error: too few observations
+household,full,risk_reserved_z,high_binary,hybrid_rate_any_t,any_transfer_in_zfill,baseline/low-risk treatment effect,0.008040584305785073,0.024570415190757557,0.7434813939114668,4143.0,12.0,12.0,ok
+household,full,risk_reserved_z,high_binary,hybrid_rate_any_t,any_transfer_in_zfill,risk interaction,0.010974325116987812,0.02959700684711765,0.7107926679048037,4143.0,12.0,12.0,ok
+household,full,risk_reserved_z,high_binary,hybrid_rate_any_t,any_transfer_in_zfill,high-risk total effect,0.019014909422772883,0.01650083366027244,0.24917295310941012,4143.0,12.0,12.0,ok
+household,full,risk_reserved_z,high_binary,hybrid_rate_any_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,-0.013996572409718532,0.04915550314339932,0.7758428061263873,4143.0,12.0,12.0,ok
+household,full,risk_reserved_z,high_binary,hybrid_rate_any_t,asinh_transfer_in_area_zfill,risk interaction,0.013550827143232023,0.04954686904709321,0.7844726392399641,4143.0,12.0,12.0,ok
+household,full,risk_reserved_z,high_binary,hybrid_rate_any_t,asinh_transfer_in_area_zfill,high-risk total effect,-0.00044574526648650907,0.006215202579755339,0.9428258998761664,4143.0,12.0,12.0,ok
+household,full,risk_reserved_z,high_binary,hybrid_rate_any_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,-0.1452099827823829,0.18998890567973245,0.4446839001585521,4143.0,12.0,12.0,ok
+household,full,risk_reserved_z,high_binary,hybrid_rate_any_t,asinh_market_volume_area_zfill,risk interaction,0.12411069892578917,0.19563033315972062,0.5258104194063455,4143.0,12.0,12.0,ok
+household,full,risk_reserved_z,high_binary,hybrid_rate_any_t,asinh_market_volume_area_zfill,high-risk total effect,-0.021099283856593723,0.04664164416032176,0.6510024045450886,4143.0,12.0,12.0,ok
+household,full,risk_reserved_z,high_binary,hybrid_rate_any_t,asinh_operated_area_end,baseline/low-risk treatment effect,0.05494157333220705,0.07180156365860073,0.44416061225977754,2833.0,12.0,12.0,ok
+household,full,risk_reserved_z,high_binary,hybrid_rate_any_t,asinh_operated_area_end,risk interaction,0.06678121205368931,0.08195090555891593,0.41513361087646083,2833.0,12.0,12.0,ok
+household,full,risk_reserved_z,high_binary,hybrid_rate_any_t,asinh_operated_area_end,high-risk total effect,0.12172278538589636,0.03950299198327886,0.0020606004913188963,2833.0,12.0,12.0,ok
+household,full,risk_transferout_z,continuous,hybrid_started_t,any_transfer_in_zfill,baseline/low-risk treatment effect,0.1852804219143875,0.030275102588131885,9.363756300070904e-10,6791.0,19.0,19.0,ok
+household,full,risk_transferout_z,continuous,hybrid_started_t,any_transfer_in_zfill,risk interaction,0.40589620515663893,0.07600546543958366,9.276449411306893e-08,6791.0,19.0,19.0,ok
+household,full,risk_transferout_z,continuous,hybrid_started_t,any_transfer_in_zfill,high-risk total effect,0.5911766270710265,0.10579518980888003,2.2978582587082717e-08,6791.0,19.0,19.0,ok
+household,full,risk_transferout_z,continuous,hybrid_started_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,0.36381537039268425,0.04113494383699793,9.199191278328046e-19,6791.0,19.0,19.0,ok
+household,full,risk_transferout_z,continuous,hybrid_started_t,asinh_transfer_in_area_zfill,risk interaction,0.8016650081311905,0.11610875518086934,5.0404683980942455e-12,6791.0,19.0,19.0,ok
+household,full,risk_transferout_z,continuous,hybrid_started_t,asinh_transfer_in_area_zfill,high-risk total effect,1.1654803785238748,0.15676743267924112,1.0500019349493214e-13,6791.0,19.0,19.0,ok
+household,full,risk_transferout_z,continuous,hybrid_started_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,0.47062007940243306,0.1754033714441421,0.007294902848202964,6791.0,19.0,19.0,ok
+household,full,risk_transferout_z,continuous,hybrid_started_t,asinh_market_volume_area_zfill,risk interaction,1.0833689704075713,0.3883089837762966,0.005271353153402365,6791.0,19.0,19.0,ok
+household,full,risk_transferout_z,continuous,hybrid_started_t,asinh_market_volume_area_zfill,high-risk total effect,1.5539890498100044,0.5614213143115596,0.005640920815821588,6791.0,19.0,19.0,ok
+household,full,risk_transferout_z,continuous,hybrid_started_t,asinh_operated_area_end,baseline/low-risk treatment effect,-0.4850462006007011,0.2198846396502142,0.02739015058222038,5461.0,19.0,19.0,ok
+household,full,risk_transferout_z,continuous,hybrid_started_t,asinh_operated_area_end,risk interaction,-1.0425294815195998,0.4440525712941462,0.018886616059751376,5461.0,19.0,19.0,ok
+household,full,risk_transferout_z,continuous,hybrid_started_t,asinh_operated_area_end,high-risk total effect,-1.5275756821203008,0.6635981963728739,0.021337497901210613,5461.0,19.0,19.0,ok
+household,full,risk_transferout_z,continuous,hybrid_rate_high_t,any_transfer_in_zfill,baseline/low-risk treatment effect,0.09237977371865999,0.04957396199940585,0.06239565131482192,2292.0,7.0,7.0,ok
+household,full,risk_transferout_z,continuous,hybrid_rate_high_t,any_transfer_in_zfill,risk interaction,0.1594565673130601,0.0739616533064892,0.03108868792326825,2292.0,7.0,7.0,ok
+household,full,risk_transferout_z,continuous,hybrid_rate_high_t,any_transfer_in_zfill,high-risk total effect,0.2518363410317201,0.12217798291184581,0.03928155751453872,2292.0,7.0,7.0,ok
+household,full,risk_transferout_z,continuous,hybrid_rate_high_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,0.17845968615533617,0.030384504328387563,4.2700272128928266e-09,2292.0,7.0,7.0,ok
+household,full,risk_transferout_z,continuous,hybrid_rate_high_t,asinh_transfer_in_area_zfill,risk interaction,0.37365895471278027,0.05524383376885075,1.344066500338007e-11,2292.0,7.0,7.0,ok
+household,full,risk_transferout_z,continuous,hybrid_rate_high_t,asinh_transfer_in_area_zfill,high-risk total effect,0.5521186408681165,0.08418853635307055,5.448984716697843e-11,2292.0,7.0,7.0,ok
+household,full,risk_transferout_z,continuous,hybrid_rate_high_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,0.3884170022459926,0.057244992741267584,1.1594996837840928e-11,2292.0,7.0,7.0,ok
+household,full,risk_transferout_z,continuous,hybrid_rate_high_t,asinh_market_volume_area_zfill,risk interaction,0.7163797479657718,0.10872192383542856,4.424974053597677e-11,2292.0,7.0,7.0,ok
+household,full,risk_transferout_z,continuous,hybrid_rate_high_t,asinh_market_volume_area_zfill,high-risk total effect,1.1047967502117644,0.15310173996222962,5.3501559309297e-13,2292.0,7.0,7.0,ok
+household,full,risk_transferout_z,continuous,hybrid_rate_high_t,asinh_operated_area_end,baseline/low-risk treatment effect,0.3383935528470551,0.27668422406363297,0.22131775630735573,1626.0,7.0,7.0,ok
+household,full,risk_transferout_z,continuous,hybrid_rate_high_t,asinh_operated_area_end,risk interaction,0.5742761448447837,0.5889764597072709,0.32953996612309844,1626.0,7.0,7.0,ok
+household,full,risk_transferout_z,continuous,hybrid_rate_high_t,asinh_operated_area_end,high-risk total effect,0.9126696976918388,0.8620140612936645,0.28970714469255576,1626.0,7.0,7.0,ok
+household,full,risk_transferout_z,continuous,hybrid_rate_any_t,any_transfer_in_zfill,baseline/low-risk treatment effect,0.018115850918142017,0.044007498385616343,0.6805932425960803,7555.0,21.0,21.0,ok
+household,full,risk_transferout_z,continuous,hybrid_rate_any_t,any_transfer_in_zfill,risk interaction,0.10325949278478881,0.10514437497628078,0.3260636937665483,7555.0,21.0,21.0,ok
+household,full,risk_transferout_z,continuous,hybrid_rate_any_t,any_transfer_in_zfill,high-risk total effect,0.12137534370293082,0.1456343742299166,0.40460502059439174,7555.0,21.0,21.0,ok
+household,full,risk_transferout_z,continuous,hybrid_rate_any_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,-0.001297147268675174,0.06319898216494906,0.9836247186105562,7555.0,21.0,21.0,ok
+household,full,risk_transferout_z,continuous,hybrid_rate_any_t,asinh_transfer_in_area_zfill,risk interaction,0.13376738327761684,0.14210478789016667,0.34653619424920623,7555.0,21.0,21.0,ok
+household,full,risk_transferout_z,continuous,hybrid_rate_any_t,asinh_transfer_in_area_zfill,high-risk total effect,0.13247023600894167,0.20162986438630826,0.5111827816848574,7555.0,21.0,21.0,ok
+household,full,risk_transferout_z,continuous,hybrid_rate_any_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,-0.5312952397180728,0.23062162272806166,0.02123651660493819,7555.0,21.0,21.0,ok
+household,full,risk_transferout_z,continuous,hybrid_rate_any_t,asinh_market_volume_area_zfill,risk interaction,-1.1632787209179005,0.6199184478900984,0.060586266668046104,7555.0,21.0,21.0,ok
+household,full,risk_transferout_z,continuous,hybrid_rate_any_t,asinh_market_volume_area_zfill,high-risk total effect,-1.6945739606359733,0.8346104143179669,0.04231821186024718,7555.0,21.0,21.0,ok
+household,full,risk_transferout_z,continuous,hybrid_rate_any_t,asinh_operated_area_end,baseline/low-risk treatment effect,0.13849597248831766,0.21925587087455148,0.5276066591365245,5858.0,21.0,21.0,ok
+household,full,risk_transferout_z,continuous,hybrid_rate_any_t,asinh_operated_area_end,risk interaction,0.2728923496611075,0.5561144402667658,0.6236297503283645,5858.0,21.0,21.0,ok
+household,full,risk_transferout_z,continuous,hybrid_rate_any_t,asinh_operated_area_end,high-risk total effect,0.4113883221494251,0.7729604318277773,0.5945706570398228,5858.0,21.0,21.0,ok
+household,full,risk_transferout_z,high_binary,hybrid_started_t,any_transfer_in_zfill,baseline/low-risk treatment effect,0.004919044683421797,0.019856246420788835,0.8043411068136368,6791.0,19.0,19.0,ok
+household,full,risk_transferout_z,high_binary,hybrid_started_t,any_transfer_in_zfill,risk interaction,-0.02128459684194327,0.01975614613257776,0.2813168617946663,6791.0,19.0,19.0,ok
+household,full,risk_transferout_z,high_binary,hybrid_started_t,any_transfer_in_zfill,high-risk total effect,-0.016365552158521476,0.028594104884830045,0.5670916043480652,6791.0,19.0,19.0,ok
+household,full,risk_transferout_z,high_binary,hybrid_started_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,0.0033085117715420643,0.036780949774277934,0.9283255362265259,6791.0,19.0,19.0,ok
+household,full,risk_transferout_z,high_binary,hybrid_started_t,asinh_transfer_in_area_zfill,risk interaction,-0.03099411908684231,0.024608884232453245,0.20786109387229668,6791.0,19.0,19.0,ok
+household,full,risk_transferout_z,high_binary,hybrid_started_t,asinh_transfer_in_area_zfill,high-risk total effect,-0.02768560731530025,0.04875699383812816,0.570151472498171,6791.0,19.0,19.0,ok
+household,full,risk_transferout_z,high_binary,hybrid_started_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,0.0021615527503798843,0.07125404436076221,0.9757991971750279,6791.0,19.0,19.0,ok
+household,full,risk_transferout_z,high_binary,hybrid_started_t,asinh_market_volume_area_zfill,risk interaction,-0.2666070219859255,0.1329121227444669,0.04486804635454474,6791.0,19.0,19.0,ok
+household,full,risk_transferout_z,high_binary,hybrid_started_t,asinh_market_volume_area_zfill,high-risk total effect,-0.2644454692355456,0.15194541185029944,0.08178918149138803,6791.0,19.0,19.0,ok
+household,full,risk_transferout_z,high_binary,hybrid_started_t,asinh_operated_area_end,baseline/low-risk treatment effect,-0.02973625668658153,0.06460298705660737,0.6453064363710541,5461.0,19.0,19.0,ok
+household,full,risk_transferout_z,high_binary,hybrid_started_t,asinh_operated_area_end,risk interaction,0.015524978174590573,0.12988424700465312,0.9048559975911954,5461.0,19.0,19.0,ok
+household,full,risk_transferout_z,high_binary,hybrid_started_t,asinh_operated_area_end,high-risk total effect,-0.014211278511990957,0.14206146118878668,0.9203156433132527,5461.0,19.0,19.0,ok
+household,full,risk_transferout_z,high_binary,hybrid_rate_high_t,any_transfer_in_zfill,baseline/low-risk treatment effect,-0.0129498052701663,0.003707413294177442,0.00047771787545994706,2292.0,7.0,7.0,ok
+household,full,risk_transferout_z,high_binary,hybrid_rate_high_t,any_transfer_in_zfill,risk interaction,0.06738711309592384,0.019252939246398277,0.0004650926745926847,2292.0,7.0,7.0,ok
+household,full,risk_transferout_z,high_binary,hybrid_rate_high_t,any_transfer_in_zfill,high-risk total effect,0.054437307825757536,0.01889261095850363,0.003959036266024227,2292.0,7.0,7.0,ok
+household,full,risk_transferout_z,high_binary,hybrid_rate_high_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,-0.012009435373153493,0.008281867443917778,0.14703402224263862,2292.0,7.0,7.0,ok
+household,full,risk_transferout_z,high_binary,hybrid_rate_high_t,asinh_transfer_in_area_zfill,risk interaction,0.10087240668874682,0.008284339161325305,4.158353804828774e-34,2292.0,7.0,7.0,ok
+household,full,risk_transferout_z,high_binary,hybrid_rate_high_t,asinh_transfer_in_area_zfill,high-risk total effect,0.08886297131559333,0.00020235354292145853,0.0,2292.0,7.0,7.0,ok
+household,full,risk_transferout_z,high_binary,hybrid_rate_high_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,-0.014595984101248917,0.015892345027045958,0.35839452639355307,2292.0,7.0,7.0,ok
+household,full,risk_transferout_z,high_binary,hybrid_rate_high_t,asinh_market_volume_area_zfill,risk interaction,0.23090226226146832,0.022551815563384,1.3295131058580413e-24,2292.0,7.0,7.0,ok
+household,full,risk_transferout_z,high_binary,hybrid_rate_high_t,asinh_market_volume_area_zfill,high-risk total effect,0.2163062781602194,0.016000554545015123,1.2134352267254322e-41,2292.0,7.0,7.0,ok
+household,full,risk_transferout_z,high_binary,hybrid_rate_high_t,asinh_operated_area_end,baseline/low-risk treatment effect,0.21716851366868098,3.828483431443104e-08,0.0,1626.0,7.0,7.0,ok
+household,full,risk_transferout_z,high_binary,hybrid_rate_high_t,asinh_operated_area_end,risk interaction,-0.13320933080718947,0.06372359076429815,0.03657971855662594,1626.0,7.0,7.0,ok
+household,full,risk_transferout_z,high_binary,hybrid_rate_high_t,asinh_operated_area_end,high-risk total effect,0.08395918286149151,0.06372362545719125,0.18765370128970293,1626.0,7.0,7.0,ok
+household,full,risk_transferout_z,high_binary,hybrid_rate_any_t,any_transfer_in_zfill,baseline/low-risk treatment effect,-0.043458208605111084,0.02192486495202825,0.04746328393095026,7555.0,21.0,21.0,ok
+household,full,risk_transferout_z,high_binary,hybrid_rate_any_t,any_transfer_in_zfill,risk interaction,0.07532027167646037,0.026972976087806848,0.005231304149835213,7555.0,21.0,21.0,ok
+household,full,risk_transferout_z,high_binary,hybrid_rate_any_t,any_transfer_in_zfill,high-risk total effect,0.031862063071349284,0.01571119778174712,0.042561846259597184,7555.0,21.0,21.0,ok
+household,full,risk_transferout_z,high_binary,hybrid_rate_any_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,-0.07198694093355927,0.028059470903599473,0.010302332308210758,7555.0,21.0,21.0,ok
+household,full,risk_transferout_z,high_binary,hybrid_rate_any_t,asinh_transfer_in_area_zfill,risk interaction,0.08978560799310355,0.035352852022064556,0.011094786231572932,7555.0,21.0,21.0,ok
+household,full,risk_transferout_z,high_binary,hybrid_rate_any_t,asinh_transfer_in_area_zfill,high-risk total effect,0.017798667059544276,0.021505586215525105,0.40788010622994253,7555.0,21.0,21.0,ok
+household,full,risk_transferout_z,high_binary,hybrid_rate_any_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,-0.08391023739684451,0.13034470159363265,0.519733402882937,7555.0,21.0,21.0,ok
+household,full,risk_transferout_z,high_binary,hybrid_rate_any_t,asinh_market_volume_area_zfill,risk interaction,0.10437646231434504,0.1384754564002399,0.45099680628797256,7555.0,21.0,21.0,ok
+household,full,risk_transferout_z,high_binary,hybrid_rate_any_t,asinh_market_volume_area_zfill,high-risk total effect,0.020466224917500525,0.04675158597288859,0.6615563832710536,7555.0,21.0,21.0,ok
+household,full,risk_transferout_z,high_binary,hybrid_rate_any_t,asinh_operated_area_end,baseline/low-risk treatment effect,0.04293039882241116,0.04453669578405401,0.33507942722031403,5858.0,21.0,21.0,ok
+household,full,risk_transferout_z,high_binary,hybrid_rate_any_t,asinh_operated_area_end,risk interaction,0.051089952736732946,0.10643493502822797,0.631219483560256,5858.0,21.0,21.0,ok
+household,full,risk_transferout_z,high_binary,hybrid_rate_any_t,asinh_operated_area_end,high-risk total effect,0.09402035155914411,0.09666890982538744,0.3307512689970493,5858.0,21.0,21.0,ok
+household,overlap,tenure_risk_index_z,continuous,hybrid_started_t,any_transfer_in_zfill,baseline/low-risk treatment effect,0.01166096949776051,0.016332910389441502,0.47525476135977995,2882.0,23.0,23.0,ok
+household,overlap,tenure_risk_index_z,continuous,hybrid_started_t,any_transfer_in_zfill,risk interaction,-0.0062869658625636145,0.009963482439042102,0.5280399703304084,2882.0,23.0,23.0,ok
+household,overlap,tenure_risk_index_z,continuous,hybrid_started_t,any_transfer_in_zfill,high-risk total effect,0.0053740036351968955,0.010890779553356265,0.6216980034900862,2882.0,23.0,23.0,ok
+household,overlap,tenure_risk_index_z,continuous,hybrid_started_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,0.017748693713579622,0.023055779370464123,0.44140941109436227,2882.0,23.0,23.0,ok
+household,overlap,tenure_risk_index_z,continuous,hybrid_started_t,asinh_transfer_in_area_zfill,risk interaction,-0.00695149289927154,0.013244327685583103,0.5996765772684357,2882.0,23.0,23.0,ok
+household,overlap,tenure_risk_index_z,continuous,hybrid_started_t,asinh_transfer_in_area_zfill,high-risk total effect,0.010797200814308083,0.013910744243012205,0.43764443850299317,2882.0,23.0,23.0,ok
+household,overlap,tenure_risk_index_z,continuous,hybrid_started_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,0.014426107885836799,0.0325624820705638,0.6577451138539097,2882.0,23.0,23.0,ok
+household,overlap,tenure_risk_index_z,continuous,hybrid_started_t,asinh_market_volume_area_zfill,risk interaction,-0.01937188760061308,0.023117879879617026,0.4020524650577143,2882.0,23.0,23.0,ok
+household,overlap,tenure_risk_index_z,continuous,hybrid_started_t,asinh_market_volume_area_zfill,high-risk total effect,-0.004945779714776282,0.02038036447691232,0.8082581349791226,2882.0,23.0,23.0,ok
+household,overlap,tenure_risk_index_z,continuous,hybrid_started_t,asinh_operated_area_end,baseline/low-risk treatment effect,-0.1475364252175016,0.09293086917804734,0.1123783343566356,2255.0,22.0,22.0,ok
+household,overlap,tenure_risk_index_z,continuous,hybrid_started_t,asinh_operated_area_end,risk interaction,-0.3975023509823372,0.2427653765331888,0.10154836029007473,2255.0,22.0,22.0,ok
+household,overlap,tenure_risk_index_z,continuous,hybrid_started_t,asinh_operated_area_end,high-risk total effect,-0.5450387761998388,0.320098713281456,0.08862030760537845,2255.0,22.0,22.0,ok
+household,overlap,tenure_risk_index_z,continuous,hybrid_rate_high_t,any_transfer_in_zfill,baseline/low-risk treatment effect,0.026065517813658148,0.013367581219019166,0.05118740423265419,738.0,8.0,8.0,ok
+household,overlap,tenure_risk_index_z,continuous,hybrid_rate_high_t,any_transfer_in_zfill,risk interaction,0.01816274907198323,0.03636780983577986,0.6174847431819841,738.0,8.0,8.0,ok
+household,overlap,tenure_risk_index_z,continuous,hybrid_rate_high_t,any_transfer_in_zfill,high-risk total effect,0.04422826688564138,0.030087591603139334,0.14156618975837001,738.0,8.0,8.0,ok
+household,overlap,tenure_risk_index_z,continuous,hybrid_rate_high_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,0.04145058046078039,0.01699429993906763,0.014724412297222688,738.0,8.0,8.0,ok
+household,overlap,tenure_risk_index_z,continuous,hybrid_rate_high_t,asinh_transfer_in_area_zfill,risk interaction,0.066539787260311,0.021793413089133868,0.0022641019030869474,738.0,8.0,8.0,ok
+household,overlap,tenure_risk_index_z,continuous,hybrid_rate_high_t,asinh_transfer_in_area_zfill,high-risk total effect,0.10799036772109138,0.019421840644393038,2.6938226190164937e-08,738.0,8.0,8.0,ok
+household,overlap,tenure_risk_index_z,continuous,hybrid_rate_high_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,0.10639084678525391,0.039156453183200525,0.006586256171244131,738.0,8.0,8.0,ok
+household,overlap,tenure_risk_index_z,continuous,hybrid_rate_high_t,asinh_market_volume_area_zfill,risk interaction,0.0954606927951431,0.06075992298263063,0.11615644966332306,738.0,8.0,8.0,ok
+household,overlap,tenure_risk_index_z,continuous,hybrid_rate_high_t,asinh_market_volume_area_zfill,high-risk total effect,0.20185153958039703,0.05113380436558467,7.896605709830299e-05,738.0,8.0,8.0,ok
+household,overlap,tenure_risk_index_z,continuous,hybrid_rate_high_t,asinh_operated_area_end,baseline/low-risk treatment effect,0.07663945701914045,0.04970974320228504,0.12313699523089415,531.0,8.0,8.0,ok
+household,overlap,tenure_risk_index_z,continuous,hybrid_rate_high_t,asinh_operated_area_end,risk interaction,-0.08730217187654814,0.09332344719617017,0.34954124236870676,531.0,8.0,8.0,ok
+household,overlap,tenure_risk_index_z,continuous,hybrid_rate_high_t,asinh_operated_area_end,high-risk total effect,-0.01066271485740769,0.10255668786302082,0.9171939606409728,531.0,8.0,8.0,ok
+household,overlap,tenure_risk_index_z,continuous,hybrid_rate_any_t,any_transfer_in_zfill,baseline/low-risk treatment effect,-0.012167763830405059,0.01594100745081046,0.44528476977853115,3281.0,26.0,26.0,ok
+household,overlap,tenure_risk_index_z,continuous,hybrid_rate_any_t,any_transfer_in_zfill,risk interaction,0.01606475405563765,0.020890219644831242,0.4418883332730602,3281.0,26.0,26.0,ok
+household,overlap,tenure_risk_index_z,continuous,hybrid_rate_any_t,any_transfer_in_zfill,high-risk total effect,0.0038969902252325925,0.027239977854720987,0.8862416647838843,3281.0,26.0,26.0,ok
+household,overlap,tenure_risk_index_z,continuous,hybrid_rate_any_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,-0.029238353537169984,0.020716230425327394,0.15813430063069,3281.0,26.0,26.0,ok
+household,overlap,tenure_risk_index_z,continuous,hybrid_rate_any_t,asinh_transfer_in_area_zfill,risk interaction,0.04829165642769673,0.03676487205023226,0.18900538925357058,3281.0,26.0,26.0,ok
+household,overlap,tenure_risk_index_z,continuous,hybrid_rate_any_t,asinh_transfer_in_area_zfill,high-risk total effect,0.019053302890526744,0.04550905109063651,0.6754568662664548,3281.0,26.0,26.0,ok
+household,overlap,tenure_risk_index_z,continuous,hybrid_rate_any_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,-0.022714125704909948,0.06925701468214397,0.7429354090548874,3281.0,26.0,26.0,ok
+household,overlap,tenure_risk_index_z,continuous,hybrid_rate_any_t,asinh_market_volume_area_zfill,risk interaction,0.21602369411793912,0.09469969452369097,0.02253989338455198,3281.0,26.0,26.0,ok
+household,overlap,tenure_risk_index_z,continuous,hybrid_rate_any_t,asinh_market_volume_area_zfill,high-risk total effect,0.19330956841302918,0.10328798540155436,0.06126762708819308,3281.0,26.0,26.0,ok
+household,overlap,tenure_risk_index_z,continuous,hybrid_rate_any_t,asinh_operated_area_end,baseline/low-risk treatment effect,0.09530120562092693,0.06401938441962413,0.13658470626574098,2425.0,25.0,25.0,ok
+household,overlap,tenure_risk_index_z,continuous,hybrid_rate_any_t,asinh_operated_area_end,risk interaction,0.11884192404396048,0.1590830091004763,0.4550373180740027,2425.0,25.0,25.0,ok
+household,overlap,tenure_risk_index_z,continuous,hybrid_rate_any_t,asinh_operated_area_end,high-risk total effect,0.2141431296648874,0.21741538926080387,0.3246489885239928,2425.0,25.0,25.0,ok
+household,overlap,tenure_risk_index_z,high_binary,hybrid_started_t,any_transfer_in_zfill,baseline/low-risk treatment effect,0.020669448390631517,0.023420702678729213,0.37749082574474524,2882.0,23.0,23.0,ok
+household,overlap,tenure_risk_index_z,high_binary,hybrid_started_t,any_transfer_in_zfill,risk interaction,-0.029774292838383953,0.027765745818746607,0.28356778381865155,2882.0,23.0,23.0,ok
+household,overlap,tenure_risk_index_z,high_binary,hybrid_started_t,any_transfer_in_zfill,high-risk total effect,-0.009104844447752437,0.014913327161514922,0.5415191773826132,2882.0,23.0,23.0,ok
+household,overlap,tenure_risk_index_z,high_binary,hybrid_started_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,0.029893214082992288,0.03302708858209538,0.36540605734422993,2882.0,23.0,23.0,ok
+household,overlap,tenure_risk_index_z,high_binary,hybrid_started_t,asinh_transfer_in_area_zfill,risk interaction,-0.042502273512138276,0.03624424296571944,0.24093107611484832,2882.0,23.0,23.0,ok
+household,overlap,tenure_risk_index_z,high_binary,hybrid_started_t,asinh_transfer_in_area_zfill,high-risk total effect,-0.012609059429145988,0.014928381293959712,0.3983136849054436,2882.0,23.0,23.0,ok
+household,overlap,tenure_risk_index_z,high_binary,hybrid_started_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,0.020899123346297597,0.04655201874938664,0.6534740093580547,2882.0,23.0,23.0,ok
+household,overlap,tenure_risk_index_z,high_binary,hybrid_started_t,asinh_market_volume_area_zfill,risk interaction,-0.04082806103759649,0.05237264903510288,0.43564497523587253,2882.0,23.0,23.0,ok
+household,overlap,tenure_risk_index_z,high_binary,hybrid_started_t,asinh_market_volume_area_zfill,high-risk total effect,-0.01992893769129889,0.023995914600166278,0.40624836118185537,2882.0,23.0,23.0,ok
+household,overlap,tenure_risk_index_z,high_binary,hybrid_started_t,asinh_operated_area_end,baseline/low-risk treatment effect,0.002596725050037338,0.061699053497726516,0.966429382435271,2255.0,22.0,22.0,ok
+household,overlap,tenure_risk_index_z,high_binary,hybrid_started_t,asinh_operated_area_end,risk interaction,-0.4992093760815521,0.25916397018973203,0.054075679867651306,2255.0,22.0,22.0,ok
+household,overlap,tenure_risk_index_z,high_binary,hybrid_started_t,asinh_operated_area_end,high-risk total effect,-0.49661265103151475,0.25171251507029596,0.04850286873457693,2255.0,22.0,22.0,ok
+household,overlap,tenure_risk_index_z,high_binary,hybrid_rate_high_t,any_transfer_in_zfill,baseline/low-risk treatment effect,0.009383112226150512,0.013794440988485599,0.4963717069268817,738.0,8.0,8.0,ok
+household,overlap,tenure_risk_index_z,high_binary,hybrid_rate_high_t,any_transfer_in_zfill,risk interaction,0.022874952289978583,0.013794440988485639,0.09726232864267102,738.0,8.0,8.0,ok
+household,overlap,tenure_risk_index_z,high_binary,hybrid_rate_high_t,any_transfer_in_zfill,high-risk total effect,0.032258064516129094,3.681375715146283e-10,0.0,738.0,8.0,8.0,ok
+household,overlap,tenure_risk_index_z,high_binary,hybrid_rate_high_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,-0.010643113148643479,0.008868642031267148,0.2301068175620965,738.0,8.0,8.0,ok
+household,overlap,tenure_risk_index_z,high_binary,hybrid_rate_high_t,asinh_transfer_in_area_zfill,risk interaction,0.07721894765526285,0.014423733699063825,8.621979820114214e-08,738.0,8.0,8.0,ok
+household,overlap,tenure_risk_index_z,high_binary,hybrid_rate_high_t,asinh_transfer_in_area_zfill,high-risk total effect,0.06657583450661937,0.011375028895681113,4.833485515562037e-09,738.0,8.0,8.0,ok
+household,overlap,tenure_risk_index_z,high_binary,hybrid_rate_high_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,0.03364962242629487,0.035422115199404865,0.34213214921555646,738.0,8.0,8.0,ok
+household,overlap,tenure_risk_index_z,high_binary,hybrid_rate_high_t,asinh_market_volume_area_zfill,risk interaction,0.10365359175398206,0.04589333706817789,0.023909769277029605,738.0,8.0,8.0,ok
+household,overlap,tenure_risk_index_z,high_binary,hybrid_rate_high_t,asinh_market_volume_area_zfill,high-risk total effect,0.13730321418027694,0.029179995584007194,2.533830244567311e-06,738.0,8.0,8.0,ok
+household,overlap,tenure_risk_index_z,high_binary,hybrid_rate_high_t,asinh_operated_area_end,baseline/low-risk treatment effect,0.04974216059551675,0.00718310670265531,4.363415262894766e-12,531.0,8.0,8.0,ok
+household,overlap,tenure_risk_index_z,high_binary,hybrid_rate_high_t,asinh_operated_area_end,risk interaction,0.007615150606232008,0.05186861378110981,0.8832771304963338,531.0,8.0,8.0,ok
+household,overlap,tenure_risk_index_z,high_binary,hybrid_rate_high_t,asinh_operated_area_end,high-risk total effect,0.05735731120174876,0.05136882392354407,0.26417469822621475,531.0,8.0,8.0,ok
+household,overlap,tenure_risk_index_z,high_binary,hybrid_rate_any_t,any_transfer_in_zfill,baseline/low-risk treatment effect,-0.015305918402513642,0.01565681647418809,0.3282780557698992,3281.0,26.0,26.0,ok
+household,overlap,tenure_risk_index_z,high_binary,hybrid_rate_any_t,any_transfer_in_zfill,risk interaction,0.007249650799458262,0.030143516246973652,0.8099391880871067,3281.0,26.0,26.0,ok
+household,overlap,tenure_risk_index_z,high_binary,hybrid_rate_any_t,any_transfer_in_zfill,high-risk total effect,-0.00805626760305538,0.025758409688122097,0.7544610193905122,3281.0,26.0,26.0,ok
+household,overlap,tenure_risk_index_z,high_binary,hybrid_rate_any_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,-0.052876412470737884,0.023280919085278132,0.023132822729339298,3281.0,26.0,26.0,ok
+household,overlap,tenure_risk_index_z,high_binary,hybrid_rate_any_t,asinh_transfer_in_area_zfill,risk interaction,0.04238477902651691,0.041637441463759015,0.3087023404560838,3281.0,26.0,26.0,ok
+household,overlap,tenure_risk_index_z,high_binary,hybrid_rate_any_t,asinh_transfer_in_area_zfill,high-risk total effect,-0.010491633444220973,0.034520650894439654,0.7611862531288944,3281.0,26.0,26.0,ok
+household,overlap,tenure_risk_index_z,high_binary,hybrid_rate_any_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,-0.09651498682161105,0.10648344608813394,0.36473216635640304,3281.0,26.0,26.0,ok
+household,overlap,tenure_risk_index_z,high_binary,hybrid_rate_any_t,asinh_market_volume_area_zfill,risk interaction,0.12387405367609444,0.11588997572893142,0.28511761491094645,3281.0,26.0,26.0,ok
+household,overlap,tenure_risk_index_z,high_binary,hybrid_rate_any_t,asinh_market_volume_area_zfill,high-risk total effect,0.027359066854483388,0.045735786685699054,0.549707669248236,3281.0,26.0,26.0,ok
+household,overlap,tenure_risk_index_z,high_binary,hybrid_rate_any_t,asinh_operated_area_end,baseline/low-risk treatment effect,0.0666720045002826,0.03297767977591181,0.043204127561697024,2425.0,25.0,25.0,ok
+household,overlap,tenure_risk_index_z,high_binary,hybrid_rate_any_t,asinh_operated_area_end,risk interaction,0.08847397756722487,0.12135473334285263,0.4659695193801152,2425.0,25.0,25.0,ok
+household,overlap,tenure_risk_index_z,high_binary,hybrid_rate_any_t,asinh_operated_area_end,high-risk total effect,0.15514598206750746,0.11678802995291444,0.1840325337498373,2425.0,25.0,25.0,ok
+household,overlap,risk_dispute_z,continuous,hybrid_started_t,any_transfer_in_zfill,baseline/low-risk treatment effect,-0.038296638743408995,0.05255290194524732,0.4661696028549239,2422.0,19.0,19.0,ok
+household,overlap,risk_dispute_z,continuous,hybrid_started_t,any_transfer_in_zfill,risk interaction,-0.17512768924691122,0.14579183242646077,0.22966687260718366,2422.0,19.0,19.0,ok
+household,overlap,risk_dispute_z,continuous,hybrid_started_t,any_transfer_in_zfill,high-risk total effect,-0.2134243279903202,0.19436033368656666,0.27216701302024826,2422.0,19.0,19.0,ok
+household,overlap,risk_dispute_z,continuous,hybrid_started_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,-0.04642631170674945,0.06470278744516542,0.4730459823725044,2422.0,19.0,19.0,ok
+household,overlap,risk_dispute_z,continuous,hybrid_started_t,asinh_transfer_in_area_zfill,risk interaction,-0.23062022016718053,0.17170296890080933,0.17922835278030003,2422.0,19.0,19.0,ok
+household,overlap,risk_dispute_z,continuous,hybrid_started_t,asinh_transfer_in_area_zfill,high-risk total effect,-0.27704653187392997,0.22924905607146082,0.22685659281077064,2422.0,19.0,19.0,ok
+household,overlap,risk_dispute_z,continuous,hybrid_started_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,-0.2401306674945029,0.06922981785774791,0.0005231743663144315,2422.0,19.0,19.0,ok
+household,overlap,risk_dispute_z,continuous,hybrid_started_t,asinh_market_volume_area_zfill,risk interaction,-0.8350500680719172,0.18276826835295995,4.902890036765735e-06,2422.0,19.0,19.0,ok
+household,overlap,risk_dispute_z,continuous,hybrid_started_t,asinh_market_volume_area_zfill,high-risk total effect,-1.07518073556642,0.2436958360494485,1.0243039107713858e-05,2422.0,19.0,19.0,ok
+household,overlap,risk_dispute_z,continuous,hybrid_started_t,asinh_operated_area_end,baseline/low-risk treatment effect,-0.18556785545823742,0.08407409617884684,0.02730049647032899,1952.0,19.0,19.0,ok
+household,overlap,risk_dispute_z,continuous,hybrid_started_t,asinh_operated_area_end,risk interaction,-0.6301008060254817,0.2207885100772743,0.00431907547879964,1952.0,19.0,19.0,ok
+household,overlap,risk_dispute_z,continuous,hybrid_started_t,asinh_operated_area_end,high-risk total effect,-0.8156686614837191,0.27640104041839847,0.0031671281766861357,1952.0,19.0,19.0,ok
+household,overlap,risk_dispute_z,continuous,hybrid_rate_high_t,any_transfer_in_zfill,baseline/low-risk treatment effect,0.12645407513570073,0.02390988310362349,1.2313591018218198e-07,692.0,7.0,7.0,ok
+household,overlap,risk_dispute_z,continuous,hybrid_rate_high_t,any_transfer_in_zfill,risk interaction,0.43319017771224877,0.07612845222405322,1.2685104642454654e-08,692.0,7.0,7.0,ok
+household,overlap,risk_dispute_z,continuous,hybrid_rate_high_t,any_transfer_in_zfill,high-risk total effect,0.5596442528479495,0.09996056784547756,2.1602719281573767e-08,692.0,7.0,7.0,ok
+household,overlap,risk_dispute_z,continuous,hybrid_rate_high_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,0.1140992633772876,0.014875494182078178,1.7161608708828944e-14,692.0,7.0,7.0,ok
+household,overlap,risk_dispute_z,continuous,hybrid_rate_high_t,asinh_transfer_in_area_zfill,risk interaction,0.4313523128712165,0.04515510754939222,1.2638323560768843e-21,692.0,7.0,7.0,ok
+household,overlap,risk_dispute_z,continuous,hybrid_rate_high_t,asinh_transfer_in_area_zfill,high-risk total effect,0.5454515762485042,0.05899589410241499,2.3395652856909332e-20,692.0,7.0,7.0,ok
+household,overlap,risk_dispute_z,continuous,hybrid_rate_high_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,0.2902574415620569,0.03167810931907523,5.06084094448305e-20,692.0,7.0,7.0,ok
+household,overlap,risk_dispute_z,continuous,hybrid_rate_high_t,asinh_market_volume_area_zfill,risk interaction,0.9848486618942427,0.10079895855106417,1.5081810525794797e-22,692.0,7.0,7.0,ok
+household,overlap,risk_dispute_z,continuous,hybrid_rate_high_t,asinh_market_volume_area_zfill,high-risk total effect,1.2751061034562996,0.13017686519954266,1.1808441672490947e-22,692.0,7.0,7.0,ok
+household,overlap,risk_dispute_z,continuous,hybrid_rate_high_t,asinh_operated_area_end,baseline/low-risk treatment effect,0.603709387810234,0.09594873164519034,3.1340215115129566e-10,497.0,7.0,7.0,ok
+household,overlap,risk_dispute_z,continuous,hybrid_rate_high_t,asinh_operated_area_end,risk interaction,0.581474036087796,0.3407483856173296,0.0879221695694065,497.0,7.0,7.0,ok
+household,overlap,risk_dispute_z,continuous,hybrid_rate_high_t,asinh_operated_area_end,high-risk total effect,1.1851834238980299,0.43524663176403405,0.0064688978095652555,497.0,7.0,7.0,ok
+household,overlap,risk_dispute_z,continuous,hybrid_rate_any_t,any_transfer_in_zfill,baseline/low-risk treatment effect,-0.02493296849719989,0.02108973467628661,0.23711348392008724,2575.0,20.0,20.0,ok
+household,overlap,risk_dispute_z,continuous,hybrid_rate_any_t,any_transfer_in_zfill,risk interaction,-0.01877923279633488,0.024382326352831225,0.4411821143334155,2575.0,20.0,20.0,ok
+household,overlap,risk_dispute_z,continuous,hybrid_rate_any_t,any_transfer_in_zfill,high-risk total effect,-0.04371220129353477,0.040993558819819635,0.2862795665749043,2575.0,20.0,20.0,ok
+household,overlap,risk_dispute_z,continuous,hybrid_rate_any_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,-0.05031954256338064,0.034146250150526,0.14057647463575765,2575.0,20.0,20.0,ok
+household,overlap,risk_dispute_z,continuous,hybrid_rate_any_t,asinh_transfer_in_area_zfill,risk interaction,-0.04627987662837003,0.053787379344279886,0.38955613387455224,2575.0,20.0,20.0,ok
+household,overlap,risk_dispute_z,continuous,hybrid_rate_any_t,asinh_transfer_in_area_zfill,high-risk total effect,-0.09659941919175066,0.08306435061897521,0.2448510953371622,2575.0,20.0,20.0,ok
+household,overlap,risk_dispute_z,continuous,hybrid_rate_any_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,-0.04860259928899694,0.08504433310872825,0.5676626495107688,2575.0,20.0,20.0,ok
+household,overlap,risk_dispute_z,continuous,hybrid_rate_any_t,asinh_market_volume_area_zfill,risk interaction,0.1422675309094916,0.11306591217718626,0.20829385315123405,2575.0,20.0,20.0,ok
+household,overlap,risk_dispute_z,continuous,hybrid_rate_any_t,asinh_market_volume_area_zfill,high-risk total effect,0.09366493162049466,0.13680546403320695,0.4935598677661108,2575.0,20.0,20.0,ok
+household,overlap,risk_dispute_z,continuous,hybrid_rate_any_t,asinh_operated_area_end,baseline/low-risk treatment effect,-0.05332850538231763,0.05526112553582269,0.33453104196820416,1973.0,20.0,20.0,ok
+household,overlap,risk_dispute_z,continuous,hybrid_rate_any_t,asinh_operated_area_end,risk interaction,-0.5309224264861155,0.16408700314709865,0.0012138082993220015,1973.0,20.0,20.0,ok
+household,overlap,risk_dispute_z,continuous,hybrid_rate_any_t,asinh_operated_area_end,high-risk total effect,-0.5842509318684331,0.20218765592382007,0.003856747704715979,1973.0,20.0,20.0,ok
+household,overlap,risk_dispute_z,high_binary,hybrid_started_t,any_transfer_in_zfill,baseline/low-risk treatment effect,0.006608563597387861,0.015845320205443582,0.6766292431395848,2422.0,19.0,19.0,ok
+household,overlap,risk_dispute_z,high_binary,hybrid_started_t,any_transfer_in_zfill,risk interaction,0.01104917312847059,0.029093539240061632,0.7041079949093338,2422.0,19.0,19.0,ok
+household,overlap,risk_dispute_z,high_binary,hybrid_started_t,any_transfer_in_zfill,high-risk total effect,0.01765773672585845,0.024399996993538044,0.4692635507652909,2422.0,19.0,19.0,ok
+household,overlap,risk_dispute_z,high_binary,hybrid_started_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,0.005629408859666388,0.021265339456246292,0.7912234230383823,2422.0,19.0,19.0,ok
+household,overlap,risk_dispute_z,high_binary,hybrid_started_t,asinh_transfer_in_area_zfill,risk interaction,0.023483129597299437,0.041468357226529765,0.5711964345661071,2422.0,19.0,19.0,ok
+household,overlap,risk_dispute_z,high_binary,hybrid_started_t,asinh_transfer_in_area_zfill,high-risk total effect,0.029112538456965827,0.035600702085608116,0.4134989217302628,2422.0,19.0,19.0,ok
+household,overlap,risk_dispute_z,high_binary,hybrid_started_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,0.06184103376714141,0.050726240642929875,0.22280119899653472,2422.0,19.0,19.0,ok
+household,overlap,risk_dispute_z,high_binary,hybrid_started_t,asinh_market_volume_area_zfill,risk interaction,-0.14012197100448656,0.07397417403281098,0.05819830571173651,2422.0,19.0,19.0,ok
+household,overlap,risk_dispute_z,high_binary,hybrid_started_t,asinh_market_volume_area_zfill,high-risk total effect,-0.07828093723734515,0.05384261262049425,0.1459783446781323,2422.0,19.0,19.0,ok
+household,overlap,risk_dispute_z,high_binary,hybrid_started_t,asinh_operated_area_end,baseline/low-risk treatment effect,-0.03167711496754967,0.09725601136863551,0.7446448706427387,1952.0,19.0,19.0,ok
+household,overlap,risk_dispute_z,high_binary,hybrid_started_t,asinh_operated_area_end,risk interaction,-0.12725490971427245,0.2805214317962368,0.6500900951011668,1952.0,19.0,19.0,ok
+household,overlap,risk_dispute_z,high_binary,hybrid_started_t,asinh_operated_area_end,high-risk total effect,-0.1589320246818221,0.26312267474109796,0.5458286607985947,1952.0,19.0,19.0,ok
+household,overlap,risk_dispute_z,high_binary,hybrid_rate_high_t,any_transfer_in_zfill,baseline/low-risk treatment effect,-0.03125000000000011,4.934764443645749e-10,0.0,692.0,7.0,7.0,ok
+household,overlap,risk_dispute_z,high_binary,hybrid_rate_high_t,any_transfer_in_zfill,risk interaction,0.0855685514645838,0.018964892334722674,6.423584186853261e-06,692.0,7.0,7.0,ok
+household,overlap,risk_dispute_z,high_binary,hybrid_rate_high_t,any_transfer_in_zfill,high-risk total effect,0.054318551464583684,0.01896489226826778,0.0041811218670499885,692.0,7.0,7.0,ok
+household,overlap,risk_dispute_z,high_binary,hybrid_rate_high_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,-0.045113608599338,3.724602233012579e-10,0.0,692.0,7.0,7.0,ok
+household,overlap,risk_dispute_z,high_binary,hybrid_rate_high_t,asinh_transfer_in_area_zfill,risk interaction,0.12442144378039727,0.008408378757859434,1.5244366160213562e-49,692.0,7.0,7.0,ok
+household,overlap,risk_dispute_z,high_binary,hybrid_rate_high_t,asinh_transfer_in_area_zfill,high-risk total effect,0.07930783518105927,0.00840837875769557,4.023397774145553e-21,692.0,7.0,7.0,ok
+household,overlap,risk_dispute_z,high_binary,hybrid_rate_high_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,-0.090227217198676,2.696182098552502e-10,0.0,692.0,7.0,7.0,ok
+household,overlap,risk_dispute_z,high_binary,hybrid_rate_high_t,asinh_market_volume_area_zfill,risk interaction,0.2776321094620571,0.030503925098655776,8.907564443008752e-20,692.0,7.0,7.0,ok
+household,overlap,risk_dispute_z,high_binary,hybrid_rate_high_t,asinh_market_volume_area_zfill,high-risk total effect,0.18740489226338108,0.030503925052253945,8.065554883861405e-10,692.0,7.0,7.0,ok
+household,overlap,risk_dispute_z,high_binary,hybrid_rate_high_t,asinh_operated_area_end,baseline/low-risk treatment effect,-0.01698967573498581,2376251.699870343,0.9999999942953013,497.0,7.0,7.0,ok
+household,overlap,risk_dispute_z,high_binary,hybrid_rate_high_t,asinh_operated_area_end,risk interaction,0.1805622386906073,2420450.9212479927,0.9999999404789326,497.0,7.0,7.0,ok
+household,overlap,risk_dispute_z,high_binary,hybrid_rate_high_t,asinh_operated_area_end,high-risk total effect,0.1635725629556215,,,497.0,7.0,7.0,ok
+household,overlap,risk_dispute_z,high_binary,hybrid_rate_any_t,any_transfer_in_zfill,baseline/low-risk treatment effect,-0.020254611508946193,0.009318530886544168,0.029736376011094367,2575.0,20.0,20.0,ok
+household,overlap,risk_dispute_z,high_binary,hybrid_rate_any_t,any_transfer_in_zfill,risk interaction,0.006807224948645248,0.029229685895540578,0.8158488588105449,2575.0,20.0,20.0,ok
+household,overlap,risk_dispute_z,high_binary,hybrid_rate_any_t,any_transfer_in_zfill,high-risk total effect,-0.013447386560300945,0.027704503600781315,0.6274023469918106,2575.0,20.0,20.0,ok
+household,overlap,risk_dispute_z,high_binary,hybrid_rate_any_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,-0.026416663692382214,0.011755115782541023,0.024624164390809975,2575.0,20.0,20.0,ok
+household,overlap,risk_dispute_z,high_binary,hybrid_rate_any_t,asinh_transfer_in_area_zfill,risk interaction,-0.01354637923950884,0.04614756167272689,0.7691057203583826,2575.0,20.0,20.0,ok
+household,overlap,risk_dispute_z,high_binary,hybrid_rate_any_t,asinh_transfer_in_area_zfill,high-risk total effect,-0.039963042931891055,0.044625269761195276,0.37050652902826986,2575.0,20.0,20.0,ok
+household,overlap,risk_dispute_z,high_binary,hybrid_rate_any_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,-0.08711954134575317,0.14717300235162792,0.5538818747100899,2575.0,20.0,20.0,ok
+household,overlap,risk_dispute_z,high_binary,hybrid_rate_any_t,asinh_market_volume_area_zfill,risk interaction,0.05030785252683067,0.15919439544862485,0.75199095280025,2575.0,20.0,20.0,ok
+household,overlap,risk_dispute_z,high_binary,hybrid_rate_any_t,asinh_market_volume_area_zfill,high-risk total effect,-0.0368116888189225,0.06068741979037999,0.5441306200692861,2575.0,20.0,20.0,ok
+household,overlap,risk_dispute_z,high_binary,hybrid_rate_any_t,asinh_operated_area_end,baseline/low-risk treatment effect,0.07937003182919067,0.050407390293130294,0.11535542371690904,1973.0,20.0,20.0,ok
+household,overlap,risk_dispute_z,high_binary,hybrid_rate_any_t,asinh_operated_area_end,risk interaction,-0.019775269342922498,0.08657666451992921,0.8193248817088084,1973.0,20.0,20.0,ok
+household,overlap,risk_dispute_z,high_binary,hybrid_rate_any_t,asinh_operated_area_end,high-risk total effect,0.059594762486268174,0.07038901790721931,0.3971910240805827,1973.0,20.0,20.0,ok
+household,overlap,risk_reserved_z,continuous,hybrid_started_t,any_transfer_in_zfill,baseline/low-risk treatment effect,0.0435785782723015,0.0353377580552559,0.217500574447005,1005.0,9.0,9.0,ok
+household,overlap,risk_reserved_z,continuous,hybrid_started_t,any_transfer_in_zfill,risk interaction,0.47884135381297543,0.38006544284654464,0.20770837927462737,1005.0,9.0,9.0,ok
+household,overlap,risk_reserved_z,continuous,hybrid_started_t,any_transfer_in_zfill,high-risk total effect,0.5224199320852769,0.41475302893991844,0.207816291546011,1005.0,9.0,9.0,ok
+household,overlap,risk_reserved_z,continuous,hybrid_started_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,0.04904817043157263,0.04080448845946716,0.22935236872646292,1005.0,9.0,9.0,ok
+household,overlap,risk_reserved_z,continuous,hybrid_started_t,asinh_transfer_in_area_zfill,risk interaction,0.5296315819562334,0.4056563251321047,0.19168301429353107,1005.0,9.0,9.0,ok
+household,overlap,risk_reserved_z,continuous,hybrid_started_t,asinh_transfer_in_area_zfill,high-risk total effect,0.578679752387806,0.4458963991196694,0.19435961124257373,1005.0,9.0,9.0,ok
+household,overlap,risk_reserved_z,continuous,hybrid_started_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,0.15150095783266343,0.17978444087195689,0.39940679709227056,1005.0,9.0,9.0,ok
+household,overlap,risk_reserved_z,continuous,hybrid_started_t,asinh_market_volume_area_zfill,risk interaction,1.572152498347545,1.495986377365891,0.2932982523936465,1005.0,9.0,9.0,ok
+household,overlap,risk_reserved_z,continuous,hybrid_started_t,asinh_market_volume_area_zfill,high-risk total effect,1.7236534561802084,1.6707048374974975,0.30221624650454926,1005.0,9.0,9.0,ok
+household,overlap,risk_reserved_z,continuous,hybrid_started_t,asinh_operated_area_end,baseline/low-risk treatment effect,-0.7301385722688118,0.2370967633191632,0.0020735104315833764,779.0,8.0,8.0,ok
+household,overlap,risk_reserved_z,continuous,hybrid_started_t,asinh_operated_area_end,risk interaction,-6.2496132702272,1.86509592709156,0.0008057070132952172,779.0,8.0,8.0,ok
+household,overlap,risk_reserved_z,continuous,hybrid_started_t,asinh_operated_area_end,high-risk total effect,-6.979751842496012,2.098994276906383,0.0008832854835648581,779.0,8.0,8.0,ok
+household,overlap,risk_reserved_z,continuous,hybrid_rate_high_t,any_transfer_in_zfill,,,,,,,,error: too few observations
+household,overlap,risk_reserved_z,continuous,hybrid_rate_high_t,asinh_transfer_in_area_zfill,,,,,,,,error: too few observations
+household,overlap,risk_reserved_z,continuous,hybrid_rate_high_t,asinh_market_volume_area_zfill,,,,,,,,error: too few observations
+household,overlap,risk_reserved_z,continuous,hybrid_rate_high_t,asinh_operated_area_end,,,,,,,,error: too few observations
+household,overlap,risk_reserved_z,continuous,hybrid_rate_any_t,any_transfer_in_zfill,baseline/low-risk treatment effect,0.03817515244769086,0.03509440144748346,0.2766901717561404,1404.0,12.0,12.0,ok
+household,overlap,risk_reserved_z,continuous,hybrid_rate_any_t,any_transfer_in_zfill,risk interaction,0.19448081044203622,0.4241735649261486,0.6465979515355418,1404.0,12.0,12.0,ok
+household,overlap,risk_reserved_z,continuous,hybrid_rate_any_t,any_transfer_in_zfill,high-risk total effect,0.23265596288972706,0.4579097455947052,0.6113954344491173,1404.0,12.0,12.0,ok
+household,overlap,risk_reserved_z,continuous,hybrid_rate_any_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,0.081110557656976,0.06393473336788633,0.20456727249245343,1404.0,12.0,12.0,ok
+household,overlap,risk_reserved_z,continuous,hybrid_rate_any_t,asinh_transfer_in_area_zfill,risk interaction,0.7505284006135009,0.7857533602693131,0.3394915003693688,1404.0,12.0,12.0,ok
+household,overlap,risk_reserved_z,continuous,hybrid_rate_any_t,asinh_transfer_in_area_zfill,high-risk total effect,0.8316389582704768,0.8472982322936573,0.3263370762594414,1404.0,12.0,12.0,ok
+household,overlap,risk_reserved_z,continuous,hybrid_rate_any_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,0.2888486540379409,0.285758851173078,0.31210612011764005,1404.0,12.0,12.0,ok
+household,overlap,risk_reserved_z,continuous,hybrid_rate_any_t,asinh_market_volume_area_zfill,risk interaction,3.4189718006617706,3.4976702632363996,0.32832180249438003,1404.0,12.0,12.0,ok
+household,overlap,risk_reserved_z,continuous,hybrid_rate_any_t,asinh_market_volume_area_zfill,high-risk total effect,3.7078204546997116,3.7830503397540545,0.32702986828286973,1404.0,12.0,12.0,ok
+household,overlap,risk_reserved_z,continuous,hybrid_rate_any_t,asinh_operated_area_end,baseline/low-risk treatment effect,-0.572478274500866,0.5219124321803167,0.2726913681779817,949.0,11.0,11.0,ok
+household,overlap,risk_reserved_z,continuous,hybrid_rate_any_t,asinh_operated_area_end,risk interaction,-4.762162978548364,4.364494571258595,0.27522253688443,949.0,11.0,11.0,ok
+household,overlap,risk_reserved_z,continuous,hybrid_rate_any_t,asinh_operated_area_end,high-risk total effect,-5.33464125304923,4.884967461170849,0.274809996706624,949.0,11.0,11.0,ok
+household,overlap,risk_reserved_z,high_binary,hybrid_started_t,any_transfer_in_zfill,baseline/low-risk treatment effect,-0.03267501087355186,0.02442478121258146,0.18096780206953222,1005.0,9.0,9.0,ok
+household,overlap,risk_reserved_z,high_binary,hybrid_started_t,any_transfer_in_zfill,risk interaction,0.026143583139358953,0.02465963681244115,0.28906402061042735,1005.0,9.0,9.0,ok
+household,overlap,risk_reserved_z,high_binary,hybrid_started_t,any_transfer_in_zfill,high-risk total effect,-0.006531427734192907,0.0033952541033512836,0.05439303230414111,1005.0,9.0,9.0,ok
+household,overlap,risk_reserved_z,high_binary,hybrid_started_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,-0.03584053662861048,0.026663010649572827,0.17888229443221648,1005.0,9.0,9.0,ok
+household,overlap,risk_reserved_z,high_binary,hybrid_started_t,asinh_transfer_in_area_zfill,risk interaction,0.02641153584796292,0.027109793987347756,0.3299357373002737,1005.0,9.0,9.0,ok
+household,overlap,risk_reserved_z,high_binary,hybrid_started_t,asinh_transfer_in_area_zfill,high-risk total effect,-0.009429000780647564,0.004901509268655111,0.054393032196381814,1005.0,9.0,9.0,ok
+household,overlap,risk_reserved_z,high_binary,hybrid_started_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,-0.13138381051398937,0.04594626140416011,0.004242955583266821,1005.0,9.0,9.0,ok
+household,overlap,risk_reserved_z,high_binary,hybrid_started_t,asinh_market_volume_area_zfill,risk interaction,0.12191626779523854,0.047860056500135285,0.010854481266954392,1005.0,9.0,9.0,ok
+household,overlap,risk_reserved_z,high_binary,hybrid_started_t,asinh_market_volume_area_zfill,high-risk total effect,-0.009467542718750832,0.013398733927550041,0.47981521302477215,1005.0,9.0,9.0,ok
+household,overlap,risk_reserved_z,high_binary,hybrid_started_t,asinh_operated_area_end,baseline/low-risk treatment effect,0.04693378905176484,0.026718310807698615,0.0789834320588177,779.0,8.0,8.0,ok
+household,overlap,risk_reserved_z,high_binary,hybrid_started_t,asinh_operated_area_end,risk interaction,-0.35930388586835577,0.027225142561848197,9.069235638734898e-40,779.0,8.0,8.0,ok
+household,overlap,risk_reserved_z,high_binary,hybrid_started_t,asinh_operated_area_end,high-risk total effect,-0.31237009681659095,0.005228791003543709,0.0,779.0,8.0,8.0,ok
+household,overlap,risk_reserved_z,high_binary,hybrid_rate_high_t,any_transfer_in_zfill,,,,,,,,error: too few observations
+household,overlap,risk_reserved_z,high_binary,hybrid_rate_high_t,asinh_transfer_in_area_zfill,,,,,,,,error: too few observations
+household,overlap,risk_reserved_z,high_binary,hybrid_rate_high_t,asinh_market_volume_area_zfill,,,,,,,,error: too few observations
+household,overlap,risk_reserved_z,high_binary,hybrid_rate_high_t,asinh_operated_area_end,,,,,,,,error: too few observations
+household,overlap,risk_reserved_z,high_binary,hybrid_rate_any_t,any_transfer_in_zfill,baseline/low-risk treatment effect,0.008851294594178088,0.02457940297689175,0.7187646987633343,1404.0,12.0,12.0,ok
+household,overlap,risk_reserved_z,high_binary,hybrid_rate_any_t,any_transfer_in_zfill,risk interaction,0.010533199572927091,0.029654397267072283,0.72244083419255,1404.0,12.0,12.0,ok
+household,overlap,risk_reserved_z,high_binary,hybrid_rate_any_t,any_transfer_in_zfill,high-risk total effect,0.01938449416710518,0.016590244921677166,0.24263447048832487,1404.0,12.0,12.0,ok
+household,overlap,risk_reserved_z,high_binary,hybrid_rate_any_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,-0.010932264949298734,0.04798412275539033,0.8197777185853043,1404.0,12.0,12.0,ok
+household,overlap,risk_reserved_z,high_binary,hybrid_rate_any_t,asinh_transfer_in_area_zfill,risk interaction,0.01106598788578727,0.04835556576781026,0.8189884504480587,1404.0,12.0,12.0,ok
+household,overlap,risk_reserved_z,high_binary,hybrid_rate_any_t,asinh_transfer_in_area_zfill,high-risk total effect,0.00013372293648853534,0.005982031771944622,0.9821654940786521,1404.0,12.0,12.0,ok
+household,overlap,risk_reserved_z,high_binary,hybrid_rate_any_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,-0.14080926706266073,0.19264422406711393,0.4648224675293464,1404.0,12.0,12.0,ok
+household,overlap,risk_reserved_z,high_binary,hybrid_rate_any_t,asinh_market_volume_area_zfill,risk interaction,0.11998781201032728,0.1982756510035416,0.5450749724433559,1404.0,12.0,12.0,ok
+household,overlap,risk_reserved_z,high_binary,hybrid_rate_any_t,asinh_market_volume_area_zfill,high-risk total effect,-0.020821455052333446,0.04691947052629769,0.6572088552730059,1404.0,12.0,12.0,ok
+household,overlap,risk_reserved_z,high_binary,hybrid_rate_any_t,asinh_operated_area_end,baseline/low-risk treatment effect,0.04903321214903148,0.066035969713622,0.45777065199784805,949.0,11.0,11.0,ok
+household,overlap,risk_reserved_z,high_binary,hybrid_rate_any_t,asinh_operated_area_end,risk interaction,0.0732164302681163,0.07696101985406928,0.3414296077679736,949.0,11.0,11.0,ok
+household,overlap,risk_reserved_z,high_binary,hybrid_rate_any_t,asinh_operated_area_end,high-risk total effect,0.12224964241714778,0.039525299236211155,0.0019817974955945437,949.0,11.0,11.0,ok
+household,overlap,risk_transferout_z,continuous,hybrid_started_t,any_transfer_in_zfill,baseline/low-risk treatment effect,0.15120114152723005,0.08298225067104273,0.06844130813322437,2208.0,18.0,18.0,ok
+household,overlap,risk_transferout_z,continuous,hybrid_started_t,any_transfer_in_zfill,risk interaction,0.3669788056467086,0.1823235747139336,0.044136877794261654,2208.0,18.0,18.0,ok
+household,overlap,risk_transferout_z,continuous,hybrid_started_t,any_transfer_in_zfill,high-risk total effect,0.5181799471739387,0.264846117307183,0.05040249725605382,2208.0,18.0,18.0,ok
+household,overlap,risk_transferout_z,continuous,hybrid_started_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,0.15403722024322822,0.11199030143625084,0.16899153379747844,2208.0,18.0,18.0,ok
+household,overlap,risk_transferout_z,continuous,hybrid_started_t,asinh_transfer_in_area_zfill,risk interaction,0.39097632219149764,0.24226224104737246,0.10655870840636734,2208.0,18.0,18.0,ok
+household,overlap,risk_transferout_z,continuous,hybrid_started_t,asinh_transfer_in_area_zfill,high-risk total effect,0.5450135424347259,0.3536145779864897,0.12325246179920692,2208.0,18.0,18.0,ok
+household,overlap,risk_transferout_z,continuous,hybrid_started_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,0.4561780158312487,0.20241697610701004,0.02421788487974431,2208.0,18.0,18.0,ok
+household,overlap,risk_transferout_z,continuous,hybrid_started_t,asinh_market_volume_area_zfill,risk interaction,1.0383854230871552,0.4576474112291978,0.02327052550603194,2208.0,18.0,18.0,ok
+household,overlap,risk_transferout_z,continuous,hybrid_started_t,asinh_market_volume_area_zfill,high-risk total effect,1.494563438918404,0.6585934318464726,0.02324848636181852,2208.0,18.0,18.0,ok
+household,overlap,risk_transferout_z,continuous,hybrid_started_t,asinh_operated_area_end,baseline/low-risk treatment effect,-0.7133321145060888,0.2972118100337811,0.01639149005063374,1785.0,18.0,18.0,ok
+household,overlap,risk_transferout_z,continuous,hybrid_started_t,asinh_operated_area_end,risk interaction,-1.5692484079111024,0.633875270193938,0.013299676447933456,1785.0,18.0,18.0,ok
+household,overlap,risk_transferout_z,continuous,hybrid_started_t,asinh_operated_area_end,high-risk total effect,-2.282580522417191,0.9302376401172883,0.014137104115126323,1785.0,18.0,18.0,ok
+household,overlap,risk_transferout_z,continuous,hybrid_rate_high_t,any_transfer_in_zfill,baseline/low-risk treatment effect,0.10190015961639712,0.047287171281882937,0.03116794858248258,692.0,7.0,7.0,ok
+household,overlap,risk_transferout_z,continuous,hybrid_rate_high_t,any_transfer_in_zfill,risk interaction,0.1895693698936132,0.06488741707052795,0.003483368172289673,692.0,7.0,7.0,ok
+household,overlap,risk_transferout_z,continuous,hybrid_rate_high_t,any_transfer_in_zfill,high-risk total effect,0.2914695295100103,0.1108805897142088,0.00857171126025645,692.0,7.0,7.0,ok
+household,overlap,risk_transferout_z,continuous,hybrid_rate_high_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,0.19278379315298513,0.026034036136891103,1.3108384244503674e-13,692.0,7.0,7.0,ok
+household,overlap,risk_transferout_z,continuous,hybrid_rate_high_t,asinh_transfer_in_area_zfill,risk interaction,0.41903247410004246,0.03849640712064819,1.3593417696726327e-27,692.0,7.0,7.0,ok
+household,overlap,risk_transferout_z,continuous,hybrid_rate_high_t,asinh_transfer_in_area_zfill,high-risk total effect,0.6118162672530276,0.06293257986316741,2.4350357944828822e-22,692.0,7.0,7.0,ok
+household,overlap,risk_transferout_z,continuous,hybrid_rate_high_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,0.43708327018713045,0.05377162330120009,4.34593112265881e-16,692.0,7.0,7.0,ok
+household,overlap,risk_transferout_z,continuous,hybrid_rate_high_t,asinh_market_volume_area_zfill,risk interaction,0.8698912373998222,0.056907274367576345,9.462691117253262e-53,692.0,7.0,7.0,ok
+household,overlap,risk_transferout_z,continuous,hybrid_rate_high_t,asinh_market_volume_area_zfill,high-risk total effect,1.3069745075869528,0.1021921441484941,1.879593345793768e-37,692.0,7.0,7.0,ok
+household,overlap,risk_transferout_z,continuous,hybrid_rate_high_t,asinh_operated_area_end,baseline/low-risk treatment effect,0.2882365917787604,0.27163894054940996,0.28864360144647594,497.0,7.0,7.0,ok
+household,overlap,risk_transferout_z,continuous,hybrid_rate_high_t,asinh_operated_area_end,risk interaction,0.41124513087791326,0.5805741841141656,0.4787328452429902,497.0,7.0,7.0,ok
+household,overlap,risk_transferout_z,continuous,hybrid_rate_high_t,asinh_operated_area_end,high-risk total effect,0.6994817226566736,0.8485448673981845,0.40975158689112223,497.0,7.0,7.0,ok
+household,overlap,risk_transferout_z,continuous,hybrid_rate_any_t,any_transfer_in_zfill,baseline/low-risk treatment effect,0.011786540435514596,0.044221456988103154,0.7898276536803153,2487.0,20.0,20.0,ok
+household,overlap,risk_transferout_z,continuous,hybrid_rate_any_t,any_transfer_in_zfill,risk interaction,0.08279584080547153,0.10572866306317778,0.43356991977784,2487.0,20.0,20.0,ok
+household,overlap,risk_transferout_z,continuous,hybrid_rate_any_t,any_transfer_in_zfill,high-risk total effect,0.09458238124098613,0.14632446044761274,0.5180280837763921,2487.0,20.0,20.0,ok
+household,overlap,risk_transferout_z,continuous,hybrid_rate_any_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,-0.002456310868363559,0.06290053860839269,0.9688499564526816,2487.0,20.0,20.0,ok
+household,overlap,risk_transferout_z,continuous,hybrid_rate_any_t,asinh_transfer_in_area_zfill,risk interaction,0.12654128810831425,0.14405122582349092,0.3797014855870189,2487.0,20.0,20.0,ok
+household,overlap,risk_transferout_z,continuous,hybrid_rate_any_t,asinh_transfer_in_area_zfill,high-risk total effect,0.12408497723995068,0.20295967589888,0.5409497012381655,2487.0,20.0,20.0,ok
+household,overlap,risk_transferout_z,continuous,hybrid_rate_any_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,-0.45644179871155716,0.22779335631815814,0.04509644221341643,2487.0,20.0,20.0,ok
+household,overlap,risk_transferout_z,continuous,hybrid_rate_any_t,asinh_market_volume_area_zfill,risk interaction,-0.9077832224456825,0.6170626113516576,0.14125425304976164,2487.0,20.0,20.0,ok
+household,overlap,risk_transferout_z,continuous,hybrid_rate_any_t,asinh_market_volume_area_zfill,high-risk total effect,-1.3642250211572398,0.8286886507655942,0.09971321042105852,2487.0,20.0,20.0,ok
+household,overlap,risk_transferout_z,continuous,hybrid_rate_any_t,asinh_operated_area_end,baseline/low-risk treatment effect,0.08810290206265303,0.21390894514926526,0.6804339402550199,1905.0,20.0,20.0,ok
+household,overlap,risk_transferout_z,continuous,hybrid_rate_any_t,asinh_operated_area_end,risk interaction,0.09553711511563596,0.5405420742120756,0.8597101365668346,1905.0,20.0,20.0,ok
+household,overlap,risk_transferout_z,continuous,hybrid_rate_any_t,asinh_operated_area_end,high-risk total effect,0.18364001717828898,0.752400970251234,0.8071750498309244,1905.0,20.0,20.0,ok
+household,overlap,risk_transferout_z,high_binary,hybrid_started_t,any_transfer_in_zfill,baseline/low-risk treatment effect,-5.770460059143466e-05,0.02674140670118894,0.9982782665593412,2208.0,18.0,18.0,ok
+household,overlap,risk_transferout_z,high_binary,hybrid_started_t,any_transfer_in_zfill,risk interaction,-0.014871838969246888,0.02916112487742309,0.61005950328345,2208.0,18.0,18.0,ok
+household,overlap,risk_transferout_z,high_binary,hybrid_started_t,any_transfer_in_zfill,high-risk total effect,-0.014929543569838322,0.03510602582732246,0.6706397780749541,2208.0,18.0,18.0,ok
+household,overlap,risk_transferout_z,high_binary,hybrid_started_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,-0.0017896441059281434,0.031023179467109006,0.9539976934188379,2208.0,18.0,18.0,ok
+household,overlap,risk_transferout_z,high_binary,hybrid_started_t,asinh_transfer_in_area_zfill,risk interaction,-0.022347356484857306,0.03386826888822344,0.5093618561319874,2208.0,18.0,18.0,ok
+household,overlap,risk_transferout_z,high_binary,hybrid_started_t,asinh_transfer_in_area_zfill,high-risk total effect,-0.02413700059078545,0.04215625841949614,0.566942436514206,2208.0,18.0,18.0,ok
+household,overlap,risk_transferout_z,high_binary,hybrid_started_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,0.03951838367682997,0.06627162627978908,0.5509686536331149,2208.0,18.0,18.0,ok
+household,overlap,risk_transferout_z,high_binary,hybrid_started_t,asinh_market_volume_area_zfill,risk interaction,-0.2893761612125661,0.1369660518953468,0.03462146158701857,2208.0,18.0,18.0,ok
+household,overlap,risk_transferout_z,high_binary,hybrid_started_t,asinh_market_volume_area_zfill,high-risk total effect,-0.24985777753573613,0.14444129281396414,0.08366201879418331,2208.0,18.0,18.0,ok
+household,overlap,risk_transferout_z,high_binary,hybrid_started_t,asinh_operated_area_end,baseline/low-risk treatment effect,-0.017919001415529972,0.07996655661581263,0.822694126129191,1785.0,18.0,18.0,ok
+household,overlap,risk_transferout_z,high_binary,hybrid_started_t,asinh_operated_area_end,risk interaction,0.0503197793069894,0.1371035393321491,0.7136038912638837,1785.0,18.0,18.0,ok
+household,overlap,risk_transferout_z,high_binary,hybrid_started_t,asinh_operated_area_end,high-risk total effect,0.032400777891459426,0.15321978559429494,0.8325236465616621,1785.0,18.0,18.0,ok
+household,overlap,risk_transferout_z,high_binary,hybrid_rate_high_t,any_transfer_in_zfill,baseline/low-risk treatment effect,-0.015363282377473007,0.006110808492306263,0.011933112255111998,692.0,7.0,7.0,ok
+household,overlap,risk_transferout_z,high_binary,hybrid_rate_high_t,any_transfer_in_zfill,risk interaction,0.06965107824427405,0.019911807487980177,0.0004687985914315768,692.0,7.0,7.0,ok
+household,overlap,risk_transferout_z,high_binary,hybrid_rate_high_t,any_transfer_in_zfill,high-risk total effect,0.05428779586680105,0.018950939169295994,0.004174712182508556,692.0,7.0,7.0,ok
+household,overlap,risk_transferout_z,high_binary,hybrid_rate_high_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,-0.01569744512481698,0.012098062840942614,0.19445327666298373,692.0,7.0,7.0,ok
+household,overlap,risk_transferout_z,high_binary,hybrid_rate_high_t,asinh_transfer_in_area_zfill,risk interaction,0.1043344261055296,0.012100417971097103,6.557552328596929e-18,692.0,7.0,7.0,ok
+household,overlap,risk_transferout_z,high_binary,hybrid_rate_high_t,asinh_transfer_in_area_zfill,high-risk total effect,0.08863698098071263,0.00023872698636894846,0.0,692.0,7.0,7.0,ok
+household,overlap,risk_transferout_z,high_binary,hybrid_rate_high_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,-0.022706762147074424,0.02586540887514351,0.38000806742955506,692.0,7.0,7.0,ok
+household,overlap,risk_transferout_z,high_binary,hybrid_rate_high_t,asinh_market_volume_area_zfill,risk interaction,0.23900884453122162,0.030450030478976483,4.186484507138224e-15,692.0,7.0,7.0,ok
+household,overlap,risk_transferout_z,high_binary,hybrid_rate_high_t,asinh_market_volume_area_zfill,high-risk total effect,0.2163020823841472,0.01606813549066663,2.633174132222693e-41,692.0,7.0,7.0,ok
+household,overlap,risk_transferout_z,high_binary,hybrid_rate_high_t,asinh_operated_area_end,baseline/low-risk treatment effect,0.21716851366868173,2.3148082166283592e-08,0.0,497.0,7.0,7.0,ok
+household,overlap,risk_transferout_z,high_binary,hybrid_rate_high_t,asinh_operated_area_end,risk interaction,-0.13062620499989505,0.06435600253728754,0.042382575809081266,497.0,7.0,7.0,ok
+household,overlap,risk_transferout_z,high_binary,hybrid_rate_high_t,asinh_operated_area_end,high-risk total effect,0.08654230866878668,0.06435602489787882,0.1787082699455781,497.0,7.0,7.0,ok
+household,overlap,risk_transferout_z,high_binary,hybrid_rate_any_t,any_transfer_in_zfill,baseline/low-risk treatment effect,-0.04083060507735631,0.022640964947306684,0.07132618778131247,2487.0,20.0,20.0,ok
+household,overlap,risk_transferout_z,high_binary,hybrid_rate_any_t,any_transfer_in_zfill,risk interaction,0.07403405986115733,0.02827204125579745,0.008828323883072618,2487.0,20.0,20.0,ok
+household,overlap,risk_transferout_z,high_binary,hybrid_rate_any_t,any_transfer_in_zfill,high-risk total effect,0.03320345478380102,0.016932070843203216,0.049881338765721844,2487.0,20.0,20.0,ok
+household,overlap,risk_transferout_z,high_binary,hybrid_rate_any_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,-0.06949540707699543,0.029583159957839108,0.01881610816541363,2487.0,20.0,20.0,ok
+household,overlap,risk_transferout_z,high_binary,hybrid_rate_any_t,asinh_transfer_in_area_zfill,risk interaction,0.08914468023070565,0.036404495581634874,0.014336196387589924,2487.0,20.0,20.0,ok
+household,overlap,risk_transferout_z,high_binary,hybrid_rate_any_t,asinh_transfer_in_area_zfill,high-risk total effect,0.01964927315371022,0.021216124657890745,0.3543690294346966,2487.0,20.0,20.0,ok
+household,overlap,risk_transferout_z,high_binary,hybrid_rate_any_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,-0.12799859218426993,0.12929248208633895,0.32217776745352955,2487.0,20.0,20.0,ok
+household,overlap,risk_transferout_z,high_binary,hybrid_rate_any_t,asinh_market_volume_area_zfill,risk interaction,0.1535268412482937,0.1377611453666691,0.26508950504830586,2487.0,20.0,20.0,ok
+household,overlap,risk_transferout_z,high_binary,hybrid_rate_any_t,asinh_market_volume_area_zfill,high-risk total effect,0.02552824906402376,0.04755614837815263,0.5914041938824567,2487.0,20.0,20.0,ok
+household,overlap,risk_transferout_z,high_binary,hybrid_rate_any_t,asinh_operated_area_end,baseline/low-risk treatment effect,0.07638231275643177,0.035548878482586393,0.03166167518797416,1905.0,20.0,20.0,ok
+household,overlap,risk_transferout_z,high_binary,hybrid_rate_any_t,asinh_operated_area_end,risk interaction,0.011920361098898316,0.10301072623913275,0.9078747638792803,1905.0,20.0,20.0,ok
+household,overlap,risk_transferout_z,high_binary,hybrid_rate_any_t,asinh_operated_area_end,high-risk total effect,0.08830267385533008,0.09668240255265001,0.361070449230425,1905.0,20.0,20.0,ok
+household,long,tenure_risk_index_z,continuous,hybrid_started_t,any_transfer_in_zfill,baseline/low-risk treatment effect,-0.0813249157076789,0.05724995116990747,0.15545525736706567,1654.0,14.0,14.0,ok
+household,long,tenure_risk_index_z,continuous,hybrid_started_t,any_transfer_in_zfill,risk interaction,-0.15508584310462198,0.14834153601793337,0.29580823588933514,1654.0,14.0,14.0,ok
+household,long,tenure_risk_index_z,continuous,hybrid_started_t,any_transfer_in_zfill,high-risk total effect,-0.2364107588123009,0.20529495559002484,0.24949932343307368,1654.0,14.0,14.0,ok
+household,long,tenure_risk_index_z,continuous,hybrid_started_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,-0.10137752154051519,0.08094925498631883,0.21043910820197687,1654.0,14.0,14.0,ok
+household,long,tenure_risk_index_z,continuous,hybrid_started_t,asinh_transfer_in_area_zfill,risk interaction,-0.2021120441394953,0.21067717330643473,0.337385089041889,1654.0,14.0,14.0,ok
+household,long,tenure_risk_index_z,continuous,hybrid_started_t,asinh_transfer_in_area_zfill,high-risk total effect,-0.3034895656800105,0.29127535888700534,0.29744249290413405,1654.0,14.0,14.0,ok
+household,long,tenure_risk_index_z,continuous,hybrid_started_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,-0.08375466394989176,0.14123397280116926,0.5531673250111653,1654.0,14.0,14.0,ok
+household,long,tenure_risk_index_z,continuous,hybrid_started_t,asinh_market_volume_area_zfill,risk interaction,-0.06538145016350293,0.3240531252506202,0.8401031677170789,1654.0,14.0,14.0,ok
+household,long,tenure_risk_index_z,continuous,hybrid_started_t,asinh_market_volume_area_zfill,high-risk total effect,-0.14913611411339467,0.46243743990728486,0.7470738726566771,1654.0,14.0,14.0,ok
+household,long,tenure_risk_index_z,continuous,hybrid_started_t,asinh_operated_area_end,baseline/low-risk treatment effect,-0.21153448110416434,0.13678323369227058,0.12198525350999262,1316.0,14.0,14.0,ok
+household,long,tenure_risk_index_z,continuous,hybrid_started_t,asinh_operated_area_end,risk interaction,-0.8377231295638389,0.41088127275725467,0.04146552359480931,1316.0,14.0,14.0,ok
+household,long,tenure_risk_index_z,continuous,hybrid_started_t,asinh_operated_area_end,high-risk total effect,-1.0492576106680032,0.5401612976553284,0.052077878426156035,1316.0,14.0,14.0,ok
+household,long,tenure_risk_index_z,continuous,hybrid_rate_high_t,any_transfer_in_zfill,baseline/low-risk treatment effect,0.1750141909860118,0.03567124569408327,9.28057838058555e-07,456.0,6.0,6.0,ok
+household,long,tenure_risk_index_z,continuous,hybrid_rate_high_t,any_transfer_in_zfill,risk interaction,0.45334724114096236,0.09534717946168163,1.9874123985388266e-06,456.0,6.0,6.0,ok
+household,long,tenure_risk_index_z,continuous,hybrid_rate_high_t,any_transfer_in_zfill,high-risk total effect,0.6283614321269742,0.12873277477876147,1.0547958012413419e-06,456.0,6.0,6.0,ok
+household,long,tenure_risk_index_z,continuous,hybrid_rate_high_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,0.10171448404404998,0.04219037878994402,0.015915589735967444,456.0,6.0,6.0,ok
+household,long,tenure_risk_index_z,continuous,hybrid_rate_high_t,asinh_transfer_in_area_zfill,risk interaction,0.2901049207640246,0.09974850788424296,0.0036332573503333764,456.0,6.0,6.0,ok
+household,long,tenure_risk_index_z,continuous,hybrid_rate_high_t,asinh_transfer_in_area_zfill,high-risk total effect,0.3918194048080746,0.13713202637286537,0.0042733969579103505,456.0,6.0,6.0,ok
+household,long,tenure_risk_index_z,continuous,hybrid_rate_high_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,0.2949671189696166,0.08588962566816684,0.0005941787463537434,456.0,6.0,6.0,ok
+household,long,tenure_risk_index_z,continuous,hybrid_rate_high_t,asinh_market_volume_area_zfill,risk interaction,0.7505767435783273,0.2121836841151831,0.0004041003029825572,456.0,6.0,6.0,ok
+household,long,tenure_risk_index_z,continuous,hybrid_rate_high_t,asinh_market_volume_area_zfill,high-risk total effect,1.0455438625479438,0.28956300840926824,0.0003052956518453299,456.0,6.0,6.0,ok
+household,long,tenure_risk_index_z,continuous,hybrid_rate_high_t,asinh_operated_area_end,baseline/low-risk treatment effect,0.7415651264033936,4.084879193095213e-05,0.0,340.0,6.0,6.0,ok
+household,long,tenure_risk_index_z,continuous,hybrid_rate_high_t,asinh_operated_area_end,risk interaction,1.4169031392685076,0.00010827146095100835,0.0,340.0,6.0,6.0,ok
+household,long,tenure_risk_index_z,continuous,hybrid_rate_high_t,asinh_operated_area_end,high-risk total effect,2.1584682656719014,0.00014912025272838218,0.0,340.0,6.0,6.0,ok
+household,long,tenure_risk_index_z,continuous,hybrid_rate_any_t,any_transfer_in_zfill,baseline/low-risk treatment effect,-0.012548246604137139,0.04413530362768975,0.7761704199047312,2053.0,17.0,17.0,ok
+household,long,tenure_risk_index_z,continuous,hybrid_rate_any_t,any_transfer_in_zfill,risk interaction,0.026660312201780206,0.08569750764800271,0.7557262194028284,2053.0,17.0,17.0,ok
+household,long,tenure_risk_index_z,continuous,hybrid_rate_any_t,any_transfer_in_zfill,high-risk total effect,0.014112065597643067,0.12463154372785594,0.9098479836762321,2053.0,17.0,17.0,ok
+household,long,tenure_risk_index_z,continuous,hybrid_rate_any_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,-0.031774501611110416,0.07428032805030581,0.6688224457624756,2053.0,17.0,17.0,ok
+household,long,tenure_risk_index_z,continuous,hybrid_rate_any_t,asinh_transfer_in_area_zfill,risk interaction,0.06619553885507269,0.19973122872942398,0.7403249342925843,2053.0,17.0,17.0,ok
+household,long,tenure_risk_index_z,continuous,hybrid_rate_any_t,asinh_transfer_in_area_zfill,high-risk total effect,0.034421037243962276,0.27146007449859516,0.899098987898653,2053.0,17.0,17.0,ok
+household,long,tenure_risk_index_z,continuous,hybrid_rate_any_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,0.08243831629888809,0.20606950806613925,0.6891189410002805,2053.0,17.0,17.0,ok
+household,long,tenure_risk_index_z,continuous,hybrid_rate_any_t,asinh_market_volume_area_zfill,risk interaction,0.68538541585798,0.3464277616847131,0.04787945703482206,2053.0,17.0,17.0,ok
+household,long,tenure_risk_index_z,continuous,hybrid_rate_any_t,asinh_market_volume_area_zfill,high-risk total effect,0.767823732156868,0.5057492605350136,0.12896637700712488,2053.0,17.0,17.0,ok
+household,long,tenure_risk_index_z,continuous,hybrid_rate_any_t,asinh_operated_area_end,baseline/low-risk treatment effect,0.014650173411376309,0.21528502624289436,0.945745731030511,1486.0,17.0,17.0,ok
+household,long,tenure_risk_index_z,continuous,hybrid_rate_any_t,asinh_operated_area_end,risk interaction,-0.3565279006238816,0.5832413473213379,0.5410095422786043,1486.0,17.0,17.0,ok
+household,long,tenure_risk_index_z,continuous,hybrid_rate_any_t,asinh_operated_area_end,high-risk total effect,-0.3418777272125053,0.7920004897280976,0.6659859774260669,1486.0,17.0,17.0,ok
+household,long,tenure_risk_index_z,high_binary,hybrid_started_t,any_transfer_in_zfill,baseline/low-risk treatment effect,-0.016593357080476975,0.005059795906483873,0.0010400895473152527,1654.0,14.0,14.0,ok
+household,long,tenure_risk_index_z,high_binary,hybrid_started_t,any_transfer_in_zfill,risk interaction,-0.006775392461721468,0.030986230909403716,0.8269163380589514,1654.0,14.0,14.0,ok
+household,long,tenure_risk_index_z,high_binary,hybrid_started_t,any_transfer_in_zfill,high-risk total effect,-0.023368749542198444,0.030797436006907594,0.44797890592535616,1654.0,14.0,14.0,ok
+household,long,tenure_risk_index_z,high_binary,hybrid_started_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,-0.01675765625794764,0.006003343555895235,0.0052482649947733825,1654.0,14.0,14.0,ok
+household,long,tenure_risk_index_z,high_binary,hybrid_started_t,asinh_transfer_in_area_zfill,risk interaction,-0.017955206749052065,0.027117152312639864,0.5078849170448327,1654.0,14.0,14.0,ok
+household,long,tenure_risk_index_z,high_binary,hybrid_started_t,asinh_transfer_in_area_zfill,high-risk total effect,-0.0347128630069997,0.028499434431344752,0.22321661419846017,1654.0,14.0,14.0,ok
+household,long,tenure_risk_index_z,high_binary,hybrid_started_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,-0.053926347462326815,0.03777639558528309,0.15343168677100577,1654.0,14.0,14.0,ok
+household,long,tenure_risk_index_z,high_binary,hybrid_started_t,asinh_market_volume_area_zfill,risk interaction,0.002040066928873494,0.13232109996317684,0.9876990636977755,1654.0,14.0,14.0,ok
+household,long,tenure_risk_index_z,high_binary,hybrid_started_t,asinh_market_volume_area_zfill,high-risk total effect,-0.05188628053345332,0.11015955027750769,0.6376333943899446,1654.0,14.0,14.0,ok
+household,long,tenure_risk_index_z,high_binary,hybrid_started_t,asinh_operated_area_end,baseline/low-risk treatment effect,0.11413617379772413,0.057300180091695296,0.04638213617679124,1316.0,14.0,14.0,ok
+household,long,tenure_risk_index_z,high_binary,hybrid_started_t,asinh_operated_area_end,risk interaction,-0.29537798669694904,0.16533090269503925,0.07400431793921529,1316.0,14.0,14.0,ok
+household,long,tenure_risk_index_z,high_binary,hybrid_started_t,asinh_operated_area_end,high-risk total effect,-0.18124181289922492,0.11023395402931518,0.10014399052139668,1316.0,14.0,14.0,ok
+household,long,tenure_risk_index_z,high_binary,hybrid_rate_high_t,any_transfer_in_zfill,baseline/low-risk treatment effect,0.010077629458037595,0.014809301799278408,0.49619221377485134,456.0,6.0,6.0,ok
+household,long,tenure_risk_index_z,high_binary,hybrid_rate_high_t,any_transfer_in_zfill,risk interaction,0.03532988193763856,0.015577176095998983,0.023325894519033954,456.0,6.0,6.0,ok
+household,long,tenure_risk_index_z,high_binary,hybrid_rate_high_t,any_transfer_in_zfill,high-risk total effect,0.045407511395676156,0.029153740669728024,0.11934726121123171,456.0,6.0,6.0,ok
+household,long,tenure_risk_index_z,high_binary,hybrid_rate_high_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,-0.010307806964626649,0.009542671905429395,0.2800618635437253,456.0,6.0,6.0,ok
+household,long,tenure_risk_index_z,high_binary,hybrid_rate_high_t,asinh_transfer_in_area_zfill,risk interaction,0.04415584433857797,0.010885828258466396,4.986289544620888e-05,456.0,6.0,6.0,ok
+household,long,tenure_risk_index_z,high_binary,hybrid_rate_high_t,asinh_transfer_in_area_zfill,high-risk total effect,0.033848037373951326,0.01866949618060909,0.06982983202193789,456.0,6.0,6.0,ok
+household,long,tenure_risk_index_z,high_binary,hybrid_rate_high_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,0.03701170694225779,0.042817573545737155,0.38736567438828284,456.0,6.0,6.0,ok
+household,long,tenure_risk_index_z,high_binary,hybrid_rate_high_t,asinh_market_volume_area_zfill,risk interaction,0.05555676326376609,0.019247718889026662,0.0038966707096422613,456.0,6.0,6.0,ok
+household,long,tenure_risk_index_z,high_binary,hybrid_rate_high_t,asinh_market_volume_area_zfill,high-risk total effect,0.09256847020602388,0.04888746568605404,0.05829126166010371,456.0,6.0,6.0,ok
+household,long,tenure_risk_index_z,high_binary,hybrid_rate_high_t,asinh_operated_area_end,baseline/low-risk treatment effect,0.052839257172225235,0.005084722821251972,2.7029709885616547e-25,340.0,6.0,6.0,ok
+household,long,tenure_risk_index_z,high_binary,hybrid_rate_high_t,asinh_operated_area_end,risk interaction,0.1226117966349679,0.09182629784906648,0.18179192752825957,340.0,6.0,6.0,ok
+household,long,tenure_risk_index_z,high_binary,hybrid_rate_high_t,asinh_operated_area_end,high-risk total effect,0.17545105380719314,0.09128625611077477,0.054607315963208926,340.0,6.0,6.0,ok
+household,long,tenure_risk_index_z,high_binary,hybrid_rate_any_t,any_transfer_in_zfill,baseline/low-risk treatment effect,0.0038986650736256615,0.026619005745090973,0.8835569156892551,2053.0,17.0,17.0,ok
+household,long,tenure_risk_index_z,high_binary,hybrid_rate_any_t,any_transfer_in_zfill,risk interaction,-0.08113207014599762,0.041467294215915045,0.05040256753645661,2053.0,17.0,17.0,ok
+household,long,tenure_risk_index_z,high_binary,hybrid_rate_any_t,any_transfer_in_zfill,high-risk total effect,-0.07723340507237196,0.031795676163977576,0.015138289642218748,2053.0,17.0,17.0,ok
+household,long,tenure_risk_index_z,high_binary,hybrid_rate_any_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,-0.03523683535692194,0.023768099602976163,0.13820028195564765,2053.0,17.0,17.0,ok
+household,long,tenure_risk_index_z,high_binary,hybrid_rate_any_t,asinh_transfer_in_area_zfill,risk interaction,-0.08539708647468208,0.03322476301336944,0.010161508732148319,2053.0,17.0,17.0,ok
+household,long,tenure_risk_index_z,high_binary,hybrid_rate_any_t,asinh_transfer_in_area_zfill,high-risk total effect,-0.12063392183160401,0.023215561990881158,2.0334602818812128e-07,2053.0,17.0,17.0,ok
+household,long,tenure_risk_index_z,high_binary,hybrid_rate_any_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,-0.1376025756915866,0.19833995085670877,0.48782561171705585,2053.0,17.0,17.0,ok
+household,long,tenure_risk_index_z,high_binary,hybrid_rate_any_t,asinh_market_volume_area_zfill,risk interaction,0.07118264916255243,0.21340774403592663,0.7387173989524112,2053.0,17.0,17.0,ok
+household,long,tenure_risk_index_z,high_binary,hybrid_rate_any_t,asinh_market_volume_area_zfill,high-risk total effect,-0.06641992652903417,0.07876629424226131,0.39908687305435986,2053.0,17.0,17.0,ok
+household,long,tenure_risk_index_z,high_binary,hybrid_rate_any_t,asinh_operated_area_end,baseline/low-risk treatment effect,0.17648667077169958,0.07736257811271387,0.022531143057047672,1486.0,17.0,17.0,ok
+household,long,tenure_risk_index_z,high_binary,hybrid_rate_any_t,asinh_operated_area_end,risk interaction,-0.22736430812083785,0.0800349199041161,0.0044998571836870945,1486.0,17.0,17.0,ok
+household,long,tenure_risk_index_z,high_binary,hybrid_rate_any_t,asinh_operated_area_end,high-risk total effect,-0.05087763734913828,0.02050902025627793,0.013110834594647885,1486.0,17.0,17.0,ok
+household,long,risk_dispute_z,continuous,hybrid_started_t,any_transfer_in_zfill,baseline/low-risk treatment effect,-32.458318788558245,,,1296.0,11.0,11.0,ok
+household,long,risk_dispute_z,continuous,hybrid_started_t,any_transfer_in_zfill,risk interaction,-104.38469740003347,,,1296.0,11.0,11.0,ok
+household,long,risk_dispute_z,continuous,hybrid_started_t,any_transfer_in_zfill,high-risk total effect,-136.84301618859172,,,1296.0,11.0,11.0,ok
+household,long,risk_dispute_z,continuous,hybrid_started_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,-10.021307713352144,,,1296.0,11.0,11.0,ok
+household,long,risk_dispute_z,continuous,hybrid_started_t,asinh_transfer_in_area_zfill,risk interaction,-32.18519604578614,,,1296.0,11.0,11.0,ok
+household,long,risk_dispute_z,continuous,hybrid_started_t,asinh_transfer_in_area_zfill,high-risk total effect,-42.206503759138286,,,1296.0,11.0,11.0,ok
+household,long,risk_dispute_z,continuous,hybrid_started_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,59.18094936013222,,,1296.0,11.0,11.0,ok
+household,long,risk_dispute_z,continuous,hybrid_started_t,asinh_market_volume_area_zfill,risk interaction,190.5305279791355,,,1296.0,11.0,11.0,ok
+household,long,risk_dispute_z,continuous,hybrid_started_t,asinh_market_volume_area_zfill,high-risk total effect,249.71147733926773,,,1296.0,11.0,11.0,ok
+household,long,risk_dispute_z,continuous,hybrid_started_t,asinh_operated_area_end,baseline/low-risk treatment effect,59.65812052087858,,,1042.0,11.0,11.0,ok
+household,long,risk_dispute_z,continuous,hybrid_started_t,asinh_operated_area_end,risk interaction,191.61389894783497,12742269261.121529,0.9999999880016841,1042.0,11.0,11.0,ok
+household,long,risk_dispute_z,continuous,hybrid_started_t,asinh_operated_area_end,high-risk total effect,251.27201946871355,11706682223.822845,0.99999998287422,1042.0,11.0,11.0,ok
+household,long,risk_dispute_z,continuous,hybrid_rate_high_t,any_transfer_in_zfill,baseline/low-risk treatment effect,0.13676026782994288,0.014131906182510477,3.761189689524729e-22,414.0,5.0,5.0,ok
+household,long,risk_dispute_z,continuous,hybrid_rate_high_t,any_transfer_in_zfill,risk interaction,0.47548227622600114,0.044439735471643975,1.0234561437953693e-26,414.0,5.0,5.0,ok
+household,long,risk_dispute_z,continuous,hybrid_rate_high_t,any_transfer_in_zfill,high-risk total effect,0.612242544055944,0.05841045513503696,1.048101568056427e-25,414.0,5.0,5.0,ok
+household,long,risk_dispute_z,continuous,hybrid_rate_high_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,0.0944297161136858,0.008375631952979341,1.7569267667834302e-29,414.0,5.0,5.0,ok
+household,long,risk_dispute_z,continuous,hybrid_rate_high_t,asinh_transfer_in_area_zfill,risk interaction,0.4153935483585807,0.026664343052757142,1.0173436894180974e-54,414.0,5.0,5.0,ok
+household,long,risk_dispute_z,continuous,hybrid_rate_high_t,asinh_transfer_in_area_zfill,high-risk total effect,0.5098232644722666,0.03448039926315678,1.806632719891492e-49,414.0,5.0,5.0,ok
+household,long,risk_dispute_z,continuous,hybrid_rate_high_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,0.256008542054219,0.022320974666112423,1.8792339768115076e-30,414.0,5.0,5.0,ok
+household,long,risk_dispute_z,continuous,hybrid_rate_high_t,asinh_market_volume_area_zfill,risk interaction,0.9442610300829813,0.07513707202283201,3.1993750173735614e-36,414.0,5.0,5.0,ok
+household,long,risk_dispute_z,continuous,hybrid_rate_high_t,asinh_market_volume_area_zfill,high-risk total effect,1.2002695721372003,0.09701639533775877,3.7130217056490315e-35,414.0,5.0,5.0,ok
+household,long,risk_dispute_z,continuous,hybrid_rate_high_t,asinh_operated_area_end,baseline/low-risk treatment effect,0.5743341385386884,37348.58661360625,0.999987730396692,308.0,5.0,5.0,ok
+household,long,risk_dispute_z,continuous,hybrid_rate_high_t,asinh_operated_area_end,risk interaction,1.898626809939742,2362240.491041463,0.9999993587083855,308.0,5.0,5.0,ok
+household,long,risk_dispute_z,continuous,hybrid_rate_high_t,asinh_operated_area_end,high-risk total effect,2.4729609484784305,2296096.0997821596,0.9999991406555847,308.0,5.0,5.0,ok
+household,long,risk_dispute_z,continuous,hybrid_rate_any_t,any_transfer_in_zfill,baseline/low-risk treatment effect,-0.0256113959911371,0.04322700449910531,0.55352517734913,1449.0,12.0,12.0,ok
+household,long,risk_dispute_z,continuous,hybrid_rate_any_t,any_transfer_in_zfill,risk interaction,-0.001513631437494522,0.11257803561796724,0.9892726253176738,1449.0,12.0,12.0,ok
+household,long,risk_dispute_z,continuous,hybrid_rate_any_t,any_transfer_in_zfill,high-risk total effect,-0.027125027428631623,0.15218647982561126,0.858538061516207,1449.0,12.0,12.0,ok
+household,long,risk_dispute_z,continuous,hybrid_rate_any_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,-0.043938892857457265,0.04480009886834403,0.326702873683524,1449.0,12.0,12.0,ok
+household,long,risk_dispute_z,continuous,hybrid_rate_any_t,asinh_transfer_in_area_zfill,risk interaction,-0.009527600955177237,0.1206649559168566,0.9370651243723901,1449.0,12.0,12.0,ok
+household,long,risk_dispute_z,continuous,hybrid_rate_any_t,asinh_transfer_in_area_zfill,high-risk total effect,-0.053466493812634505,0.16132144641111512,0.740320986340484,1449.0,12.0,12.0,ok
+household,long,risk_dispute_z,continuous,hybrid_rate_any_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,-0.08660210108554277,0.2047852535535535,0.6723738616527807,1449.0,12.0,12.0,ok
+household,long,risk_dispute_z,continuous,hybrid_rate_any_t,asinh_market_volume_area_zfill,risk interaction,0.30891826715763615,0.7665032526145339,0.6869314707834014,1449.0,12.0,12.0,ok
+household,long,risk_dispute_z,continuous,hybrid_rate_any_t,asinh_market_volume_area_zfill,high-risk total effect,0.22231616607209337,0.8964581460863125,0.8041391142187366,1449.0,12.0,12.0,ok
+household,long,risk_dispute_z,continuous,hybrid_rate_any_t,asinh_operated_area_end,baseline/low-risk treatment effect,0.03141613157235601,0.1763618143051088,0.8586173127734182,1063.0,12.0,12.0,ok
+household,long,risk_dispute_z,continuous,hybrid_rate_any_t,asinh_operated_area_end,risk interaction,-0.7431673073602335,0.6161988927965266,0.22779781618277917,1063.0,12.0,12.0,ok
+household,long,risk_dispute_z,continuous,hybrid_rate_any_t,asinh_operated_area_end,high-risk total effect,-0.7117511757878775,0.7706201212269923,0.3556902667670162,1063.0,12.0,12.0,ok
+household,long,risk_dispute_z,high_binary,hybrid_started_t,any_transfer_in_zfill,baseline/low-risk treatment effect,-0.0030605118794227006,0.002883099277172222,0.28844666421185816,1296.0,11.0,11.0,ok
+household,long,risk_dispute_z,high_binary,hybrid_started_t,any_transfer_in_zfill,risk interaction,-0.08185439222625727,0.03008994031007185,0.006521794374429074,1296.0,11.0,11.0,ok
+household,long,risk_dispute_z,high_binary,hybrid_started_t,any_transfer_in_zfill,high-risk total effect,-0.08491490410567998,0.031142746850798417,0.0063983769537000685,1296.0,11.0,11.0,ok
+household,long,risk_dispute_z,high_binary,hybrid_started_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,-0.005821205772844557,0.004690346605869201,0.21456750227698795,1296.0,11.0,11.0,ok
+household,long,risk_dispute_z,high_binary,hybrid_started_t,asinh_transfer_in_area_zfill,risk interaction,-0.08484451692762952,0.026987482792999288,0.0016674259247114434,1296.0,11.0,11.0,ok
+household,long,risk_dispute_z,high_binary,hybrid_started_t,asinh_transfer_in_area_zfill,high-risk total effect,-0.09066572270047409,0.029216798426225966,0.0019143681206398493,1296.0,11.0,11.0,ok
+household,long,risk_dispute_z,high_binary,hybrid_started_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,0.03375735175751289,0.05301590503283026,0.5242941601824576,1296.0,11.0,11.0,ok
+household,long,risk_dispute_z,high_binary,hybrid_started_t,asinh_market_volume_area_zfill,risk interaction,-0.5744802907503554,0.20846539520462226,0.005855620861024058,1296.0,11.0,11.0,ok
+household,long,risk_dispute_z,high_binary,hybrid_started_t,asinh_market_volume_area_zfill,high-risk total effect,-0.5407229389928425,0.21182041725041362,0.010687854118280717,1296.0,11.0,11.0,ok
+household,long,risk_dispute_z,high_binary,hybrid_started_t,asinh_operated_area_end,baseline/low-risk treatment effect,0.06127067559739389,0.07082555285536454,0.3869878580261731,1042.0,11.0,11.0,ok
+household,long,risk_dispute_z,high_binary,hybrid_started_t,asinh_operated_area_end,risk interaction,0.13471167114480267,0.2026601622354307,0.5062314676629078,1042.0,11.0,11.0,ok
+household,long,risk_dispute_z,high_binary,hybrid_started_t,asinh_operated_area_end,high-risk total effect,0.19598234674219656,0.16786347288236703,0.24300431957537894,1042.0,11.0,11.0,ok
+household,long,risk_dispute_z,high_binary,hybrid_rate_high_t,any_transfer_in_zfill,baseline/low-risk treatment effect,-0.031250000000000014,,,414.0,5.0,5.0,ok
+household,long,risk_dispute_z,high_binary,hybrid_rate_high_t,any_transfer_in_zfill,risk interaction,0.11706235697940512,,,414.0,5.0,5.0,ok
+household,long,risk_dispute_z,high_binary,hybrid_rate_high_t,any_transfer_in_zfill,high-risk total effect,0.0858123569794051,4.707689904456448e-11,0.0,414.0,5.0,5.0,ok
+household,long,risk_dispute_z,high_binary,hybrid_rate_high_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,-0.04511360859933785,5.729337897157408e-10,0.0,414.0,5.0,5.0,ok
+household,long,risk_dispute_z,high_binary,hybrid_rate_high_t,asinh_transfer_in_area_zfill,risk interaction,0.11640772895138435,8.867202410539048e-10,0.0,414.0,5.0,5.0,ok
+household,long,risk_dispute_z,high_binary,hybrid_rate_high_t,asinh_transfer_in_area_zfill,high-risk total effect,0.07129412035204649,2.809949341711189e-10,0.0,414.0,5.0,5.0,ok
+household,long,risk_dispute_z,high_binary,hybrid_rate_high_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,-0.09022721719867567,4.930865859893976e-10,0.0,414.0,5.0,5.0,ok
+household,long,risk_dispute_z,high_binary,hybrid_rate_high_t,asinh_market_volume_area_zfill,risk interaction,0.2745525982819938,4.4731977909095623e-10,0.0,414.0,5.0,5.0,ok
+household,long,risk_dispute_z,high_binary,hybrid_rate_high_t,asinh_market_volume_area_zfill,high-risk total effect,0.18432538108331814,,,414.0,5.0,5.0,ok
+household,long,risk_dispute_z,high_binary,hybrid_rate_high_t,asinh_operated_area_end,baseline/low-risk treatment effect,0.37320474348962307,,,308.0,5.0,5.0,ok
+household,long,risk_dispute_z,high_binary,hybrid_rate_high_t,asinh_operated_area_end,risk interaction,-0.006518765352666378,,,308.0,5.0,5.0,ok
+household,long,risk_dispute_z,high_binary,hybrid_rate_high_t,asinh_operated_area_end,high-risk total effect,0.3666859781369567,54.469996041398794,0.9946287701106062,308.0,5.0,5.0,ok
+household,long,risk_dispute_z,high_binary,hybrid_rate_any_t,any_transfer_in_zfill,baseline/low-risk treatment effect,-0.031748664708951255,0.01875601245702853,0.09050890542583623,1449.0,12.0,12.0,ok
+household,long,risk_dispute_z,high_binary,hybrid_rate_any_t,any_transfer_in_zfill,risk interaction,0.023502908403478868,0.04953887786193082,0.635190734082383,1449.0,12.0,12.0,ok
+household,long,risk_dispute_z,high_binary,hybrid_rate_any_t,any_transfer_in_zfill,high-risk total effect,-0.008245756305472387,0.04585098054056632,0.8572796189735574,1449.0,12.0,12.0,ok
+household,long,risk_dispute_z,high_binary,hybrid_rate_any_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,-0.04167802055084485,0.02457183726970907,0.08985363362196179,1449.0,12.0,12.0,ok
+household,long,risk_dispute_z,high_binary,hybrid_rate_any_t,asinh_transfer_in_area_zfill,risk interaction,0.013027498365266229,0.03947515134175236,0.7413865935205155,1449.0,12.0,12.0,ok
+household,long,risk_dispute_z,high_binary,hybrid_rate_any_t,asinh_transfer_in_area_zfill,high-risk total effect,-0.028650522185578623,0.03089518387461572,0.353746968446669,1449.0,12.0,12.0,ok
+household,long,risk_dispute_z,high_binary,hybrid_rate_any_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,-0.21704278768693444,0.2912453147419246,0.45613675381347396,1449.0,12.0,12.0,ok
+household,long,risk_dispute_z,high_binary,hybrid_rate_any_t,asinh_market_volume_area_zfill,risk interaction,0.17690135723783354,0.3010540789084352,0.5567963944452685,1449.0,12.0,12.0,ok
+household,long,risk_dispute_z,high_binary,hybrid_rate_any_t,asinh_market_volume_area_zfill,high-risk total effect,-0.0401414304491009,0.07622155251819075,0.5984425881228381,1449.0,12.0,12.0,ok
+household,long,risk_dispute_z,high_binary,hybrid_rate_any_t,asinh_operated_area_end,baseline/low-risk treatment effect,0.17907921404356147,0.17381821229114144,0.30288456167730404,1063.0,12.0,12.0,ok
+household,long,risk_dispute_z,high_binary,hybrid_rate_any_t,asinh_operated_area_end,risk interaction,-0.02153093774156043,0.19210919732897944,0.9107627037106818,1063.0,12.0,12.0,ok
+household,long,risk_dispute_z,high_binary,hybrid_rate_any_t,asinh_operated_area_end,high-risk total effect,0.15754827630200105,0.08181181317044621,0.054136853958767536,1063.0,12.0,12.0,ok
+household,long,risk_reserved_z,continuous,hybrid_started_t,any_transfer_in_zfill,,,,,,,,error: too few observations
+household,long,risk_reserved_z,continuous,hybrid_started_t,asinh_transfer_in_area_zfill,,,,,,,,error: too few observations
+household,long,risk_reserved_z,continuous,hybrid_started_t,asinh_market_volume_area_zfill,,,,,,,,error: too few observations
+household,long,risk_reserved_z,continuous,hybrid_started_t,asinh_operated_area_end,,,,,,,,error: too few observations
+household,long,risk_reserved_z,continuous,hybrid_rate_high_t,any_transfer_in_zfill,,,,,,,,error: too few observations
+household,long,risk_reserved_z,continuous,hybrid_rate_high_t,asinh_transfer_in_area_zfill,,,,,,,,error: too few observations
+household,long,risk_reserved_z,continuous,hybrid_rate_high_t,asinh_market_volume_area_zfill,,,,,,,,error: too few observations
+household,long,risk_reserved_z,continuous,hybrid_rate_high_t,asinh_operated_area_end,,,,,,,,error: too few observations
+household,long,risk_reserved_z,continuous,hybrid_rate_any_t,any_transfer_in_zfill,baseline/low-risk treatment effect,0.012544828641914602,0.034627955594097266,0.7171468397325755,936.0,9.0,9.0,ok
+household,long,risk_reserved_z,continuous,hybrid_rate_any_t,any_transfer_in_zfill,risk interaction,0.16757287404550777,0.4792234523366582,0.7265819703490791,936.0,9.0,9.0,ok
+household,long,risk_reserved_z,continuous,hybrid_rate_any_t,any_transfer_in_zfill,high-risk total effect,0.1801177026874224,0.5112510229514455,0.72460746913362,936.0,9.0,9.0,ok
+household,long,risk_reserved_z,continuous,hybrid_rate_any_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,0.029985042399569343,0.04519374628504662,0.5070246632398008,936.0,9.0,9.0,ok
+household,long,risk_reserved_z,continuous,hybrid_rate_any_t,asinh_transfer_in_area_zfill,risk interaction,0.6661353649716659,0.5386268285661895,0.21618774591473455,936.0,9.0,9.0,ok
+household,long,risk_reserved_z,continuous,hybrid_rate_any_t,asinh_transfer_in_area_zfill,high-risk total effect,0.6961204073712353,0.5828815250890838,0.23237069936529953,936.0,9.0,9.0,ok
+household,long,risk_reserved_z,continuous,hybrid_rate_any_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,0.5485995704479827,0.4072611823781504,0.17796539926471933,936.0,9.0,9.0,ok
+household,long,risk_reserved_z,continuous,hybrid_rate_any_t,asinh_market_volume_area_zfill,risk interaction,6.791224192573269,5.136368129723015,0.18610685954136186,936.0,9.0,9.0,ok
+household,long,risk_reserved_z,continuous,hybrid_rate_any_t,asinh_market_volume_area_zfill,high-risk total effect,7.3398237630212515,5.541139698967633,0.1853020522279759,936.0,9.0,9.0,ok
+household,long,risk_reserved_z,continuous,hybrid_rate_any_t,asinh_operated_area_end,baseline/low-risk treatment effect,0.049314667128105255,0.3811420776567062,0.897051771829678,639.0,9.0,9.0,ok
+household,long,risk_reserved_z,continuous,hybrid_rate_any_t,asinh_operated_area_end,risk interaction,-0.2962197502691262,3.287997647201819,0.9282147188107378,639.0,9.0,9.0,ok
+household,long,risk_reserved_z,continuous,hybrid_rate_any_t,asinh_operated_area_end,high-risk total effect,-0.24690508314102097,3.662935990920242,0.9462582276574081,639.0,9.0,9.0,ok
+household,long,risk_reserved_z,high_binary,hybrid_started_t,any_transfer_in_zfill,,,,,,,,error: too few observations
+household,long,risk_reserved_z,high_binary,hybrid_started_t,asinh_transfer_in_area_zfill,,,,,,,,error: too few observations
+household,long,risk_reserved_z,high_binary,hybrid_started_t,asinh_market_volume_area_zfill,,,,,,,,error: too few observations
+household,long,risk_reserved_z,high_binary,hybrid_started_t,asinh_operated_area_end,,,,,,,,error: too few observations
+household,long,risk_reserved_z,high_binary,hybrid_rate_high_t,any_transfer_in_zfill,,,,,,,,error: too few observations
+household,long,risk_reserved_z,high_binary,hybrid_rate_high_t,asinh_transfer_in_area_zfill,,,,,,,,error: too few observations
+household,long,risk_reserved_z,high_binary,hybrid_rate_high_t,asinh_market_volume_area_zfill,,,,,,,,error: too few observations
+household,long,risk_reserved_z,high_binary,hybrid_rate_high_t,asinh_operated_area_end,,,,,,,,error: too few observations
+household,long,risk_reserved_z,high_binary,hybrid_rate_any_t,any_transfer_in_zfill,baseline/low-risk treatment effect,-0.03400768131475538,0.02457079442564291,0.16633724769419356,936.0,9.0,9.0,ok
+household,long,risk_reserved_z,high_binary,hybrid_rate_any_t,any_transfer_in_zfill,risk interaction,0.058190293940942044,0.03204070092575837,0.06934939997945865,936.0,9.0,9.0,ok
+household,long,risk_reserved_z,high_binary,hybrid_rate_any_t,any_transfer_in_zfill,high-risk total effect,0.024182612626186664,0.02056410895482335,0.23961002384355912,936.0,9.0,9.0,ok
+household,long,risk_reserved_z,high_binary,hybrid_rate_any_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,-0.057602726117254886,0.03229825843787416,0.07451108046621462,936.0,9.0,9.0,ok
+household,long,risk_reserved_z,high_binary,hybrid_rate_any_t,asinh_transfer_in_area_zfill,risk interaction,0.058001099107091156,0.03314968081572389,0.08017476760958887,936.0,9.0,9.0,ok
+household,long,risk_reserved_z,high_binary,hybrid_rate_any_t,asinh_transfer_in_area_zfill,high-risk total effect,0.0003983729898362695,0.007464840257203345,0.9574398330753713,936.0,9.0,9.0,ok
+household,long,risk_reserved_z,high_binary,hybrid_rate_any_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,-0.3308140897939595,0.3654882725806387,0.3653969703829527,936.0,9.0,9.0,ok
+household,long,risk_reserved_z,high_binary,hybrid_rate_any_t,asinh_market_volume_area_zfill,risk interaction,0.30265781070488407,0.36981126512365736,0.41312222878303473,936.0,9.0,9.0,ok
+household,long,risk_reserved_z,high_binary,hybrid_rate_any_t,asinh_market_volume_area_zfill,high-risk total effect,-0.02815627908907542,0.05637991147903021,0.6174957290849514,936.0,9.0,9.0,ok
+household,long,risk_reserved_z,high_binary,hybrid_rate_any_t,asinh_operated_area_end,baseline/low-risk treatment effect,0.15750577663420318,0.10575179765349024,0.13638443471715214,639.0,9.0,9.0,ok
+household,long,risk_reserved_z,high_binary,hybrid_rate_any_t,asinh_operated_area_end,risk interaction,-0.046529296591426156,0.11267280487142492,0.6796363423867079,639.0,9.0,9.0,ok
+household,long,risk_reserved_z,high_binary,hybrid_rate_any_t,asinh_operated_area_end,high-risk total effect,0.11097648004277702,0.03888082111953255,0.004313543877642542,639.0,9.0,9.0,ok
+household,long,risk_transferout_z,continuous,hybrid_started_t,any_transfer_in_zfill,baseline/low-risk treatment effect,-88.74228392799972,,,1465.0,13.0,13.0,ok
+household,long,risk_transferout_z,continuous,hybrid_started_t,any_transfer_in_zfill,risk interaction,-176.65132586062012,,,1465.0,13.0,13.0,ok
+household,long,risk_transferout_z,continuous,hybrid_started_t,any_transfer_in_zfill,high-risk total effect,-265.39360978861987,,,1465.0,13.0,13.0,ok
+household,long,risk_transferout_z,continuous,hybrid_started_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,-125.54737598838857,,,1465.0,13.0,13.0,ok
+household,long,risk_transferout_z,continuous,hybrid_started_t,asinh_transfer_in_area_zfill,risk interaction,-249.92941654933662,,,1465.0,13.0,13.0,ok
+household,long,risk_transferout_z,continuous,hybrid_started_t,asinh_transfer_in_area_zfill,high-risk total effect,-375.4767925377252,,,1465.0,13.0,13.0,ok
+household,long,risk_transferout_z,continuous,hybrid_started_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,-401.03927160648897,,,1465.0,13.0,13.0,ok
+household,long,risk_transferout_z,continuous,hybrid_started_t,asinh_market_volume_area_zfill,risk interaction,-798.4586956296114,,,1465.0,13.0,13.0,ok
+household,long,risk_transferout_z,continuous,hybrid_started_t,asinh_market_volume_area_zfill,high-risk total effect,-1199.4979672361003,,,1465.0,13.0,13.0,ok
+household,long,risk_transferout_z,continuous,hybrid_started_t,asinh_operated_area_end,baseline/low-risk treatment effect,-459.7993351118639,,,1159.0,13.0,13.0,ok
+household,long,risk_transferout_z,continuous,hybrid_started_t,asinh_operated_area_end,risk interaction,-915.5195902194828,17915565498.3903,0.9999999592265761,1159.0,13.0,13.0,ok
+household,long,risk_transferout_z,continuous,hybrid_started_t,asinh_operated_area_end,high-risk total effect,-1375.3189253313467,18198221818.18293,0.9999999397003868,1159.0,13.0,13.0,ok
+household,long,risk_transferout_z,continuous,hybrid_rate_high_t,any_transfer_in_zfill,baseline/low-risk treatment effect,0.40674735159401226,0.09804318856995309,3.344345659695742e-05,414.0,5.0,5.0,ok
+household,long,risk_transferout_z,continuous,hybrid_rate_high_t,any_transfer_in_zfill,risk interaction,0.9960434956735728,0.20978470080159545,2.0550709381400152e-06,414.0,5.0,5.0,ok
+household,long,risk_transferout_z,continuous,hybrid_rate_high_t,any_transfer_in_zfill,high-risk total effect,1.402790847267585,0.3077227832060945,5.149114884173266e-06,414.0,5.0,5.0,ok
+household,long,risk_transferout_z,continuous,hybrid_rate_high_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,0.41828665930099856,0.07961154006659699,1.4875343208966504e-07,414.0,5.0,5.0,ok
+household,long,risk_transferout_z,continuous,hybrid_rate_high_t,asinh_transfer_in_area_zfill,risk interaction,0.994573957328179,0.18246084964941245,5.011846251245512e-08,414.0,5.0,5.0,ok
+household,long,risk_transferout_z,continuous,hybrid_rate_high_t,asinh_transfer_in_area_zfill,high-risk total effect,1.4128606166291775,0.26194299340866645,6.899399940771547e-08,414.0,5.0,5.0,ok
+household,long,risk_transferout_z,continuous,hybrid_rate_high_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,1.2097355974076494,0.19069116019572854,2.2394439728520454e-10,414.0,5.0,5.0,ok
+household,long,risk_transferout_z,continuous,hybrid_rate_high_t,asinh_market_volume_area_zfill,risk interaction,2.9145854752444316,0.4267283188018166,8.487156299071043e-12,414.0,5.0,5.0,ok
+household,long,risk_transferout_z,continuous,hybrid_rate_high_t,asinh_market_volume_area_zfill,high-risk total effect,4.124321072652081,0.6171430665568433,2.3421882934923933e-11,414.0,5.0,5.0,ok
+household,long,risk_transferout_z,continuous,hybrid_rate_high_t,asinh_operated_area_end,baseline/low-risk treatment effect,2.0037658847868443,,,308.0,5.0,5.0,ok
+household,long,risk_transferout_z,continuous,hybrid_rate_high_t,asinh_operated_area_end,risk interaction,4.470230475068092,,,308.0,5.0,5.0,ok
+household,long,risk_transferout_z,continuous,hybrid_rate_high_t,asinh_operated_area_end,high-risk total effect,6.473996359854937,,,308.0,5.0,5.0,ok
+household,long,risk_transferout_z,continuous,hybrid_rate_any_t,any_transfer_in_zfill,baseline/low-risk treatment effect,0.10017786803898926,0.05895556512669092,0.08927967967504724,1744.0,15.0,15.0,ok
+household,long,risk_transferout_z,continuous,hybrid_rate_any_t,any_transfer_in_zfill,risk interaction,0.3044765429573324,0.151899942867756,0.04502138291135515,1744.0,15.0,15.0,ok
+household,long,risk_transferout_z,continuous,hybrid_rate_any_t,any_transfer_in_zfill,high-risk total effect,0.40465441099632166,0.2072266505267646,0.05085347705705639,1744.0,15.0,15.0,ok
+household,long,risk_transferout_z,continuous,hybrid_rate_any_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,0.017645592672515795,0.07378163757376095,0.8109817678869915,1744.0,15.0,15.0,ok
+household,long,risk_transferout_z,continuous,hybrid_rate_any_t,asinh_transfer_in_area_zfill,risk interaction,0.16434609425081811,0.19588484060241404,0.401472996572127,1744.0,15.0,15.0,ok
+household,long,risk_transferout_z,continuous,hybrid_rate_any_t,asinh_transfer_in_area_zfill,high-risk total effect,0.1819916869233339,0.2678729823807391,0.4968873284764025,1744.0,15.0,15.0,ok
+household,long,risk_transferout_z,continuous,hybrid_rate_any_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,-0.24299885736554547,0.5049733661608315,0.6303663764054159,1744.0,15.0,15.0,ok
+household,long,risk_transferout_z,continuous,hybrid_rate_any_t,asinh_market_volume_area_zfill,risk interaction,-0.15628252148220767,1.3763938928357125,0.9095985597821543,1744.0,15.0,15.0,ok
+household,long,risk_transferout_z,continuous,hybrid_rate_any_t,asinh_market_volume_area_zfill,high-risk total effect,-0.39928137884775317,1.8639708757752778,0.8303832239253555,1744.0,15.0,15.0,ok
+household,long,risk_transferout_z,continuous,hybrid_rate_any_t,asinh_operated_area_end,baseline/low-risk treatment effect,0.4531172888959091,0.21493760394155237,0.03501939291273948,1279.0,15.0,15.0,ok
+household,long,risk_transferout_z,continuous,hybrid_rate_any_t,asinh_operated_area_end,risk interaction,0.8214551600577407,0.5839108599182911,0.1594819468362031,1279.0,15.0,15.0,ok
+household,long,risk_transferout_z,continuous,hybrid_rate_any_t,asinh_operated_area_end,high-risk total effect,1.2745724489536499,0.7930496822505885,0.10801520309208595,1279.0,15.0,15.0,ok
+household,long,risk_transferout_z,high_binary,hybrid_started_t,any_transfer_in_zfill,baseline/low-risk treatment effect,-0.019159633773980996,0.012576361371767306,0.1276426612742722,1465.0,13.0,13.0,ok
+household,long,risk_transferout_z,high_binary,hybrid_started_t,any_transfer_in_zfill,risk interaction,-0.028606701918801904,0.031840412715873276,0.36895099398663844,1465.0,13.0,13.0,ok
+household,long,risk_transferout_z,high_binary,hybrid_started_t,any_transfer_in_zfill,high-risk total effect,-0.0477663356927829,0.02435254137416587,0.04982634443950921,1465.0,13.0,13.0,ok
+household,long,risk_transferout_z,high_binary,hybrid_started_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,-0.021439586232771656,0.017103972649688215,0.21002897659329478,1465.0,13.0,13.0,ok
+household,long,risk_transferout_z,high_binary,hybrid_started_t,asinh_transfer_in_area_zfill,risk interaction,-0.02608484728889176,0.029978850747370278,0.3842412144297308,1465.0,13.0,13.0,ok
+household,long,risk_transferout_z,high_binary,hybrid_started_t,asinh_transfer_in_area_zfill,high-risk total effect,-0.04752443352166341,0.019406280325984793,0.014328515600608332,1465.0,13.0,13.0,ok
+household,long,risk_transferout_z,high_binary,hybrid_started_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,-0.012442855434659266,0.045003410837618954,0.7821740878142472,1465.0,13.0,13.0,ok
+household,long,risk_transferout_z,high_binary,hybrid_started_t,asinh_market_volume_area_zfill,risk interaction,-0.4143236077125098,0.18339422793631088,0.023871161116790506,1465.0,13.0,13.0,ok
+household,long,risk_transferout_z,high_binary,hybrid_started_t,asinh_market_volume_area_zfill,high-risk total effect,-0.4267664631471691,0.17649131341473617,0.01560353338005387,1465.0,13.0,13.0,ok
+household,long,risk_transferout_z,high_binary,hybrid_started_t,asinh_operated_area_end,baseline/low-risk treatment effect,0.04063054189451229,0.04490208541651332,0.3655343579341769,1159.0,13.0,13.0,ok
+household,long,risk_transferout_z,high_binary,hybrid_started_t,asinh_operated_area_end,risk interaction,0.18861660249421383,0.18350515410708249,0.30401826478422267,1159.0,13.0,13.0,ok
+household,long,risk_transferout_z,high_binary,hybrid_started_t,asinh_operated_area_end,high-risk total effect,0.22924714438872612,0.16770935554723332,0.17164688310834586,1159.0,13.0,13.0,ok
+household,long,risk_transferout_z,high_binary,hybrid_rate_high_t,any_transfer_in_zfill,baseline/low-risk treatment effect,-0.016317812091640765,0.006710149763474452,0.015023568648468896,414.0,5.0,5.0,ok
+household,long,risk_transferout_z,high_binary,hybrid_rate_high_t,any_transfer_in_zfill,risk interaction,,,,414.0,5.0,5.0,ok
+household,long,risk_transferout_z,high_binary,hybrid_rate_high_t,any_transfer_in_zfill,high-risk total effect,-0.016317812091640765,0.006710149763474452,0.015023568648468896,414.0,5.0,5.0,ok
+household,long,risk_transferout_z,high_binary,hybrid_rate_high_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,-0.016387672145838163,0.013806495374046242,0.2352458444484956,414.0,5.0,5.0,ok
+household,long,risk_transferout_z,high_binary,hybrid_rate_high_t,asinh_transfer_in_area_zfill,risk interaction,,,,414.0,5.0,5.0,ok
+household,long,risk_transferout_z,high_binary,hybrid_rate_high_t,asinh_transfer_in_area_zfill,high-risk total effect,-0.016387672145838163,0.013806495374046242,0.2352458444484956,414.0,5.0,5.0,ok
+household,long,risk_transferout_z,high_binary,hybrid_rate_high_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,-0.03067615402370311,0.028841274317634606,0.2875009124775082,414.0,5.0,5.0,ok
+household,long,risk_transferout_z,high_binary,hybrid_rate_high_t,asinh_market_volume_area_zfill,risk interaction,,,,414.0,5.0,5.0,ok
+household,long,risk_transferout_z,high_binary,hybrid_rate_high_t,asinh_market_volume_area_zfill,high-risk total effect,-0.03067615402370311,0.028841274317634606,0.2875009124775082,414.0,5.0,5.0,ok
+household,long,risk_transferout_z,high_binary,hybrid_rate_high_t,asinh_operated_area_end,baseline/low-risk treatment effect,0.19593209881124957,1.85883553772459e-09,0.0,308.0,5.0,5.0,ok
+household,long,risk_transferout_z,high_binary,hybrid_rate_high_t,asinh_operated_area_end,risk interaction,,,,308.0,5.0,5.0,ok
+household,long,risk_transferout_z,high_binary,hybrid_rate_high_t,asinh_operated_area_end,high-risk total effect,0.19593209881124957,1.85883553772459e-09,0.0,308.0,5.0,5.0,ok
+household,long,risk_transferout_z,high_binary,hybrid_rate_any_t,any_transfer_in_zfill,baseline/low-risk treatment effect,-0.03348131557163324,0.028382703861000766,0.23814422880680708,1744.0,15.0,15.0,ok
+household,long,risk_transferout_z,high_binary,hybrid_rate_any_t,any_transfer_in_zfill,risk interaction,0.09417293924053247,0.028606616449116187,0.0009947813241055709,1744.0,15.0,15.0,ok
+household,long,risk_transferout_z,high_binary,hybrid_rate_any_t,any_transfer_in_zfill,high-risk total effect,0.06069162366889923,0.003572201870779007,9.742920965557846e-65,1744.0,15.0,15.0,ok
+household,long,risk_transferout_z,high_binary,hybrid_rate_any_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,-0.05514946921028368,0.02133834490829789,0.009751345565620172,1744.0,15.0,15.0,ok
+household,long,risk_transferout_z,high_binary,hybrid_rate_any_t,asinh_transfer_in_area_zfill,risk interaction,0.06972301055822562,0.021877117991453022,0.0014374233707080382,1744.0,15.0,15.0,ok
+household,long,risk_transferout_z,high_binary,hybrid_rate_any_t,asinh_transfer_in_area_zfill,high-risk total effect,0.014573541347941942,0.00482528011483273,0.0025256800525173947,1744.0,15.0,15.0,ok
+household,long,risk_transferout_z,high_binary,hybrid_rate_any_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,-0.21211314505972567,0.1968483126985889,0.28123633675618565,1744.0,15.0,15.0,ok
+household,long,risk_transferout_z,high_binary,hybrid_rate_any_t,asinh_market_volume_area_zfill,risk interaction,0.2784029006547067,0.1993141428035067,0.16247235502933566,1744.0,15.0,15.0,ok
+household,long,risk_transferout_z,high_binary,hybrid_rate_any_t,asinh_market_volume_area_zfill,high-risk total effect,0.06628975559498101,0.03125490856188846,0.03392693320391288,1744.0,15.0,15.0,ok
+household,long,risk_transferout_z,high_binary,hybrid_rate_any_t,asinh_operated_area_end,baseline/low-risk treatment effect,0.1113561816603402,0.06918473796808268,0.10749648906521184,1279.0,15.0,15.0,ok
+household,long,risk_transferout_z,high_binary,hybrid_rate_any_t,asinh_operated_area_end,risk interaction,0.12550928679022766,0.08150599696984025,0.12359010872911354,1279.0,15.0,15.0,ok
+household,long,risk_transferout_z,high_binary,hybrid_rate_any_t,asinh_operated_area_end,high-risk total effect,0.23686546845056786,0.04308943691897565,3.861627191419664e-08,1279.0,15.0,15.0,ok
+village,full,tenure_risk_index_z,continuous,hybrid_started_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,1.481128076117051,0.9255848723878732,0.10955250583813006,179.0,24.0,24.0,ok
+village,full,tenure_risk_index_z,continuous,hybrid_started_t,asinh_transfer_in_area_zfill,risk interaction,-0.41584226532988544,0.7139481574456613,0.5602606295478454,179.0,24.0,24.0,ok
+village,full,tenure_risk_index_z,continuous,hybrid_started_t,asinh_transfer_in_area_zfill,high-risk total effect,1.0652858107871657,0.8866017629903791,0.22954253077652387,179.0,24.0,24.0,ok
+village,full,tenure_risk_index_z,continuous,hybrid_started_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,2.388361029672915,0.865854300074451,0.00580874284578397,179.0,24.0,24.0,ok
+village,full,tenure_risk_index_z,continuous,hybrid_started_t,asinh_market_volume_area_zfill,risk interaction,2.2004972168893664,0.7140701726248381,0.0020587331849878207,179.0,24.0,24.0,ok
+village,full,tenure_risk_index_z,continuous,hybrid_started_t,asinh_market_volume_area_zfill,high-risk total effect,4.588858246562282,0.9670659214838979,2.083674328433426e-06,179.0,24.0,24.0,ok
+village,full,tenure_risk_index_z,continuous,hybrid_rate_high_t,asinh_transfer_in_area_zfill,,,,,,,,error: too few observations
+village,full,tenure_risk_index_z,continuous,hybrid_rate_high_t,asinh_market_volume_area_zfill,,,,,,,,error: too few observations
+village,full,tenure_risk_index_z,continuous,hybrid_rate_any_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,-0.725092838549739,0.4932617429419182,0.14156281016715988,202.0,27.0,27.0,ok
+village,full,tenure_risk_index_z,continuous,hybrid_rate_any_t,asinh_transfer_in_area_zfill,risk interaction,-1.389322968881968,1.3619967979115406,0.30769843363161586,202.0,27.0,27.0,ok
+village,full,tenure_risk_index_z,continuous,hybrid_rate_any_t,asinh_transfer_in_area_zfill,high-risk total effect,-2.114415807431707,1.5669290649374823,0.1772081669604031,202.0,27.0,27.0,ok
+village,full,tenure_risk_index_z,continuous,hybrid_rate_any_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,-0.4162756036425217,0.6122174222515466,0.496537809329474,202.0,27.0,27.0,ok
+village,full,tenure_risk_index_z,continuous,hybrid_rate_any_t,asinh_market_volume_area_zfill,risk interaction,-0.7774693413302487,1.7113209785120482,0.6496060948351055,202.0,27.0,27.0,ok
+village,full,tenure_risk_index_z,continuous,hybrid_rate_any_t,asinh_market_volume_area_zfill,high-risk total effect,-1.1937449449727704,1.842461555515792,0.517044679620325,202.0,27.0,27.0,ok
+village,full,tenure_risk_index_z,high_binary,hybrid_started_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,1.6818422015131516,1.142686647233102,0.14106638516379652,179.0,24.0,24.0,ok
+village,full,tenure_risk_index_z,high_binary,hybrid_started_t,asinh_transfer_in_area_zfill,risk interaction,-0.6926504559472368,1.4811028865799303,0.6400287739867391,179.0,24.0,24.0,ok
+village,full,tenure_risk_index_z,high_binary,hybrid_started_t,asinh_transfer_in_area_zfill,high-risk total effect,0.9891917455659147,0.9423019616349203,0.2938280609499849,179.0,24.0,24.0,ok
+village,full,tenure_risk_index_z,high_binary,hybrid_started_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,1.6574255342033182,1.0222339676867034,0.10493704300453775,179.0,24.0,24.0,ok
+village,full,tenure_risk_index_z,high_binary,hybrid_started_t,asinh_market_volume_area_zfill,risk interaction,2.3401772936939693,2.593877176540129,0.3669544627950827,179.0,24.0,24.0,ok
+village,full,tenure_risk_index_z,high_binary,hybrid_started_t,asinh_market_volume_area_zfill,high-risk total effect,3.9976028278972873,2.383953968124162,0.09356610587603813,179.0,24.0,24.0,ok
+village,full,tenure_risk_index_z,high_binary,hybrid_rate_high_t,asinh_transfer_in_area_zfill,,,,,,,,error: too few observations
+village,full,tenure_risk_index_z,high_binary,hybrid_rate_high_t,asinh_market_volume_area_zfill,,,,,,,,error: too few observations
+village,full,tenure_risk_index_z,high_binary,hybrid_rate_any_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,-0.09666980780863055,0.5887337564767892,0.869574068818302,202.0,27.0,27.0,ok
+village,full,tenure_risk_index_z,high_binary,hybrid_rate_any_t,asinh_transfer_in_area_zfill,risk interaction,-0.8838920323061219,0.8340948218807988,0.2892801482460158,202.0,27.0,27.0,ok
+village,full,tenure_risk_index_z,high_binary,hybrid_rate_any_t,asinh_transfer_in_area_zfill,high-risk total effect,-0.9805618401147524,0.5908525500024671,0.09700075814182597,202.0,27.0,27.0,ok
+village,full,tenure_risk_index_z,high_binary,hybrid_rate_any_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,-0.2273401420275351,0.9308528492417786,0.8070543987773574,202.0,27.0,27.0,ok
+village,full,tenure_risk_index_z,high_binary,hybrid_rate_any_t,asinh_market_volume_area_zfill,risk interaction,-0.4555493806871371,1.0923047762845108,0.6766393759390302,202.0,27.0,27.0,ok
+village,full,tenure_risk_index_z,high_binary,hybrid_rate_any_t,asinh_market_volume_area_zfill,high-risk total effect,-0.6828895227146722,0.5715266375030668,0.23214501207215688,202.0,27.0,27.0,ok
+village,full,risk_dispute_z,continuous,hybrid_started_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,2.114897547931188,0.9274490807905691,0.02258763909703186,149.0,20.0,20.0,ok
+village,full,risk_dispute_z,continuous,hybrid_started_t,asinh_transfer_in_area_zfill,risk interaction,-0.5027058443656409,0.9091702546048024,0.5803125975646443,149.0,20.0,20.0,ok
+village,full,risk_dispute_z,continuous,hybrid_started_t,asinh_transfer_in_area_zfill,high-risk total effect,1.612191703565547,0.8384246799501806,0.05449487409166574,149.0,20.0,20.0,ok
+village,full,risk_dispute_z,continuous,hybrid_started_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,2.984106588210991,0.8566589381050904,0.0004950430425686849,149.0,20.0,20.0,ok
+village,full,risk_dispute_z,continuous,hybrid_started_t,asinh_market_volume_area_zfill,risk interaction,2.0751296330855613,0.9182903299130486,0.023835211805683123,149.0,20.0,20.0,ok
+village,full,risk_dispute_z,continuous,hybrid_started_t,asinh_market_volume_area_zfill,high-risk total effect,5.059236221296553,0.7369903256301968,6.661926706127975e-12,149.0,20.0,20.0,ok
+village,full,risk_dispute_z,continuous,hybrid_rate_high_t,asinh_transfer_in_area_zfill,,,,,,,,error: too few observations
+village,full,risk_dispute_z,continuous,hybrid_rate_high_t,asinh_market_volume_area_zfill,,,,,,,,error: too few observations
+village,full,risk_dispute_z,continuous,hybrid_rate_any_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,-0.2456796954044252,0.6669965245437867,0.7126217471377666,157.0,21.0,21.0,ok
+village,full,risk_dispute_z,continuous,hybrid_rate_any_t,asinh_transfer_in_area_zfill,risk interaction,-0.9484667842982634,1.4006601166088422,0.4983063552136675,157.0,21.0,21.0,ok
+village,full,risk_dispute_z,continuous,hybrid_rate_any_t,asinh_transfer_in_area_zfill,high-risk total effect,-1.1941464797026886,1.8144328970695172,0.5104497285015835,157.0,21.0,21.0,ok
+village,full,risk_dispute_z,continuous,hybrid_rate_any_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,-0.3523853160103467,0.9398429385267317,0.7077046112981219,157.0,21.0,21.0,ok
+village,full,risk_dispute_z,continuous,hybrid_rate_any_t,asinh_market_volume_area_zfill,risk interaction,-2.3462434776476866,1.5428730970485434,0.12833573120596473,157.0,21.0,21.0,ok
+village,full,risk_dispute_z,continuous,hybrid_rate_any_t,asinh_market_volume_area_zfill,high-risk total effect,-2.6986287936580333,2.02893384167424,0.18349443609346627,157.0,21.0,21.0,ok
+village,full,risk_dispute_z,high_binary,hybrid_started_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,2.8549563890149567,1.1063097000413422,0.009862528097853004,149.0,20.0,20.0,ok
+village,full,risk_dispute_z,high_binary,hybrid_started_t,asinh_transfer_in_area_zfill,risk interaction,-1.703362401527477,1.5460316966603387,0.27056419069890836,149.0,20.0,20.0,ok
+village,full,risk_dispute_z,high_binary,hybrid_started_t,asinh_transfer_in_area_zfill,high-risk total effect,1.1515939874874797,1.0799503947595699,0.2862701062305941,149.0,20.0,20.0,ok
+village,full,risk_dispute_z,high_binary,hybrid_started_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,3.1178848058676505,1.092431325021936,0.004316185865090539,149.0,20.0,20.0,ok
+village,full,risk_dispute_z,high_binary,hybrid_started_t,asinh_market_volume_area_zfill,risk interaction,0.7243408463860057,2.641233426416158,0.7838975744375705,149.0,20.0,20.0,ok
+village,full,risk_dispute_z,high_binary,hybrid_started_t,asinh_market_volume_area_zfill,high-risk total effect,3.8422256522536564,2.4047261408344363,0.11009173250632667,149.0,20.0,20.0,ok
+village,full,risk_dispute_z,high_binary,hybrid_rate_high_t,asinh_transfer_in_area_zfill,,,,,,,,error: too few observations
+village,full,risk_dispute_z,high_binary,hybrid_rate_high_t,asinh_market_volume_area_zfill,,,,,,,,error: too few observations
+village,full,risk_dispute_z,high_binary,hybrid_rate_any_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,0.2612511909156239,0.6367224757193156,0.6815813313686903,157.0,21.0,21.0,ok
+village,full,risk_dispute_z,high_binary,hybrid_rate_any_t,asinh_transfer_in_area_zfill,risk interaction,-0.22203232377390006,1.1205309752977148,0.8429283266673973,157.0,21.0,21.0,ok
+village,full,risk_dispute_z,high_binary,hybrid_rate_any_t,asinh_transfer_in_area_zfill,high-risk total effect,0.03921886714172382,0.9220488899587517,0.9660726280777814,157.0,21.0,21.0,ok
+village,full,risk_dispute_z,high_binary,hybrid_rate_any_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,1.249341885776818,0.9419275994702406,0.18471809316968302,157.0,21.0,21.0,ok
+village,full,risk_dispute_z,high_binary,hybrid_rate_any_t,asinh_market_volume_area_zfill,risk interaction,-2.089494691613304,1.8156857408247762,0.24981372228045595,157.0,21.0,21.0,ok
+village,full,risk_dispute_z,high_binary,hybrid_rate_any_t,asinh_market_volume_area_zfill,high-risk total effect,-0.8401528058364862,1.5522522690433715,0.5883369366998337,157.0,21.0,21.0,ok
+village,full,risk_reserved_z,continuous,hybrid_started_t,asinh_transfer_in_area_zfill,,,,,,,,error: too few observations
+village,full,risk_reserved_z,continuous,hybrid_started_t,asinh_market_volume_area_zfill,,,,,,,,error: too few observations
+village,full,risk_reserved_z,continuous,hybrid_rate_high_t,asinh_transfer_in_area_zfill,,,,,,,,error: too few observations
+village,full,risk_reserved_z,continuous,hybrid_rate_high_t,asinh_market_volume_area_zfill,,,,,,,,error: too few observations
+village,full,risk_reserved_z,continuous,hybrid_rate_any_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,5.783605029962537,4.6351348984522875,0.2121134994550472,90.0,12.0,12.0,ok
+village,full,risk_reserved_z,continuous,hybrid_rate_any_t,asinh_transfer_in_area_zfill,risk interaction,55.27566997470074,37.028728242163005,0.13549531437063506,90.0,12.0,12.0,ok
+village,full,risk_reserved_z,continuous,hybrid_rate_any_t,asinh_transfer_in_area_zfill,high-risk total effect,61.05927500466328,41.637686975407426,0.1425277671791905,90.0,12.0,12.0,ok
+village,full,risk_reserved_z,continuous,hybrid_rate_any_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,9.203315823899445,5.361886171219439,0.08608290771849131,90.0,12.0,12.0,ok
+village,full,risk_reserved_z,continuous,hybrid_rate_any_t,asinh_market_volume_area_zfill,risk interaction,80.37336556594578,43.06484098757782,0.06199468767109052,90.0,12.0,12.0,ok
+village,full,risk_reserved_z,continuous,hybrid_rate_any_t,asinh_market_volume_area_zfill,high-risk total effect,89.57668138984522,48.40738233221524,0.06424502709862709,90.0,12.0,12.0,ok
+village,full,risk_reserved_z,high_binary,hybrid_started_t,asinh_transfer_in_area_zfill,,,,,,,,error: too few observations
+village,full,risk_reserved_z,high_binary,hybrid_started_t,asinh_market_volume_area_zfill,,,,,,,,error: too few observations
+village,full,risk_reserved_z,high_binary,hybrid_rate_high_t,asinh_transfer_in_area_zfill,,,,,,,,error: too few observations
+village,full,risk_reserved_z,high_binary,hybrid_rate_high_t,asinh_market_volume_area_zfill,,,,,,,,error: too few observations
+village,full,risk_reserved_z,high_binary,hybrid_rate_any_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,-0.873169541442768,0.4355833479558507,0.04500603245640533,90.0,12.0,12.0,ok
+village,full,risk_reserved_z,high_binary,hybrid_rate_any_t,asinh_transfer_in_area_zfill,risk interaction,1.2719551355841368,1.5264258370882873,0.4046812871531298,90.0,12.0,12.0,ok
+village,full,risk_reserved_z,high_binary,hybrid_rate_any_t,asinh_transfer_in_area_zfill,high-risk total effect,0.3987855941413687,1.4629569313939192,0.7851693644863108,90.0,12.0,12.0,ok
+village,full,risk_reserved_z,high_binary,hybrid_rate_any_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,-1.2241627636097896,0.6542356582975309,0.0613264720037684,90.0,12.0,12.0,ok
+village,full,risk_reserved_z,high_binary,hybrid_rate_any_t,asinh_market_volume_area_zfill,risk interaction,2.3086917280722514,1.707436714606538,0.1763308614074901,90.0,12.0,12.0,ok
+village,full,risk_reserved_z,high_binary,hybrid_rate_any_t,asinh_market_volume_area_zfill,high-risk total effect,1.0845289644624618,1.5771226451348415,0.4916649952113541,90.0,12.0,12.0,ok
+village,full,risk_transferout_z,continuous,hybrid_started_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,-175.0336131178774,,,142.0,19.0,19.0,ok
+village,full,risk_transferout_z,continuous,hybrid_started_t,asinh_transfer_in_area_zfill,risk interaction,-354.247318495065,,,142.0,19.0,19.0,ok
+village,full,risk_transferout_z,continuous,hybrid_started_t,asinh_transfer_in_area_zfill,high-risk total effect,-529.2809316129424,,,142.0,19.0,19.0,ok
+village,full,risk_transferout_z,continuous,hybrid_started_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,39.006296465173364,13671841546.135452,0.9999999977236043,142.0,19.0,19.0,ok
+village,full,risk_transferout_z,continuous,hybrid_started_t,asinh_market_volume_area_zfill,risk interaction,73.3155286423862,16497174738.443434,0.9999999964541002,142.0,19.0,19.0,ok
+village,full,risk_transferout_z,continuous,hybrid_started_t,asinh_market_volume_area_zfill,high-risk total effect,112.32182510755956,31111416561.43882,0.9999999971193902,142.0,19.0,19.0,ok
+village,full,risk_transferout_z,continuous,hybrid_rate_high_t,asinh_transfer_in_area_zfill,,,,,,,,error: too few observations
+village,full,risk_transferout_z,continuous,hybrid_rate_high_t,asinh_market_volume_area_zfill,,,,,,,,error: too few observations
+village,full,risk_transferout_z,continuous,hybrid_rate_any_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,-0.7619202692832917,1.2101881298985206,0.5289639902401,158.0,21.0,21.0,ok
+village,full,risk_transferout_z,continuous,hybrid_rate_any_t,asinh_transfer_in_area_zfill,risk interaction,-1.0592752530594016,3.1678791436369975,0.7380928710887569,158.0,21.0,21.0,ok
+village,full,risk_transferout_z,continuous,hybrid_rate_any_t,asinh_transfer_in_area_zfill,high-risk total effect,-1.8211955223426934,4.258998865977167,0.6689342263895532,158.0,21.0,21.0,ok
+village,full,risk_transferout_z,continuous,hybrid_rate_any_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,1.95192237373687,1.1230154449611334,0.08219174714768712,158.0,21.0,21.0,ok
+village,full,risk_transferout_z,continuous,hybrid_rate_any_t,asinh_market_volume_area_zfill,risk interaction,5.559067088363898,2.9383598252359513,0.05850502532214939,158.0,21.0,21.0,ok
+village,full,risk_transferout_z,continuous,hybrid_rate_any_t,asinh_market_volume_area_zfill,high-risk total effect,7.510989462100769,3.7671597770626426,0.04617315237848613,158.0,21.0,21.0,ok
+village,full,risk_transferout_z,high_binary,hybrid_started_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,3.2526420642406197,0.6409391275450483,3.8789048018334034e-07,142.0,19.0,19.0,ok
+village,full,risk_transferout_z,high_binary,hybrid_started_t,asinh_transfer_in_area_zfill,risk interaction,-1.7720161361987128,0.8215252640732796,0.031006978852744484,142.0,19.0,19.0,ok
+village,full,risk_transferout_z,high_binary,hybrid_started_t,asinh_transfer_in_area_zfill,high-risk total effect,1.480625928041907,0.8095806468307537,0.0674175731597374,142.0,19.0,19.0,ok
+village,full,risk_transferout_z,high_binary,hybrid_started_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,2.615720931146089,0.5742102184151496,5.230171245121062e-06,142.0,19.0,19.0,ok
+village,full,risk_transferout_z,high_binary,hybrid_started_t,asinh_market_volume_area_zfill,risk interaction,-7.030095479685912,1.188885526070125,3.3556277801815644e-09,142.0,19.0,19.0,ok
+village,full,risk_transferout_z,high_binary,hybrid_started_t,asinh_market_volume_area_zfill,high-risk total effect,-4.414374548539822,1.1099861837809368,6.980087134136983e-05,142.0,19.0,19.0,ok
+village,full,risk_transferout_z,high_binary,hybrid_rate_high_t,asinh_transfer_in_area_zfill,,,,,,,,error: too few observations
+village,full,risk_transferout_z,high_binary,hybrid_rate_high_t,asinh_market_volume_area_zfill,,,,,,,,error: too few observations
+village,full,risk_transferout_z,high_binary,hybrid_rate_any_t,asinh_transfer_in_area_zfill,baseline/low-risk treatment effect,-0.8111293526034701,0.6628961341821116,0.22109766948921017,158.0,21.0,21.0,ok
+village,full,risk_transferout_z,high_binary,hybrid_rate_any_t,asinh_transfer_in_area_zfill,risk interaction,1.6150136086072615,1.9073427555434659,0.3971429213795096,158.0,21.0,21.0,ok
+village,full,risk_transferout_z,high_binary,hybrid_rate_any_t,asinh_transfer_in_area_zfill,high-risk total effect,0.8038842560037914,1.788442088073702,0.6530792599512011,158.0,21.0,21.0,ok
+village,full,risk_transferout_z,high_binary,hybrid_rate_any_t,asinh_market_volume_area_zfill,baseline/low-risk treatment effect,-0.7896443166652088,1.0084481642152396,0.4336099898854987,158.0,21.0,21.0,ok
+village,full,risk_transferout_z,high_binary,hybrid_rate_any_t,asinh_market_volume_area_zfill,risk interaction,2.6137025984394375,2.348267153920447,0.26569356859153814,158.0,21.0,21.0,ok
+village,full,risk_transferout_z,high_binary,hybrid_rate_any_t,asinh_market_volume_area_zfill,high-risk total effect,1.8240582817742288,2.120705289813892,0.38972361281968804,158.0,21.0,21.0,ok

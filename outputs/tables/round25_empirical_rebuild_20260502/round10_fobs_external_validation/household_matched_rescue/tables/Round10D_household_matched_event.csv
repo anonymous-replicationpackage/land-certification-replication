@@ -1,0 +1,5 @@
+﻿outcome,spec,event_term,status
+asinh_operated_area_end,matched_unit_year,model,error: 'ever_high'
+asinh_operated_area_end,matched_unit_provyear,model,error: 'ever_high'
+asinh_market_volume_area_zfill,matched_unit_year,model,error: 'ever_high'
+asinh_market_volume_area_zfill,matched_unit_provyear,model,error: 'ever_high'

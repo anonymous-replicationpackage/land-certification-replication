@@ -1,0 +1,361 @@
+﻿level,sample,outcome,treat,fe,b,se,p,wild_p,wild_t,wild_reps,N,units,counties,mean_y,status
+household,full,any_transfer_in_zfill,hybrid_started_t,unit_year,0.007538423171752101,0.008123898676106776,0.35344299559261294,0.381,0.927931707706225,999.0,10214.0,1750.0,28.0,0.04859876569974996,ok
+household,full,any_transfer_in_zfill,hybrid_started_t,unit_provyear,-0.06479546715490869,1736804.3698051618,0.999999970233088,,,0.0,10214.0,1750.0,28.0,0.04859876569974996,ok
+household,full,any_transfer_in_zfill,hybrid_rate_any_t,unit_year,-0.01221846838521905,0.013088062956054134,0.35053184000171955,,,0.0,11307.0,1907.0,31.0,0.04859876569974996,ok
+household,full,any_transfer_in_zfill,hybrid_rate_any_t,unit_provyear,0.1158652062759376,3045587.554670562,0.9999999696455749,,,0.0,11307.0,1907.0,31.0,0.04859876569974996,ok
+household,full,any_transfer_in_zfill,hybrid_rate_mid_t,unit_year,0.0077436207382324896,0.007899114722737728,0.3269306471281306,,,0.0,2338.0,475.0,8.0,0.04859876569974996,ok
+household,full,any_transfer_in_zfill,hybrid_rate_mid_t,unit_provyear,3.607764959335327,1.308297974389957e-08,0.0,,,0.0,2338.0,475.0,8.0,0.04859876569974996,ok
+household,full,any_transfer_in_zfill,hybrid_rate_high_t,unit_year,0.02655026138605256,0.016596170061519897,0.10964685633703897,0.081,1.599782437010112,999.0,2338.0,475.0,8.0,0.04859876569974996,ok
+household,full,any_transfer_in_zfill,hybrid_rate_high_t,unit_provyear,3.607764959335327,1.308297974389957e-08,0.0,,,0.0,2338.0,475.0,8.0,0.04859876569974996,ok
+household,full,any_transfer_in_zfill,hybrid_completed_t,unit_year,,,,,,,,,,,error: too few observations
+household,full,any_transfer_in_zfill,hybrid_completed_t,unit_provyear,,,,,,,,,,,error: too few observations
+household,full,any_transfer_in_zfill,hybrid_completion_rate,unit_year,0.017038830468164658,0.015118760263496078,0.25974282632223367,,,0.0,2338.0,475.0,8.0,0.04859876569974996,ok
+household,full,any_transfer_in_zfill,hybrid_completion_rate,unit_provyear,3.607764959335327,1.308297974389957e-08,0.0,,,0.0,2338.0,475.0,8.0,0.04859876569974996,ok
+household,full,asinh_transfer_in_area_zfill,hybrid_started_t,unit_year,0.009091459694044965,0.013334354625759643,0.49536083761073746,0.532,0.6818072527096177,999.0,10214.0,1750.0,28.0,0.10663335022277722,ok
+household,full,asinh_transfer_in_area_zfill,hybrid_started_t,unit_provyear,-0.0634724786687002,2304419.1910588797,0.9999999780232213,,,0.0,10214.0,1750.0,28.0,0.10663335022277722,ok
+household,full,asinh_transfer_in_area_zfill,hybrid_rate_any_t,unit_year,-0.034472090058089926,0.018286573848905946,0.05941582358889813,,,0.0,11307.0,1907.0,31.0,0.10663335022277722,ok
+household,full,asinh_transfer_in_area_zfill,hybrid_rate_any_t,unit_provyear,0.08692808923823869,4040932.248810565,0.9999999828359952,,,0.0,11307.0,1907.0,31.0,0.10663335022277722,ok
+household,full,asinh_transfer_in_area_zfill,hybrid_rate_mid_t,unit_year,-0.0028449037664328063,0.006241872279613745,0.648550120912057,,,0.0,2338.0,475.0,8.0,0.10663335022277722,ok
+household,full,asinh_transfer_in_area_zfill,hybrid_rate_mid_t,unit_provyear,6.317237921059132,1.954928007709131e-08,0.0,,,0.0,2338.0,475.0,8.0,0.10663335022277722,ok
+household,full,asinh_transfer_in_area_zfill,hybrid_rate_high_t,unit_year,0.030245742991486566,0.018679055890184933,0.10539714844488693,0.086,1.6192329617354722,999.0,2338.0,475.0,8.0,0.10663335022277722,ok
+household,full,asinh_transfer_in_area_zfill,hybrid_rate_high_t,unit_provyear,6.317237921059132,1.954928007709131e-08,0.0,,,0.0,2338.0,475.0,8.0,0.10663335022277722,ok
+household,full,asinh_transfer_in_area_zfill,hybrid_completed_t,unit_year,,,,,,,,,,,error: too few observations
+household,full,asinh_transfer_in_area_zfill,hybrid_completed_t,unit_provyear,,,,,,,,,,,error: too few observations
+household,full,asinh_transfer_in_area_zfill,hybrid_completion_rate,unit_year,0.009601536293803494,0.01473658767360906,0.514695339230639,,,0.0,2338.0,475.0,8.0,0.10663335022277722,ok
+household,full,asinh_transfer_in_area_zfill,hybrid_completion_rate,unit_provyear,6.317237921059132,1.954928007709131e-08,0.0,,,0.0,2338.0,475.0,8.0,0.10663335022277722,ok
+household,full,any_transfer_out_zfill,hybrid_started_t,unit_year,-0.015932567036567234,0.011248679932574904,0.15666006851647235,,,0.0,10214.0,1750.0,28.0,0.12984723005101967,ok
+household,full,any_transfer_out_zfill,hybrid_started_t,unit_provyear,0.11507416190579534,2634554.04954136,0.9999999651493591,,,0.0,10214.0,1750.0,28.0,0.12984723005101967,ok
+household,full,any_transfer_out_zfill,hybrid_rate_any_t,unit_year,-0.004240241001499971,0.030734678099526354,0.8902698496901679,,,0.0,11307.0,1907.0,31.0,0.12984723005101967,ok
+household,full,any_transfer_out_zfill,hybrid_rate_any_t,unit_provyear,0.29396724485127623,4619838.624664695,0.9999999492294115,,,0.0,11307.0,1907.0,31.0,0.12984723005101967,ok
+household,full,any_transfer_out_zfill,hybrid_rate_mid_t,unit_year,0.022547207967037023,0.023510194960896794,0.3375387962922133,,,0.0,2338.0,475.0,8.0,0.12984723005101967,ok
+household,full,any_transfer_out_zfill,hybrid_rate_mid_t,unit_provyear,40.70634098351002,8.181185017475268e-08,0.0,,,0.0,2338.0,475.0,8.0,0.12984723005101967,ok
+household,full,any_transfer_out_zfill,hybrid_rate_high_t,unit_year,0.061373804136756284,0.03629982010864673,0.09088517469540927,,,0.0,2338.0,475.0,8.0,0.12984723005101967,ok
+household,full,any_transfer_out_zfill,hybrid_rate_high_t,unit_provyear,40.70634098351002,8.181185017475268e-08,0.0,,,0.0,2338.0,475.0,8.0,0.12984723005101967,ok
+household,full,any_transfer_out_zfill,hybrid_completed_t,unit_year,,,,,,,,,,,error: too few observations
+household,full,any_transfer_out_zfill,hybrid_completed_t,unit_provyear,,,,,,,,,,,error: too few observations
+household,full,any_transfer_out_zfill,hybrid_completion_rate,unit_year,0.0404639680733436,0.03258919693731133,0.2143703499489591,,,0.0,2338.0,475.0,8.0,0.12984723005101967,ok
+household,full,any_transfer_out_zfill,hybrid_completion_rate,unit_provyear,40.70634098351002,8.181185017475268e-08,0.0,,,0.0,2338.0,475.0,8.0,0.12984723005101967,ok
+household,full,asinh_transfer_out_area_zfill,hybrid_started_t,unit_year,-0.029855198661551837,0.02201640089606067,0.17508530866084882,,,0.0,10214.0,1750.0,28.0,0.24885277259001692,ok
+household,full,asinh_transfer_out_area_zfill,hybrid_started_t,unit_provyear,0.24374430626630783,4209332.367651915,0.9999999537979418,,,0.0,10214.0,1750.0,28.0,0.24885277259001692,ok
+household,full,asinh_transfer_out_area_zfill,hybrid_rate_any_t,unit_year,-0.020152426705465017,0.059365451823088805,0.7342603017513216,,,0.0,11307.0,1907.0,31.0,0.24885277259001692,ok
+household,full,asinh_transfer_out_area_zfill,hybrid_rate_any_t,unit_provyear,0.3940765366628566,7381306.639040559,0.9999999574021783,,,0.0,11307.0,1907.0,31.0,0.24885277259001692,ok
+household,full,asinh_transfer_out_area_zfill,hybrid_rate_mid_t,unit_year,0.03523017496158763,0.020474689778219556,0.08531080742324602,,,0.0,2338.0,475.0,8.0,0.24885277259001692,ok
+household,full,asinh_transfer_out_area_zfill,hybrid_rate_mid_t,unit_provyear,107.7212245464325,1.731551780397678e-07,0.0,,,0.0,2338.0,475.0,8.0,0.24885277259001692,ok
+household,full,asinh_transfer_out_area_zfill,hybrid_rate_high_t,unit_year,0.06934025637476234,0.026257541871078937,0.00827166673554374,,,0.0,2338.0,475.0,8.0,0.24885277259001692,ok
+household,full,asinh_transfer_out_area_zfill,hybrid_rate_high_t,unit_provyear,107.7212245464325,1.731551780397678e-07,0.0,,,0.0,2338.0,475.0,8.0,0.24885277259001692,ok
+household,full,asinh_transfer_out_area_zfill,hybrid_completed_t,unit_year,,,,,,,,,,,error: too few observations
+household,full,asinh_transfer_out_area_zfill,hybrid_completed_t,unit_provyear,,,,,,,,,,,error: too few observations
+household,full,asinh_transfer_out_area_zfill,hybrid_completion_rate,unit_year,0.05545853168717949,0.030661552111561133,0.07049264287917485,,,0.0,2338.0,475.0,8.0,0.24885277259001692,ok
+household,full,asinh_transfer_out_area_zfill,hybrid_completion_rate,unit_provyear,107.7212245464325,1.731551780397678e-07,0.0,,,0.0,2338.0,475.0,8.0,0.24885277259001692,ok
+household,full,asinh_market_volume_area_zfill,hybrid_started_t,unit_year,-0.021296795619237217,0.024774347042610407,0.3899925056009155,0.384,-0.8596309554640529,999.0,10214.0,1750.0,28.0,0.3526197006585523,ok
+household,full,asinh_market_volume_area_zfill,hybrid_started_t,unit_provyear,0.18833718029782176,2295029.8718782645,0.9999999345231493,,,0.0,10214.0,1750.0,28.0,0.3526197006585523,ok
+household,full,asinh_market_volume_area_zfill,hybrid_rate_any_t,unit_year,-0.05082691613985874,0.0653807091316957,0.4369232377053561,,,0.0,11307.0,1907.0,31.0,0.3526197006585523,ok
+household,full,asinh_market_volume_area_zfill,hybrid_rate_any_t,unit_provyear,0.46836399822113783,4024455.592369072,0.9999999071426198,,,0.0,11307.0,1907.0,31.0,0.3526197006585523,ok
+household,full,asinh_market_volume_area_zfill,hybrid_rate_mid_t,unit_year,0.043277348971340876,0.021163774539093197,0.04086683135974118,,,0.0,2338.0,475.0,8.0,0.3526197006585523,ok
+household,full,asinh_market_volume_area_zfill,hybrid_rate_mid_t,unit_provyear,308.6643567085266,2.859443307078735e-07,0.0,,,0.0,2338.0,475.0,8.0,0.3526197006585523,ok
+household,full,asinh_market_volume_area_zfill,hybrid_rate_high_t,unit_year,0.09255619315875299,0.037674641717178714,0.014021039536731807,0.032,2.4567239113663457,999.0,2338.0,475.0,8.0,0.3526197006585523,ok
+household,full,asinh_market_volume_area_zfill,hybrid_rate_high_t,unit_provyear,308.6643567085266,2.859443307078735e-07,0.0,,,0.0,2338.0,475.0,8.0,0.3526197006585523,ok
+household,full,asinh_market_volume_area_zfill,hybrid_completed_t,unit_year,,,,,,,,,,,error: too few observations
+household,full,asinh_market_volume_area_zfill,hybrid_completed_t,unit_provyear,,,,,,,,,,,error: too few observations
+household,full,asinh_market_volume_area_zfill,hybrid_completion_rate,unit_year,0.07074947705762016,0.03862222419819726,0.06697625784582949,,,0.0,2338.0,475.0,8.0,0.3526197006585523,ok
+household,full,asinh_market_volume_area_zfill,hybrid_completion_rate,unit_provyear,308.6643567085266,2.859443307078735e-07,0.0,,,0.0,2338.0,475.0,8.0,0.3526197006585523,ok
+household,full,asinh_operated_area_end,hybrid_started_t,unit_year,-0.1242840435689745,0.09351515160613137,0.18383947792370348,0.359,-1.3290257400473031,999.0,8125.0,1495.0,28.0,2.2698556863504056,ok
+household,full,asinh_operated_area_end,hybrid_started_t,unit_provyear,-0.6502789842925267,2686272.4333315864,0.9999998068522182,,,0.0,8123.0,1494.0,27.0,2.2698556863504056,ok
+household,full,asinh_operated_area_end,hybrid_rate_any_t,unit_year,0.05185241108915079,0.03560622472627831,0.1453169537735965,,,0.0,8657.0,1591.0,31.0,2.2698556863504056,ok
+household,full,asinh_operated_area_end,hybrid_rate_any_t,unit_provyear,0.00132991373357072,254133.4993625169,0.9999999958245661,,,0.0,8655.0,1590.0,30.0,2.2698556863504056,ok
+household,full,asinh_operated_area_end,hybrid_rate_mid_t,unit_year,0.17797847577560835,0.10050547202912573,0.07658836197116614,,,0.0,1660.0,341.0,8.0,2.2698556863504056,ok
+household,full,asinh_operated_area_end,hybrid_rate_mid_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,full,asinh_operated_area_end,hybrid_rate_high_t,unit_year,0.14020511198083582,0.03527046950835401,7.033738260899334e-05,0.052,3.9751416393146526,999.0,1660.0,341.0,8.0,2.2698556863504056,ok
+household,full,asinh_operated_area_end,hybrid_rate_high_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,full,asinh_operated_area_end,hybrid_completed_t,unit_year,,,,,,,,,,,error: too few observations
+household,full,asinh_operated_area_end,hybrid_completed_t,unit_provyear,,,,,,,,,,,error: too few observations
+household,full,asinh_operated_area_end,hybrid_completion_rate,unit_year,0.19161604882896507,0.08871750112833277,0.030784672793119118,,,0.0,1660.0,341.0,8.0,2.2698556863504056,ok
+household,full,asinh_operated_area_end,hybrid_completion_rate,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,full,asinh_farm_income,hybrid_started_t,unit_year,0.08792452434537612,0.03937633038030162,0.025553669832608667,,,0.0,9177.0,1615.0,28.0,10.147128060160824,ok
+household,full,asinh_farm_income,hybrid_started_t,unit_provyear,-0.04970712977228686,15959742.119177638,0.9999999975149629,,,0.0,9177.0,1615.0,28.0,10.147128060160824,ok
+household,full,asinh_farm_income,hybrid_rate_any_t,unit_year,0.2029128475446438,0.11856068217442126,0.08699470075423357,,,0.0,10069.0,1760.0,31.0,10.147128060160824,ok
+household,full,asinh_farm_income,hybrid_rate_any_t,unit_provyear,-1.431317206723111,28237761.393450674,0.9999999595567833,,,0.0,10069.0,1760.0,31.0,10.147128060160824,ok
+household,full,asinh_farm_income,hybrid_rate_mid_t,unit_year,0.09092941817097439,0.1922116650526098,0.6361638115408544,,,0.0,2043.0,412.0,8.0,10.147128060160824,ok
+household,full,asinh_farm_income,hybrid_rate_mid_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,full,asinh_farm_income,hybrid_rate_high_t,unit_year,0.16443639841354174,0.056969494524009893,0.003896841779731034,,,0.0,2043.0,412.0,8.0,10.147128060160824,ok
+household,full,asinh_farm_income,hybrid_rate_high_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,full,asinh_farm_income,hybrid_completed_t,unit_year,,,,,,,,,,,error: too few observations
+household,full,asinh_farm_income,hybrid_completed_t,unit_provyear,,,,,,,,,,,error: too few observations
+household,full,asinh_farm_income,hybrid_completion_rate,unit_year,0.13518290682491416,0.14552862211524278,0.3529360347700905,,,0.0,2043.0,412.0,8.0,10.147128060160824,ok
+household,full,asinh_farm_income,hybrid_completion_rate,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,full,farm_income_share,hybrid_started_t,unit_year,0.005257797044968828,0.025525297066473662,0.8368035853006819,,,0.0,9177.0,1615.0,28.0,2.547417926720039,ok
+household,full,farm_income_share,hybrid_started_t,unit_provyear,0.11256897445127834,3909522.8723479086,0.9999999770260849,,,0.0,9177.0,1615.0,28.0,2.547417926720039,ok
+household,full,farm_income_share,hybrid_rate_any_t,unit_year,0.022780012104338616,0.031232013036205174,0.4657691223231303,,,0.0,10069.0,1760.0,31.0,2.547417926720039,ok
+household,full,farm_income_share,hybrid_rate_any_t,unit_provyear,-0.1602596247891756,6917165.127634079,0.999999981514294,,,0.0,10069.0,1760.0,31.0,2.547417926720039,ok
+household,full,farm_income_share,hybrid_rate_mid_t,unit_year,-0.11627889083884717,0.05201801321783367,0.025393843962207303,,,0.0,2043.0,412.0,8.0,2.547417926720039,ok
+household,full,farm_income_share,hybrid_rate_mid_t,unit_provyear,2.5071680694818497,1.135450569148797e-08,0.0,,,0.0,2043.0,412.0,8.0,2.547417926720039,ok
+household,full,farm_income_share,hybrid_rate_high_t,unit_year,-0.04474314529649507,0.051126419887753446,0.38149379567743624,,,0.0,2043.0,412.0,8.0,2.547417926720039,ok
+household,full,farm_income_share,hybrid_rate_high_t,unit_provyear,2.5071680694818497,1.135450569148797e-08,0.0,,,0.0,2043.0,412.0,8.0,2.547417926720039,ok
+household,full,farm_income_share,hybrid_completed_t,unit_year,,,,,,,,,,,error: too few observations
+household,full,farm_income_share,hybrid_completed_t,unit_provyear,,,,,,,,,,,error: too few observations
+household,full,farm_income_share,hybrid_completion_rate,unit_year,-0.10923112018138036,0.05741365604126805,0.05710208914186041,,,0.0,2043.0,412.0,8.0,2.547417926720039,ok
+household,full,farm_income_share,hybrid_completion_rate,unit_provyear,2.5071680694818497,1.135450569148797e-08,0.0,,,0.0,2043.0,412.0,8.0,2.547417926720039,ok
+household,overlap,any_transfer_in_zfill,hybrid_started_t,unit_year,0.006353870522181021,0.012227827722138285,0.6033257942193916,0.65,0.5196238176203154,999.0,3308.0,454.0,27.0,0.05147615442846329,ok
+household,overlap,any_transfer_in_zfill,hybrid_started_t,unit_provyear,-0.18187822422902925,6590338.0273193,0.9999999779802149,,,0.0,3308.0,454.0,27.0,0.05147615442846329,ok
+household,overlap,any_transfer_in_zfill,hybrid_rate_any_t,unit_year,-0.010683312774813821,0.013213919609351922,0.4188089562931595,,,0.0,3707.0,500.0,30.0,0.05147615442846329,ok
+household,overlap,any_transfer_in_zfill,hybrid_rate_any_t,unit_provyear,-0.1153002408685777,10160271.424059007,0.9999999909454897,,,0.0,3707.0,500.0,30.0,0.05147615442846329,ok
+household,overlap,any_transfer_in_zfill,hybrid_rate_mid_t,unit_year,0.007701607158284126,0.008922319021987386,0.38803605446140854,,,0.0,738.0,144.0,8.0,0.05147615442846329,ok
+household,overlap,any_transfer_in_zfill,hybrid_rate_mid_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,overlap,any_transfer_in_zfill,hybrid_rate_high_t,unit_year,0.026533665863442364,0.017250608125935766,0.12401700235455912,0.092,1.5381293036011758,999.0,738.0,144.0,8.0,0.05147615442846329,ok
+household,overlap,any_transfer_in_zfill,hybrid_rate_high_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,overlap,any_transfer_in_zfill,hybrid_completed_t,unit_year,,,,,,,,,,,error: too few observations
+household,overlap,any_transfer_in_zfill,hybrid_completed_t,unit_provyear,,,,,,,,,,,error: too few observations
+household,overlap,any_transfer_in_zfill,hybrid_completion_rate,unit_year,0.017023287790327968,0.016726706592708553,0.3088058118885315,,,0.0,738.0,144.0,8.0,0.05147615442846329,ok
+household,overlap,any_transfer_in_zfill,hybrid_completion_rate,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,overlap,asinh_transfer_in_area_zfill,hybrid_started_t,unit_year,0.008549483991208806,0.017606377697005186,0.6272577652612765,0.712,0.4855901729668709,999.0,3308.0,454.0,27.0,0.1149802675268989,ok
+household,overlap,asinh_transfer_in_area_zfill,hybrid_started_t,unit_provyear,-0.11414883999592779,8339892.972737706,0.9999999890792847,,,0.0,3308.0,454.0,27.0,0.1149802675268989,ok
+household,overlap,asinh_transfer_in_area_zfill,hybrid_rate_any_t,unit_year,-0.03262337411447199,0.01859870737573187,0.07941907102434541,,,0.0,3707.0,500.0,30.0,0.1149802675268989,ok
+household,overlap,asinh_transfer_in_area_zfill,hybrid_rate_any_t,unit_provyear,-0.10085135894586357,12793893.47061097,0.9999999937104571,,,0.0,3707.0,500.0,30.0,0.1149802675268989,ok
+household,overlap,asinh_transfer_in_area_zfill,hybrid_rate_mid_t,unit_year,-0.003941765899649607,0.007084856330786052,0.5779613789645006,,,0.0,738.0,144.0,8.0,0.1149802675268989,ok
+household,overlap,asinh_transfer_in_area_zfill,hybrid_rate_mid_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,overlap,asinh_transfer_in_area_zfill,hybrid_rate_high_t,unit_year,0.029779511884225444,0.019818601331995256,0.13294116202637954,0.116,1.5026041134471604,999.0,738.0,144.0,8.0,0.1149802675268989,ok
+household,overlap,asinh_transfer_in_area_zfill,hybrid_rate_high_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,overlap,asinh_transfer_in_area_zfill,hybrid_completed_t,unit_year,,,,,,,,,,,error: too few observations
+household,overlap,asinh_transfer_in_area_zfill,hybrid_completed_t,unit_provyear,,,,,,,,,,,error: too few observations
+household,overlap,asinh_transfer_in_area_zfill,hybrid_completion_rate,unit_year,0.008571053159813168,0.017050604726200836,0.6151869978121653,,,0.0,738.0,144.0,8.0,0.1149802675268989,ok
+household,overlap,asinh_transfer_in_area_zfill,hybrid_completion_rate,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,overlap,any_transfer_out_zfill,hybrid_started_t,unit_year,-0.002431872727505037,0.014178332194567874,0.8638146179622188,,,0.0,3308.0,454.0,27.0,0.1336999599234092,ok
+household,overlap,any_transfer_out_zfill,hybrid_started_t,unit_provyear,-0.052280414979329184,2032276.9940748138,0.9999999794743846,,,0.0,3308.0,454.0,27.0,0.1336999599234092,ok
+household,overlap,any_transfer_out_zfill,hybrid_rate_any_t,unit_year,-0.01317567799993675,0.02974121806297534,0.6577579912339981,,,0.0,3707.0,500.0,30.0,0.1336999599234092,ok
+household,overlap,any_transfer_out_zfill,hybrid_rate_any_t,unit_provyear,0.06622116209021375,2964435.8152918033,0.9999999821764254,,,0.0,3707.0,500.0,30.0,0.1336999599234092,ok
+household,overlap,any_transfer_out_zfill,hybrid_rate_mid_t,unit_year,0.023532258328106598,0.022662510263585102,0.2990939795096127,,,0.0,738.0,144.0,8.0,0.1336999599234092,ok
+household,overlap,any_transfer_out_zfill,hybrid_rate_mid_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,overlap,any_transfer_out_zfill,hybrid_rate_high_t,unit_year,0.061900869749473016,0.036247049547386445,0.08768288933698704,,,0.0,738.0,144.0,8.0,0.1336999599234092,ok
+household,overlap,any_transfer_out_zfill,hybrid_rate_high_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,overlap,any_transfer_out_zfill,hybrid_completed_t,unit_year,,,,,,,,,,,error: too few observations
+household,overlap,any_transfer_out_zfill,hybrid_completed_t,unit_provyear,,,,,,,,,,,error: too few observations
+household,overlap,any_transfer_out_zfill,hybrid_completion_rate,unit_year,0.04150284242422449,0.03254163580734366,0.20217595970205038,,,0.0,738.0,144.0,8.0,0.1336999599234092,ok
+household,overlap,any_transfer_out_zfill,hybrid_completion_rate,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,overlap,asinh_transfer_out_area_zfill,hybrid_started_t,unit_year,-0.00022948541526175443,0.022729217654350393,0.9919442999884298,,,0.0,3308.0,454.0,27.0,0.2548399392308443,ok
+household,overlap,asinh_transfer_out_area_zfill,hybrid_started_t,unit_provyear,0.3834279172628031,5411500.024343711,0.9999999434664669,,,0.0,3308.0,454.0,27.0,0.2548399392308443,ok
+household,overlap,asinh_transfer_out_area_zfill,hybrid_rate_any_t,unit_year,-0.036842024569768025,0.05781490841072611,0.5239679369687902,,,0.0,3707.0,500.0,30.0,0.2548399392308443,ok
+household,overlap,asinh_transfer_out_area_zfill,hybrid_rate_any_t,unit_provyear,-0.023589215377630358,8383944.4259171635,0.9999999977550578,,,0.0,3707.0,500.0,30.0,0.2548399392308443,ok
+household,overlap,asinh_transfer_out_area_zfill,hybrid_rate_mid_t,unit_year,0.03473981881471442,0.020429197078700577,0.089037199910057,,,0.0,738.0,144.0,8.0,0.2548399392308443,ok
+household,overlap,asinh_transfer_out_area_zfill,hybrid_rate_mid_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,overlap,asinh_transfer_out_area_zfill,hybrid_rate_high_t,unit_year,0.06926876398083837,0.02694025203491196,0.010134691065773745,,,0.0,738.0,144.0,8.0,0.2548399392308443,ok
+household,overlap,asinh_transfer_out_area_zfill,hybrid_rate_high_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,overlap,asinh_transfer_out_area_zfill,hybrid_completed_t,unit_year,,,,,,,,,,,error: too few observations
+household,overlap,asinh_transfer_out_area_zfill,hybrid_completed_t,unit_provyear,,,,,,,,,,,error: too few observations
+household,overlap,asinh_transfer_out_area_zfill,hybrid_completion_rate,unit_year,0.055101140773149905,0.03203919108256768,0.08546800835665669,,,0.0,738.0,144.0,8.0,0.2548399392308443,ok
+household,overlap,asinh_transfer_out_area_zfill,hybrid_completion_rate,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,overlap,asinh_market_volume_area_zfill,hybrid_started_t,unit_year,0.008589866659540663,0.026615739695605174,0.7468949213219742,0.743,0.3227363491595551,999.0,3308.0,454.0,27.0,0.3664448253039467,ok
+household,overlap,asinh_market_volume_area_zfill,hybrid_started_t,unit_provyear,0.475109204267685,12500775.545430765,0.9999999696752976,,,0.0,3308.0,454.0,27.0,0.3664448253039467,ok
+household,overlap,asinh_market_volume_area_zfill,hybrid_rate_any_t,unit_year,-0.0655766510975882,0.06451716651602835,0.30942859408988854,,,0.0,3707.0,500.0,30.0,0.3664448253039467,ok
+household,overlap,asinh_market_volume_area_zfill,hybrid_rate_any_t,unit_provyear,-0.11647633207376613,19215971.360931274,0.9999999951636758,,,0.0,3707.0,500.0,30.0,0.3664448253039467,ok
+household,overlap,asinh_market_volume_area_zfill,hybrid_rate_mid_t,unit_year,0.04130156382304865,0.02345984593260547,0.07831942054782645,,,0.0,738.0,144.0,8.0,0.3664448253039467,ok
+household,overlap,asinh_market_volume_area_zfill,hybrid_rate_mid_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,overlap,asinh_market_volume_area_zfill,hybrid_rate_high_t,unit_year,0.09181815620819968,0.039706061054345,0.020753070542439446,0.032,2.3124468600028028,999.0,738.0,144.0,8.0,0.3664448253039467,ok
+household,overlap,asinh_market_volume_area_zfill,hybrid_rate_high_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,overlap,asinh_market_volume_area_zfill,hybrid_completed_t,unit_year,,,,,,,,,,,error: too few observations
+household,overlap,asinh_market_volume_area_zfill,hybrid_completed_t,unit_provyear,,,,,,,,,,,error: too few observations
+household,overlap,asinh_market_volume_area_zfill,hybrid_completion_rate,unit_year,0.06896490897545707,0.043065693966088135,0.1092908884075991,,,0.0,738.0,144.0,8.0,0.3664448253039467,ok
+household,overlap,asinh_market_volume_area_zfill,hybrid_completion_rate,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,overlap,asinh_operated_area_end,hybrid_started_t,unit_year,-0.10230150697960591,0.08602278298641686,0.23434627850388168,0.353,-1.1892373558265315,999.0,2641.0,410.0,26.0,2.254412420512887,ok
+household,overlap,asinh_operated_area_end,hybrid_started_t,unit_provyear,-0.24597794042129884,3810646.48106652,0.999999948496403,,,0.0,2641.0,410.0,26.0,2.254412420512887,ok
+household,overlap,asinh_operated_area_end,hybrid_rate_any_t,unit_year,0.06284089388833086,0.03466928370170376,0.06989643054327126,,,0.0,2811.0,437.0,29.0,2.254412420512887,ok
+household,overlap,asinh_operated_area_end,hybrid_rate_any_t,unit_provyear,78.4543335026497,492580855.95331204,0.9999998729193377,,,0.0,2811.0,437.0,29.0,2.254412420512887,ok
+household,overlap,asinh_operated_area_end,hybrid_rate_mid_t,unit_year,0.17028907711574215,0.08392299242515691,0.04244697358489022,,,0.0,531.0,121.0,8.0,2.254412420512887,ok
+household,overlap,asinh_operated_area_end,hybrid_rate_mid_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,overlap,asinh_operated_area_end,hybrid_rate_high_t,unit_year,0.13747910610326253,0.03181911713650675,1.5557385916437492e-05,0.043,4.320644897640162,999.0,531.0,121.0,8.0,2.254412420512887,ok
+household,overlap,asinh_operated_area_end,hybrid_rate_high_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,overlap,asinh_operated_area_end,hybrid_completed_t,unit_year,,,,,,,,,,,error: too few observations
+household,overlap,asinh_operated_area_end,hybrid_completed_t,unit_provyear,,,,,,,,,,,error: too few observations
+household,overlap,asinh_operated_area_end,hybrid_completion_rate,unit_year,0.18456497493155088,0.07262943792904243,0.011047685120835987,,,0.0,531.0,121.0,8.0,2.254412420512887,ok
+household,overlap,asinh_operated_area_end,hybrid_completion_rate,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,overlap,asinh_farm_income,hybrid_started_t,unit_year,0.13310682916721975,0.04581389178937239,0.0036680582825286043,,,0.0,2957.0,426.0,27.0,10.107903575460789,ok
+household,overlap,asinh_farm_income,hybrid_started_t,unit_provyear,-10.028084981639779,8947234.105536195,0.9999991057287552,,,0.0,2957.0,426.0,27.0,10.107903575460789,ok
+household,overlap,asinh_farm_income,hybrid_rate_any_t,unit_year,0.212495511910503,0.12178566580190558,0.08101413816651477,,,0.0,3285.0,471.0,30.0,10.107903575460789,ok
+household,overlap,asinh_farm_income,hybrid_rate_any_t,unit_provyear,-320.70774498093965,160187819.5625941,0.9999984025766818,,,0.0,3285.0,471.0,30.0,10.107903575460789,ok
+household,overlap,asinh_farm_income,hybrid_rate_mid_t,unit_year,0.0865054272484158,0.18597045598643366,0.6418191532253439,,,0.0,660.0,134.0,8.0,10.107903575460789,ok
+household,overlap,asinh_farm_income,hybrid_rate_mid_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,overlap,asinh_farm_income,hybrid_rate_high_t,unit_year,0.1631747669733918,0.058374920231364584,0.005185335308662058,,,0.0,660.0,134.0,8.0,10.107903575460789,ok
+household,overlap,asinh_farm_income,hybrid_rate_high_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,overlap,asinh_farm_income,hybrid_completed_t,unit_year,,,,,,,,,,,error: too few observations
+household,overlap,asinh_farm_income,hybrid_completed_t,unit_provyear,,,,,,,,,,,error: too few observations
+household,overlap,asinh_farm_income,hybrid_completion_rate,unit_year,0.1313348063636497,0.13846826337578858,0.34288357721494245,,,0.0,660.0,134.0,8.0,10.107903575460789,ok
+household,overlap,asinh_farm_income,hybrid_completion_rate,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,overlap,farm_income_share,hybrid_started_t,unit_year,0.04411536411311959,0.022490422891842183,0.04981865437408037,,,0.0,2957.0,426.0,27.0,0.48661879538443403,ok
+household,overlap,farm_income_share,hybrid_started_t,unit_provyear,1.3488866791786513,3118672.148881049,0.9999996548993276,,,0.0,2957.0,426.0,27.0,0.48661879538443403,ok
+household,overlap,farm_income_share,hybrid_rate_any_t,unit_year,0.025279638877159512,0.03189887827273553,0.4280732509571825,,,0.0,3285.0,471.0,30.0,0.48661879538443403,ok
+household,overlap,farm_income_share,hybrid_rate_any_t,unit_provyear,-1.6144468408211265,767217.2105230673,0.9999983210201872,,,0.0,3285.0,471.0,30.0,0.48661879538443403,ok
+household,overlap,farm_income_share,hybrid_rate_mid_t,unit_year,-0.10922549119110442,0.043175670105618076,0.011412996436209908,,,0.0,660.0,134.0,8.0,0.48661879538443403,ok
+household,overlap,farm_income_share,hybrid_rate_mid_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,overlap,farm_income_share,hybrid_rate_high_t,unit_year,-0.041976501042194546,0.04695521983572447,0.37133859027394567,,,0.0,660.0,134.0,8.0,0.48661879538443403,ok
+household,overlap,farm_income_share,hybrid_rate_high_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,overlap,farm_income_share,hybrid_completed_t,unit_year,,,,,,,,,,,error: too few observations
+household,overlap,farm_income_share,hybrid_completed_t,unit_provyear,,,,,,,,,,,error: too few observations
+household,overlap,farm_income_share,hybrid_completion_rate,unit_year,-0.10261099414545004,0.0489528581372786,0.03607167562371375,,,0.0,660.0,134.0,8.0,0.48661879538443403,ok
+household,overlap,farm_income_share,hybrid_completion_rate,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,long,any_transfer_in_zfill,hybrid_started_t,unit_year,-0.020533897620998505,0.010636622999918166,0.05354611483894218,0.22,-1.9304903089219656,999.0,1888.0,230.0,17.0,0.055069280707987465,ok
+household,long,any_transfer_in_zfill,hybrid_started_t,unit_provyear,-0.056809086818248034,29091.93518734572,0.9999984419361244,,,0.0,1887.0,230.0,17.0,0.055069280707987465,ok
+household,long,any_transfer_in_zfill,hybrid_rate_any_t,unit_year,-0.015416056655072924,0.019836028807100028,0.43705579837253616,,,0.0,2287.0,276.0,20.0,0.055069280707987465,ok
+household,long,any_transfer_in_zfill,hybrid_rate_any_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,long,any_transfer_in_zfill,hybrid_rate_mid_t,unit_year,0.009724047902427906,0.01445674878451187,0.5011824923791421,,,0.0,456.0,87.0,6.0,0.055069280707987465,ok
+household,long,any_transfer_in_zfill,hybrid_rate_mid_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,long,any_transfer_in_zfill,hybrid_rate_high_t,unit_year,0.027122756471129574,0.024878157798797002,0.2756146295763753,0.294,1.0902236689101277,999.0,456.0,87.0,6.0,0.055069280707987465,ok
+household,long,any_transfer_in_zfill,hybrid_rate_high_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,long,any_transfer_in_zfill,hybrid_completed_t,unit_year,,,,,,,,,,,error: too few observations
+household,long,any_transfer_in_zfill,hybrid_completed_t,unit_provyear,,,,,,,,,,,error: too few observations
+household,long,any_transfer_in_zfill,hybrid_completion_rate,unit_year,0.01704129661573146,0.02085867565509776,0.4139350416682104,,,0.0,456.0,87.0,6.0,0.055069280707987465,ok
+household,long,any_transfer_in_zfill,hybrid_completion_rate,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,long,asinh_transfer_in_area_zfill,hybrid_started_t,unit_year,-0.031301144001191356,0.017303605067032258,0.07046067858261228,0.234,-1.8089377259787296,999.0,1888.0,230.0,17.0,0.12625686279899978,ok
+household,long,asinh_transfer_in_area_zfill,hybrid_started_t,unit_provyear,-0.03343347227200866,17121.282202884926,0.9999984419361223,,,0.0,1887.0,230.0,17.0,0.12625686279899978,ok
+household,long,asinh_transfer_in_area_zfill,hybrid_rate_any_t,unit_year,-0.04297036132534296,0.019575251528826994,0.028153762963614538,,,0.0,2287.0,276.0,20.0,0.12625686279899978,ok
+household,long,asinh_transfer_in_area_zfill,hybrid_rate_any_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,long,asinh_transfer_in_area_zfill,hybrid_rate_mid_t,unit_year,-0.01057137661073053,0.00931533402108423,0.2564440299149069,,,0.0,456.0,87.0,6.0,0.12625686279899978,ok
+household,long,asinh_transfer_in_area_zfill,hybrid_rate_mid_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,long,asinh_transfer_in_area_zfill,hybrid_rate_high_t,unit_year,0.010995461935334069,0.01889002285883086,0.5605143138858284,0.578,0.5820777464117161,999.0,456.0,87.0,6.0,0.12625686279899978,ok
+household,long,asinh_transfer_in_area_zfill,hybrid_rate_high_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,long,asinh_transfer_in_area_zfill,hybrid_completed_t,unit_year,,,,,,,,,,,error: too few observations
+household,long,asinh_transfer_in_area_zfill,hybrid_completed_t,unit_provyear,,,,,,,,,,,error: too few observations
+household,long,asinh_transfer_in_area_zfill,hybrid_completion_rate,unit_year,-0.004835616818105315,0.013912080736064382,0.7281526160950276,,,0.0,456.0,87.0,6.0,0.12625686279899978,ok
+household,long,asinh_transfer_in_area_zfill,hybrid_completion_rate,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,long,any_transfer_out_zfill,hybrid_started_t,unit_year,0.004486686269221838,0.0189374340649727,0.8127176498630955,,,0.0,1888.0,230.0,17.0,0.13478246826652887,ok
+household,long,any_transfer_out_zfill,hybrid_started_t,unit_provyear,-0.18930622655898333,38789.24669571859,0.9999961060209129,,,0.0,1887.0,230.0,17.0,0.13478246826652887,ok
+household,long,any_transfer_out_zfill,hybrid_rate_any_t,unit_year,-0.03420844257471502,0.05784217669235826,0.5542457317605392,,,0.0,2287.0,276.0,20.0,0.13478246826652887,ok
+household,long,any_transfer_out_zfill,hybrid_rate_any_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,long,any_transfer_out_zfill,hybrid_rate_mid_t,unit_year,0.04383700881048745,0.027673564989815186,0.1131766005311749,,,0.0,456.0,87.0,6.0,0.13478246826652887,ok
+household,long,any_transfer_out_zfill,hybrid_rate_mid_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,long,any_transfer_out_zfill,hybrid_rate_high_t,unit_year,0.05001233516395721,0.02737067147654734,0.06766616624130058,,,0.0,456.0,87.0,6.0,0.13478246826652887,ok
+household,long,any_transfer_out_zfill,hybrid_rate_high_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,long,any_transfer_out_zfill,hybrid_completed_t,unit_year,,,,,,,,,,,error: too few observations
+household,long,any_transfer_out_zfill,hybrid_completed_t,unit_provyear,,,,,,,,,,,error: too few observations
+household,long,any_transfer_out_zfill,hybrid_completion_rate,unit_year,0.05082340232250182,0.031040474916075263,0.10156219826169367,,,0.0,456.0,87.0,6.0,0.13478246826652887,ok
+household,long,any_transfer_out_zfill,hybrid_completion_rate,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,long,asinh_transfer_out_area_zfill,hybrid_started_t,unit_year,0.009245470672391048,0.029293317497419598,0.7522931890112045,,,0.0,1888.0,230.0,17.0,0.26396818752075374,ok
+household,long,asinh_transfer_out_area_zfill,hybrid_started_t,unit_provyear,-0.2335900936741382,18566.465322595872,0.9999899615825599,,,0.0,1887.0,230.0,17.0,0.26396818752075374,ok
+household,long,asinh_transfer_out_area_zfill,hybrid_rate_any_t,unit_year,-0.09119806562424564,0.11063768679362561,0.409772094530061,,,0.0,2287.0,276.0,20.0,0.26396818752075374,ok
+household,long,asinh_transfer_out_area_zfill,hybrid_rate_any_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,long,asinh_transfer_out_area_zfill,hybrid_rate_mid_t,unit_year,0.046862266606852526,0.03291972475709344,0.15458212459424367,,,0.0,456.0,87.0,6.0,0.26396818752075374,ok
+household,long,asinh_transfer_out_area_zfill,hybrid_rate_mid_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,long,asinh_transfer_out_area_zfill,hybrid_rate_high_t,unit_year,0.05281996000202876,0.03189599112820828,0.09772055729822465,,,0.0,456.0,87.0,6.0,0.26396818752075374,ok
+household,long,asinh_transfer_out_area_zfill,hybrid_rate_high_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,long,asinh_transfer_out_area_zfill,hybrid_completed_t,unit_year,,,,,,,,,,,error: too few observations
+household,long,asinh_transfer_out_area_zfill,hybrid_completed_t,unit_provyear,,,,,,,,,,,error: too few observations
+household,long,asinh_transfer_out_area_zfill,hybrid_completion_rate,unit_year,0.055053644765261735,0.03827703104581151,0.1503505003970864,,,0.0,456.0,87.0,6.0,0.26396818752075374,ok
+household,long,asinh_transfer_out_area_zfill,hybrid_completion_rate,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,long,asinh_market_volume_area_zfill,hybrid_started_t,unit_year,-0.021590651311688323,0.030975242938080554,0.48578446946768783,0.497,-0.6970292809276102,999.0,1888.0,230.0,17.0,0.3862065053153417,ok
+household,long,asinh_market_volume_area_zfill,hybrid_started_t,unit_provyear,-0.2670235668774694,1445.1831197119272,0.9998525764816487,,,0.0,1887.0,230.0,17.0,0.3862065053153417,ok
+household,long,asinh_market_volume_area_zfill,hybrid_rate_any_t,unit_year,-0.1289381727670126,0.11841218284484738,0.27620116378891657,,,0.0,2287.0,276.0,20.0,0.3862065053153417,ok
+household,long,asinh_market_volume_area_zfill,hybrid_rate_any_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,long,asinh_market_volume_area_zfill,hybrid_rate_mid_t,unit_year,0.03629088999612197,0.04217958549466643,0.38957414293382864,,,0.0,456.0,87.0,6.0,0.3862065053153417,ok
+household,long,asinh_market_volume_area_zfill,hybrid_rate_mid_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,long,asinh_market_volume_area_zfill,hybrid_rate_high_t,unit_year,0.06381542193736278,0.04896554529505112,0.19248193219773746,0.225,1.3032719548578686,999.0,456.0,87.0,6.0,0.3862065053153417,ok
+household,long,asinh_market_volume_area_zfill,hybrid_rate_high_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,long,asinh_market_volume_area_zfill,hybrid_completed_t,unit_year,,,,,,,,,,,error: too few observations
+household,long,asinh_market_volume_area_zfill,hybrid_completed_t,unit_provyear,,,,,,,,,,,error: too few observations
+household,long,asinh_market_volume_area_zfill,hybrid_completion_rate,unit_year,0.0502180279471564,0.051774190018881,0.33207476277776027,,,0.0,456.0,87.0,6.0,0.3862065053153417,ok
+household,long,asinh_market_volume_area_zfill,hybrid_completion_rate,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,long,asinh_operated_area_end,hybrid_started_t,unit_year,-0.07593756804146069,0.1048897303935997,0.46908093424729214,0.777,-0.7239752429194379,999.0,1540.0,204.0,17.0,2.3361525477838323,ok
+household,long,asinh_operated_area_end,hybrid_started_t,unit_provyear,-89.43903139233589,52190582.50209736,0.9999986326647671,,,0.0,1538.0,203.0,16.0,2.3361525477838323,ok
+household,long,asinh_operated_area_end,hybrid_rate_any_t,unit_year,0.09505953022500827,0.03473580487263588,0.0062069432364175664,,,0.0,1710.0,231.0,20.0,2.3361525477838323,ok
+household,long,asinh_operated_area_end,hybrid_rate_any_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,long,asinh_operated_area_end,hybrid_rate_mid_t,unit_year,0.05793169342899982,0.006552413702412228,9.463216343930762e-19,,,0.0,340.0,67.0,6.0,2.3361525477838323,ok
+household,long,asinh_operated_area_end,hybrid_rate_mid_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,long,asinh_operated_area_end,hybrid_rate_high_t,unit_year,0.10509095525991301,0.048590915383064016,0.030558903864773522,0.057,2.162769613032267,999.0,340.0,67.0,6.0,2.3361525477838323,ok
+household,long,asinh_operated_area_end,hybrid_rate_high_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,long,asinh_operated_area_end,hybrid_completed_t,unit_year,,,,,,,,,,,error: too few observations
+household,long,asinh_operated_area_end,hybrid_completed_t,unit_provyear,,,,,,,,,,,error: too few observations
+household,long,asinh_operated_area_end,hybrid_completion_rate,unit_year,0.07704873486225332,0.022648923768421227,0.0006692602681648874,,,0.0,340.0,67.0,6.0,2.3361525477838323,ok
+household,long,asinh_operated_area_end,hybrid_completion_rate,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,long,asinh_farm_income,hybrid_started_t,unit_year,0.2081823322598519,0.05412111514395956,0.00011976780280868473,,,0.0,1659.0,214.0,17.0,10.067980047598239,ok
+household,long,asinh_farm_income,hybrid_started_t,unit_provyear,-0.5378984399139881,1566584.8587655784,0.9999997260404644,,,0.0,1658.0,214.0,17.0,10.067980047598239,ok
+household,long,asinh_farm_income,hybrid_rate_any_t,unit_year,0.17148037761675633,0.13314642222230746,0.19777789813876157,,,0.0,1987.0,259.0,20.0,10.067980047598239,ok
+household,long,asinh_farm_income,hybrid_rate_any_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,long,asinh_farm_income,hybrid_rate_mid_t,unit_year,-0.2985771119235099,0.013041005950163291,5.180901349297312e-116,,,0.0,386.0,78.0,6.0,10.067980047598239,ok
+household,long,asinh_farm_income,hybrid_rate_mid_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,long,asinh_farm_income,hybrid_rate_high_t,unit_year,0.06130739400107108,0.20139259738076096,0.7608099769867629,,,0.0,386.0,78.0,6.0,10.067980047598239,ok
+household,long,asinh_farm_income,hybrid_rate_high_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,long,asinh_farm_income,hybrid_completed_t,unit_year,,,,,,,,,,,error: too few observations
+household,long,asinh_farm_income,hybrid_completed_t,unit_provyear,,,,,,,,,,,error: too few observations
+household,long,asinh_farm_income,hybrid_completion_rate,unit_year,-0.21348198009325267,0.08040817058978639,0.007931341680522341,,,0.0,386.0,78.0,6.0,10.067980047598239,ok
+household,long,asinh_farm_income,hybrid_completion_rate,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,long,farm_income_share,hybrid_started_t,unit_year,0.06967311250507502,0.01860118647399079,0.0001799435467693996,,,0.0,1659.0,214.0,17.0,0.4861594593123037,ok
+household,long,farm_income_share,hybrid_started_t,unit_provyear,-0.21783560840412974,480812.863155647,0.9999996385128559,,,0.0,1658.0,214.0,17.0,0.4861594593123037,ok
+household,long,farm_income_share,hybrid_rate_any_t,unit_year,0.07679904589200487,0.039763028839092156,0.05343133041437788,,,0.0,1987.0,259.0,20.0,0.4861594593123037,ok
+household,long,farm_income_share,hybrid_rate_any_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,long,farm_income_share,hybrid_rate_mid_t,unit_year,-0.06630451746367762,0.01506201248803522,1.0720706049424349e-05,,,0.0,386.0,78.0,6.0,0.4861594593123037,ok
+household,long,farm_income_share,hybrid_rate_mid_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,long,farm_income_share,hybrid_rate_high_t,unit_year,-0.01597684753534576,0.03400944472120236,0.6385145034057864,,,0.0,386.0,78.0,6.0,0.4861594593123037,ok
+household,long,farm_income_share,hybrid_rate_high_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+household,long,farm_income_share,hybrid_completed_t,unit_year,,,,,,,,,,,error: too few observations
+household,long,farm_income_share,hybrid_completed_t,unit_provyear,,,,,,,,,,,error: too few observations
+household,long,farm_income_share,hybrid_completion_rate,unit_year,-0.056390565884946606,0.01952706275015383,0.003879266231410518,,,0.0,386.0,78.0,6.0,0.4861594593123037,ok
+household,long,farm_income_share,hybrid_completion_rate,unit_provyear,,,,,,,,,,,error: no regressors after FE
+village,full,any_transfer_in_v,hybrid_started_t,unit_year,0.13232273326728972,0.12709573832740406,0.29781687107730537,,,0.0,212.0,31.0,29.0,0.3905109489051095,ok
+village,full,any_transfer_in_v,hybrid_started_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+village,full,any_transfer_in_v,hybrid_rate_any_t,unit_year,-0.007300121698237436,0.08896735460807202,0.9346038226006357,,,0.0,235.0,34.0,32.0,0.3905109489051095,ok
+village,full,any_transfer_in_v,hybrid_rate_any_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+village,full,any_transfer_in_v,hybrid_rate_mid_t,unit_year,0.8634759457618717,0.21481618804232203,5.8296116643639245e-05,,,0.0,44.0,9.0,8.0,0.3905109489051095,ok
+village,full,any_transfer_in_v,hybrid_rate_mid_t,unit_provyear,,,,,,,,,,,error: too few observations
+village,full,any_transfer_in_v,hybrid_rate_high_t,unit_year,0.47938195270975725,0.22140453559156786,0.03037346066614277,,,0.0,44.0,9.0,8.0,0.3905109489051095,ok
+village,full,any_transfer_in_v,hybrid_rate_high_t,unit_provyear,,,,,,,,,,,error: too few observations
+village,full,any_transfer_in_v,hybrid_completed_t,unit_year,0.4465408624846666,0.26713097978390493,0.09459974074767845,,,0.0,57.0,10.0,8.0,0.3905109489051095,ok
+village,full,any_transfer_in_v,hybrid_completed_t,unit_provyear,,,,,,,,,,,error: too few observations
+village,full,any_transfer_in_v,hybrid_completion_rate,unit_year,0.842815101483023,0.2111756715175078,6.57782066090624e-05,,,0.0,44.0,9.0,8.0,0.3905109489051095,ok
+village,full,any_transfer_in_v,hybrid_completion_rate,unit_provyear,,,,,,,,,,,error: too few observations
+village,full,asinh_transfer_in_area_zfill,hybrid_started_t,unit_year,0.873020656264209,0.7955445745221155,0.2724720438691617,,,0.0,212.0,31.0,29.0,2.1919204909253667,ok
+village,full,asinh_transfer_in_area_zfill,hybrid_started_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+village,full,asinh_transfer_in_area_zfill,hybrid_rate_any_t,unit_year,-0.17251556275777746,0.44560102777227867,0.698643294804095,,,0.0,235.0,34.0,32.0,2.1919204909253667,ok
+village,full,asinh_transfer_in_area_zfill,hybrid_rate_any_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+village,full,asinh_transfer_in_area_zfill,hybrid_rate_mid_t,unit_year,3.134934244656003,1.3050471501960996,0.01629850337182047,,,0.0,44.0,9.0,8.0,2.1919204909253667,ok
+village,full,asinh_transfer_in_area_zfill,hybrid_rate_mid_t,unit_provyear,,,,,,,,,,,error: too few observations
+village,full,asinh_transfer_in_area_zfill,hybrid_rate_high_t,unit_year,1.7516225080761059,0.9671753257679343,0.07012997014422784,,,0.0,44.0,9.0,8.0,2.1919204909253667,ok
+village,full,asinh_transfer_in_area_zfill,hybrid_rate_high_t,unit_provyear,,,,,,,,,,,error: too few observations
+village,full,asinh_transfer_in_area_zfill,hybrid_completed_t,unit_year,1.533164606277346,1.1661425220549941,0.1886000698719129,,,0.0,57.0,10.0,8.0,2.1919204909253667,ok
+village,full,asinh_transfer_in_area_zfill,hybrid_completed_t,unit_provyear,,,,,,,,,,,error: too few observations
+village,full,asinh_transfer_in_area_zfill,hybrid_completion_rate,unit_year,3.0621140421891764,1.2729695303730375,0.016150843748229494,,,0.0,44.0,9.0,8.0,2.1919204909253667,ok
+village,full,asinh_transfer_in_area_zfill,hybrid_completion_rate,unit_provyear,,,,,,,,,,,error: too few observations
+village,full,any_transfer_out_v,hybrid_started_t,unit_year,0.3679617963483652,0.1453932969175718,0.011380173554208499,,,0.0,212.0,31.0,29.0,0.572992700729927,ok
+village,full,any_transfer_out_v,hybrid_started_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+village,full,any_transfer_out_v,hybrid_rate_any_t,unit_year,0.03544577396789782,0.09092418056651416,0.696655746611081,,,0.0,235.0,34.0,32.0,0.572992700729927,ok
+village,full,any_transfer_out_v,hybrid_rate_any_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+village,full,any_transfer_out_v,hybrid_rate_mid_t,unit_year,0.6276185169132972,0.33833831270698794,0.06359582694902749,,,0.0,44.0,9.0,8.0,0.572992700729927,ok
+village,full,any_transfer_out_v,hybrid_rate_mid_t,unit_provyear,,,,,,,,,,,error: too few observations
+village,full,any_transfer_out_v,hybrid_rate_high_t,unit_year,0.34843934179223973,0.23900196302949694,0.1448699773671973,,,0.0,44.0,9.0,8.0,0.572992700729927,ok
+village,full,any_transfer_out_v,hybrid_rate_high_t,unit_provyear,,,,,,,,,,,error: too few observations
+village,full,any_transfer_out_v,hybrid_completed_t,unit_year,0.33218051377188657,0.278252454966277,0.2325523686487745,,,0.0,57.0,10.0,8.0,0.572992700729927,ok
+village,full,any_transfer_out_v,hybrid_completed_t,unit_provyear,,,,,,,,,,,error: too few observations
+village,full,any_transfer_out_v,hybrid_completion_rate,unit_year,0.6126011577058831,0.3316144972436551,0.06469943739806919,,,0.0,44.0,9.0,8.0,0.572992700729927,ok
+village,full,any_transfer_out_v,hybrid_completion_rate,unit_provyear,,,,,,,,,,,error: too few observations
+village,full,asinh_transfer_out_area_zfill,hybrid_started_t,unit_year,2.004104410750416,0.8847808585725232,0.02350742511897191,,,0.0,212.0,31.0,29.0,3.430969638009364,ok
+village,full,asinh_transfer_out_area_zfill,hybrid_started_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+village,full,asinh_transfer_out_area_zfill,hybrid_rate_any_t,unit_year,-0.28873613946229376,0.644014622896082,0.6539093791002473,,,0.0,235.0,34.0,32.0,3.430969638009364,ok
+village,full,asinh_transfer_out_area_zfill,hybrid_rate_any_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+village,full,asinh_transfer_out_area_zfill,hybrid_rate_mid_t,unit_year,4.092442157313207,2.7513583944609987,0.13690232015940026,,,0.0,44.0,9.0,8.0,3.430969638009364,ok
+village,full,asinh_transfer_out_area_zfill,hybrid_rate_mid_t,unit_provyear,,,,,,,,,,,error: too few observations
+village,full,asinh_transfer_out_area_zfill,hybrid_rate_high_t,unit_year,2.3090157556034625,1.7575433600371406,0.18892208095961638,,,0.0,44.0,9.0,8.0,3.430969638009364,ok
+village,full,asinh_transfer_out_area_zfill,hybrid_rate_high_t,unit_provyear,,,,,,,,,,,error: too few observations
+village,full,asinh_transfer_out_area_zfill,hybrid_completed_t,unit_year,2.01860460037354,2.286723895020006,0.3773715776677913,,,0.0,57.0,10.0,8.0,3.430969638009364,ok
+village,full,asinh_transfer_out_area_zfill,hybrid_completed_t,unit_provyear,,,,,,,,,,,error: too few observations
+village,full,asinh_transfer_out_area_zfill,hybrid_completion_rate,unit_year,4.00564533824267,2.6843108716412445,0.13563533337445846,,,0.0,44.0,9.0,8.0,3.430969638009364,ok
+village,full,asinh_transfer_out_area_zfill,hybrid_completion_rate,unit_provyear,,,,,,,,,,,error: too few observations
+village,full,asinh_market_volume_area_zfill,hybrid_started_t,unit_year,1.9157156476952248,0.9183824612394514,0.03698159857549126,,,0.0,212.0,31.0,29.0,3.70940112870931,ok
+village,full,asinh_market_volume_area_zfill,hybrid_started_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+village,full,asinh_market_volume_area_zfill,hybrid_rate_any_t,unit_year,-0.2698950993604041,0.6533687566592344,0.6795462826592049,,,0.0,235.0,34.0,32.0,3.70940112870931,ok
+village,full,asinh_market_volume_area_zfill,hybrid_rate_any_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+village,full,asinh_market_volume_area_zfill,hybrid_rate_mid_t,unit_year,3.6031275849628885,2.78468712266681,0.19569736964246187,,,0.0,44.0,9.0,8.0,3.70940112870931,ok
+village,full,asinh_market_volume_area_zfill,hybrid_rate_mid_t,unit_provyear,,,,,,,,,,,error: too few observations
+village,full,asinh_market_volume_area_zfill,hybrid_rate_high_t,unit_year,2.0398759396615254,1.7177003650454612,0.23500595703838345,,,0.0,44.0,9.0,8.0,3.70940112870931,ok
+village,full,asinh_market_volume_area_zfill,hybrid_rate_high_t,unit_provyear,,,,,,,,,,,error: too few observations
+village,full,asinh_market_volume_area_zfill,hybrid_completed_t,unit_year,1.7715179907379826,2.1770264740355234,0.4157980020973352,,,0.0,57.0,10.0,8.0,3.70940112870931,ok
+village,full,asinh_market_volume_area_zfill,hybrid_completed_t,unit_provyear,,,,,,,,,,,error: too few observations
+village,full,asinh_market_volume_area_zfill,hybrid_completion_rate,unit_year,3.5287411923951826,2.715527196374556,0.19378330556642964,,,0.0,44.0,9.0,8.0,3.70940112870931,ok
+village,full,asinh_market_volume_area_zfill,hybrid_completion_rate,unit_provyear,,,,,,,,,,,error: too few observations
+village,full,birth_rate,hybrid_started_t,unit_year,0.02322401723236727,0.02362321417196302,0.32555748727508027,,,0.0,175.0,28.0,26.0,0.08982330729038938,ok
+village,full,birth_rate,hybrid_started_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+village,full,birth_rate,hybrid_rate_any_t,unit_year,0.00041683085874737386,0.01123438974919601,0.9704027880506507,,,0.0,198.0,31.0,29.0,0.08982330729038938,ok
+village,full,birth_rate,hybrid_rate_any_t,unit_provyear,,,,,,,,,,,error: no regressors after FE
+village,full,birth_rate,hybrid_rate_mid_t,unit_year,0.05913966463155711,0.058533440458923,0.312324335971089,,,0.0,34.0,7.0,6.0,0.08982330729038938,ok
+village,full,birth_rate,hybrid_rate_mid_t,unit_provyear,,,,,,,,,,,error: too few observations
+village,full,birth_rate,hybrid_rate_high_t,unit_year,0.022413541055614397,0.049415235955601926,0.650134380524443,,,0.0,34.0,7.0,6.0,0.08982330729038938,ok
+village,full,birth_rate,hybrid_rate_high_t,unit_provyear,,,,,,,,,,,error: too few observations
+village,full,birth_rate,hybrid_completed_t,unit_year,,,,,,,,,,,error: too few observations
+village,full,birth_rate,hybrid_completed_t,unit_provyear,,,,,,,,,,,error: too few observations
+village,full,birth_rate,hybrid_completion_rate,unit_year,0.054230185759324256,0.05632241840126824,0.33562151061249623,,,0.0,34.0,7.0,6.0,0.08982330729038938,ok
+village,full,birth_rate,hybrid_completion_rate,unit_provyear,,,,,,,,,,,error: too few observations

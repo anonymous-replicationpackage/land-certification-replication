@@ -1,0 +1,8 @@
+source,expected_relative_path,description
+clds,data/topjournal_rebuild/clds/CLDS_hh_mechanism_panel_with_indivbridge_20260416.dta,Restricted CLDS household panel with constructed mechanism variables
+clds,data/topjournal_rebuild/clds/CLDS_hh_mechanism_panel_with_rightsgap_20260415.dta,Restricted CLDS household panel with baseline rights-gap measures
+clds,data/topjournal_rebuild/clds/CLDS_hh_bridge_outcomes_individual_20260416.dta,Restricted CLDS individual-bridge outcome file
+fobs,data/topjournal_rebuild/fobs/fobs_household_analysis_panel_hybrid_admin_20260415.dta,Restricted FOBS household panel matched to administrative rollout measures
+fobs,data/topjournal_rebuild/fobs/fobs_household_analysis_panel_main.dta,Restricted FOBS household analysis panel
+fobs,data/topjournal_rebuild/fobs/fobs_village_analysis_panel_hybrid_admin_20260415.dta,Restricted FOBS village panel matched to administrative rollout measures
+fobs,data/topjournal_rebuild/fobs/fobs_village_marketization_2009_2017.dta,Restricted FOBS village marketization panel

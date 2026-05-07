@@ -1,0 +1,37 @@
+﻿risk_proxy,outcome,term,b,se,p,N,villages,counties,status
+native_risk_z,asinh_market_volume_area_zfill,low-risk high-maturity effect,0.31441072406332765,0.5618207336851619,0.5757330679918349,2362,337,328,ok
+native_risk_z,asinh_market_volume_area_zfill,risk interaction,-0.29010196688095347,0.3932642613154183,0.4607108038386549,2362,337,328,ok
+native_risk_z,asinh_market_volume_area_zfill,high-risk total effect,0.024308757182374185,0.5952470232611691,0.9674249656463261,2362,337,328,ok
+native_risk_z,asinh_transfer_in_area_zfill,low-risk high-maturity effect,0.020521480254699114,0.3881700921563719,0.9578376889687259,2362,337,328,ok
+native_risk_z,asinh_transfer_in_area_zfill,risk interaction,0.3369237475285977,0.24942594769515236,0.1767605648627073,2362,337,328,ok
+native_risk_z,asinh_transfer_in_area_zfill,high-risk total effect,0.35744522778329685,0.4281656744590637,0.4038138558362654,2362,337,328,ok
+native_risk_z,any_transfer_in_v,low-risk high-maturity effect,0.07967965075497628,0.084446445877253,0.3453984015463172,2362,337,328,ok
+native_risk_z,any_transfer_in_v,risk interaction,0.030966280663204847,0.045073673227105794,0.4920734011314317,2362,337,328,ok
+native_risk_z,any_transfer_in_v,high-risk total effect,0.11064593141818113,0.08015629315150247,0.16747049072178566,2362,337,328,ok
+native_risk_z,birth_rate,low-risk high-maturity effect,-0.013115739943986548,0.022447616604964724,0.5590305518643631,2139,332,324,ok
+native_risk_z,birth_rate,risk interaction,0.007619244621523178,0.006862993759224089,0.26691605743388014,2139,332,324,ok
+native_risk_z,birth_rate,high-risk total effect,-0.00549649532246337,0.01867599334166678,0.7685225161675954,2139,332,324,ok
+risk_transferout_z,asinh_market_volume_area_zfill,low-risk high-maturity effect,-0.07449074710765624,1.7086725671162242,0.9652266931183066,1856,260,258,ok
+risk_transferout_z,asinh_market_volume_area_zfill,risk interaction,-1.2031507167150899,5.376962628051164,0.8229438305217989,1856,260,258,ok
+risk_transferout_z,asinh_market_volume_area_zfill,high-risk total effect,-1.277641463822746,7.069539955566328,0.8565835618291993,1856,260,258,ok
+risk_transferout_z,asinh_transfer_in_area_zfill,low-risk high-maturity effect,-1.4623826509342286,1.2802736752672927,0.25335334908952334,1856,260,258,ok
+risk_transferout_z,asinh_transfer_in_area_zfill,risk interaction,-2.7777641087274185,3.420531397507474,0.4167425461656161,1856,260,258,ok
+risk_transferout_z,asinh_transfer_in_area_zfill,high-risk total effect,-4.240146759661647,4.668583210893454,0.363756781615857,1856,260,258,ok
+risk_transferout_z,any_transfer_in_v,low-risk high-maturity effect,-0.43901327833151926,0.23688291645421192,0.0638404783038698,1856,260,258,ok
+risk_transferout_z,any_transfer_in_v,risk interaction,-1.1242302534889592,0.6779550699972968,0.09726366599044986,1856,260,258,ok
+risk_transferout_z,any_transfer_in_v,high-risk total effect,-1.5632435318204785,0.9083539647952328,0.08525754467161482,1856,260,258,ok
+risk_transferout_z,birth_rate,low-risk high-maturity effect,-0.02420862695131578,0.025571595027217075,0.3437917115361948,1714,258,256,ok
+risk_transferout_z,birth_rate,risk interaction,-0.07001104849978412,0.06253765584957931,0.2629259174580455,1714,258,256,ok
+risk_transferout_z,birth_rate,high-risk total effect,-0.09421967545109991,0.08406596334117514,0.2623803795551046,1714,258,256,ok
+risk_dispute_z,asinh_market_volume_area_zfill,low-risk high-maturity effect,0.847763607733272,0.5721195601967933,0.13839498760920138,1868,266,259,ok
+risk_dispute_z,asinh_market_volume_area_zfill,risk interaction,-1.057423191735116,0.6297785921612764,0.09314432746527494,1868,266,259,ok
+risk_dispute_z,asinh_market_volume_area_zfill,high-risk total effect,-0.20965958400184403,0.7858807034794464,0.7896362712056542,1868,266,259,ok
+risk_dispute_z,asinh_transfer_in_area_zfill,low-risk high-maturity effect,0.418220648451901,0.41807842116077115,0.31714590244393914,1868,266,259,ok
+risk_dispute_z,asinh_transfer_in_area_zfill,risk interaction,0.26580378773163904,0.47666615998396944,0.5770964403702503,1868,266,259,ok
+risk_dispute_z,asinh_transfer_in_area_zfill,high-risk total effect,0.68402443618354,0.6657320345867483,0.30419585189185117,1868,266,259,ok
+risk_dispute_z,any_transfer_in_v,low-risk high-maturity effect,0.12426105144049668,0.10415033835012996,0.232832908287243,1868,266,259,ok
+risk_dispute_z,any_transfer_in_v,risk interaction,0.02949655356555139,0.10777731954941565,0.7843301441441433,1868,266,259,ok
+risk_dispute_z,any_transfer_in_v,high-risk total effect,0.15375760500604807,0.12834746930011176,0.2309250951701387,1868,266,259,ok
+risk_dispute_z,birth_rate,low-risk high-maturity effect,-0.011314516339690788,0.026732204527071125,0.6721098471371306,1717,264,258,ok
+risk_dispute_z,birth_rate,risk interaction,0.015570136777520258,0.00977048209038558,0.11102802823756125,1717,264,258,ok
+risk_dispute_z,birth_rate,high-risk total effect,0.0042556204378294705,0.020735376041547522,0.8373886935707299,1717,264,258,ok

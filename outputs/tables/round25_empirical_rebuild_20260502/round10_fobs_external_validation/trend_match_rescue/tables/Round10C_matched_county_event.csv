@@ -1,0 +1,5 @@
+﻿outcome,spec,event_term,status
+asinh_operated_area_end,county_year,model,error: 'ever_high'
+asinh_operated_area_end,county_provyear,model,error: 'ever_high'
+asinh_market_volume_area_zfill,county_year,model,error: 'ever_high'
+asinh_market_volume_area_zfill,county_provyear,model,error: 'ever_high'

@@ -1,0 +1,4 @@
+﻿sample,outcome,treat,wild_p_399,wild_t,reps
+full,asinh_operated_area_end,adm_high_t,0.0075,3.154637851510093,399
+overlap,asinh_operated_area_end,adm_high_t,0.005,3.6027252906126708,399
+long,asinh_operated_area_end,adm_high_t,0.02,3.2425261229850824,399

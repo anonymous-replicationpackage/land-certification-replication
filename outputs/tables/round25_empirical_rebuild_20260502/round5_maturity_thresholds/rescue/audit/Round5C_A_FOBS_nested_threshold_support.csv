@@ -1,0 +1,10 @@
+sample,item,rows,households,counties,positive_rows,positive_hh,positive_counties
+full,mature_any,11352,1952,31,2586,723,23
+full,mature_mid,11352,1952,31,369,307,19
+full,mature_high,11352,1952,31,301,293,18
+overlap,mature_any,3708,501,30,963,369,22
+overlap,mature_mid,3708,501,30,349,287,18
+overlap,mature_high,3708,501,30,281,273,17
+long,mature_any,2287,276,20,586,217,15
+long,mature_mid,2287,276,20,210,170,12
+long,mature_high,2287,276,20,178,170,12

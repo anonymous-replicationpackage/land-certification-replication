@@ -1,0 +1,10 @@
+﻿controls,sample,future_group,tests,share_p_gt_10,min_p,median_p,treated_counties_median
+unconditional,full,future_any,8,1.0,0.9999998518245637,0.9999999633584762,21.0
+unconditional,overlap,future_any,8,1.0,0.9999995436230213,0.9999999227843395,21.0
+unconditional,long,future_any,8,0.0,0.0,0.0,14.0
+conditional_base2009_by_year,full,future_high,8,0.0,,,17.0
+conditional_base2009_by_year,full,future_any,8,1.0,0.9999997195033542,0.9999998917829702,21.0
+conditional_base2009_by_year,overlap,future_high,8,0.0,,,17.0
+conditional_base2009_by_year,overlap,future_any,8,1.0,0.999999208927374,0.9999998167928119,21.0
+conditional_base2009_by_year,long,future_high,8,0.0,,,12.0
+conditional_base2009_by_year,long,future_any,8,1.0,0.13827464688431904,0.33432423756421603,14.0

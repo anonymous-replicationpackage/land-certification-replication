@@ -1,0 +1,385 @@
+﻿sample,future_group,test,outcome,fe,controls,b,se,p,N,counties,treated_counties,status
+full,future_high,linear_2009_2013,any_transfer_in_zfill,hh_year,unconditional,-0.0033115037479903788,0.0055804287587404525,0.5529042181591483,92.0,21.0,17.0,ok
+full,future_high,linear_2009_2013,any_transfer_in_zfill,hh_year,conditional_base2009_by_year,-0.002577433384490441,0.008741451868290185,0.7681070442977099,92.0,21.0,17.0,ok
+full,future_high,linear_2009_2013,any_transfer_in_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+full,future_high,linear_2009_2013,any_transfer_in_zfill,hh_provyear,conditional_base2009_by_year,,,,71.0,17.0,14.0,ok
+full,future_high,linear_2009_2013,asinh_transfer_in_area_zfill,hh_year,unconditional,-0.008735651711370227,0.012612205590308997,0.4885388045309803,92.0,21.0,17.0,ok
+full,future_high,linear_2009_2013,asinh_transfer_in_area_zfill,hh_year,conditional_base2009_by_year,-0.0118554937256058,0.01611932671324401,0.46204527792109173,92.0,21.0,17.0,ok
+full,future_high,linear_2009_2013,asinh_transfer_in_area_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+full,future_high,linear_2009_2013,asinh_transfer_in_area_zfill,hh_provyear,conditional_base2009_by_year,,,,71.0,17.0,14.0,ok
+full,future_high,linear_2009_2013,asinh_operated_area_end,hh_year,unconditional,-0.014193009714042887,0.021870685211147614,0.5163698512640241,91.0,21.0,17.0,ok
+full,future_high,linear_2009_2013,asinh_operated_area_end,hh_year,conditional_base2009_by_year,-0.003916052379894734,0.018803982036810257,0.835028657761114,91.0,21.0,17.0,ok
+full,future_high,linear_2009_2013,asinh_operated_area_end,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+full,future_high,linear_2009_2013,asinh_operated_area_end,hh_provyear,conditional_base2009_by_year,,,,70.0,17.0,14.0,ok
+full,future_high,linear_2009_2013,asinh_market_volume_area_zfill,hh_year,unconditional,-0.019121119255836483,0.02510353677921277,0.4462448946423129,92.0,21.0,17.0,ok
+full,future_high,linear_2009_2013,asinh_market_volume_area_zfill,hh_year,conditional_base2009_by_year,-0.03337524979347847,0.03365933066952662,0.3214121537529533,92.0,21.0,17.0,ok
+full,future_high,linear_2009_2013,asinh_market_volume_area_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+full,future_high,linear_2009_2013,asinh_market_volume_area_zfill,hh_provyear,conditional_base2009_by_year,,,,71.0,17.0,14.0,ok
+full,future_high,linear_2009_2014,any_transfer_in_zfill,hh_year,unconditional,-0.0022024982945415433,0.0029783172501617323,0.45959677769640184,110.0,21.0,17.0,ok
+full,future_high,linear_2009_2014,any_transfer_in_zfill,hh_year,conditional_base2009_by_year,-0.0023306141690638458,0.0033047085826611506,0.48066061224346235,110.0,21.0,17.0,ok
+full,future_high,linear_2009_2014,any_transfer_in_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+full,future_high,linear_2009_2014,any_transfer_in_zfill,hh_provyear,conditional_base2009_by_year,,,,84.0,17.0,14.0,ok
+full,future_high,linear_2009_2014,asinh_transfer_in_area_zfill,hh_year,unconditional,-0.0074985927894606706,0.008596405052439913,0.38304799475701523,110.0,21.0,17.0,ok
+full,future_high,linear_2009_2014,asinh_transfer_in_area_zfill,hh_year,conditional_base2009_by_year,-0.01262657206433328,0.007763244100614151,0.10385276515759309,110.0,21.0,17.0,ok
+full,future_high,linear_2009_2014,asinh_transfer_in_area_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+full,future_high,linear_2009_2014,asinh_transfer_in_area_zfill,hh_provyear,conditional_base2009_by_year,,,,84.0,17.0,14.0,ok
+full,future_high,linear_2009_2014,asinh_operated_area_end,hh_year,unconditional,-0.0652301629838346,0.04354082951034494,0.13409744923807368,109.0,21.0,17.0,ok
+full,future_high,linear_2009_2014,asinh_operated_area_end,hh_year,conditional_base2009_by_year,-0.04063843022300565,0.046746233991134215,0.38466049833224714,109.0,21.0,17.0,ok
+full,future_high,linear_2009_2014,asinh_operated_area_end,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+full,future_high,linear_2009_2014,asinh_operated_area_end,hh_provyear,conditional_base2009_by_year,,,,83.0,17.0,14.0,ok
+full,future_high,linear_2009_2014,asinh_market_volume_area_zfill,hh_year,unconditional,-0.022294835267139365,0.023775857634752547,0.34839398646918485,110.0,21.0,17.0,ok
+full,future_high,linear_2009_2014,asinh_market_volume_area_zfill,hh_year,conditional_base2009_by_year,-0.05928848981609491,0.030805631440121006,0.05427953505691077,110.0,21.0,17.0,ok
+full,future_high,linear_2009_2014,asinh_market_volume_area_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+full,future_high,linear_2009_2014,asinh_market_volume_area_zfill,hh_provyear,conditional_base2009_by_year,,,,84.0,17.0,14.0,ok
+full,future_high,placebo_post2013,any_transfer_in_zfill,hh_year,unconditional,-0.005611407035161379,0.006932277725473492,0.4182501452095905,110.0,21.0,17.0,ok
+full,future_high,placebo_post2013,any_transfer_in_zfill,hh_year,conditional_base2009_by_year,-0.0066035164345935315,0.0148902958975035,0.6574201359178801,110.0,21.0,17.0,ok
+full,future_high,placebo_post2013,any_transfer_in_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+full,future_high,placebo_post2013,any_transfer_in_zfill,hh_provyear,conditional_base2009_by_year,,,,84.0,17.0,14.0,ok
+full,future_high,placebo_post2013,asinh_transfer_in_area_zfill,hh_year,unconditional,-0.019606297522489755,0.021093051752847834,0.3526225125557265,110.0,21.0,17.0,ok
+full,future_high,placebo_post2013,asinh_transfer_in_area_zfill,hh_year,conditional_base2009_by_year,-0.029829278353483688,0.01757657059677507,0.08967689164100731,110.0,21.0,17.0,ok
+full,future_high,placebo_post2013,asinh_transfer_in_area_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+full,future_high,placebo_post2013,asinh_transfer_in_area_zfill,hh_provyear,conditional_base2009_by_year,,,,84.0,17.0,14.0,ok
+full,future_high,placebo_post2013,asinh_operated_area_end,hh_year,unconditional,-0.255287147422303,0.16599205755875074,0.12406133775566747,109.0,21.0,17.0,ok
+full,future_high,placebo_post2013,asinh_operated_area_end,hh_year,conditional_base2009_by_year,-0.19057623632108342,0.20248750648985,0.3466150407499897,109.0,21.0,17.0,ok
+full,future_high,placebo_post2013,asinh_operated_area_end,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+full,future_high,placebo_post2013,asinh_operated_area_end,hh_provyear,conditional_base2009_by_year,,,,83.0,17.0,14.0,ok
+full,future_high,placebo_post2013,asinh_market_volume_area_zfill,hh_year,unconditional,-0.062017119762107865,0.07514992428807406,0.40923235535439717,110.0,21.0,17.0,ok
+full,future_high,placebo_post2013,asinh_market_volume_area_zfill,hh_year,conditional_base2009_by_year,-0.20478835625915026,0.10575337568126808,0.05281002817479905,110.0,21.0,17.0,ok
+full,future_high,placebo_post2013,asinh_market_volume_area_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+full,future_high,placebo_post2013,asinh_market_volume_area_zfill,hh_provyear,conditional_base2009_by_year,,,,84.0,17.0,14.0,ok
+full,future_high,placebo_post2014,any_transfer_in_zfill,hh_year,unconditional,-0.005999033669713748,0.007743916013927265,0.43853054171499417,110.0,21.0,17.0,ok
+full,future_high,placebo_post2014,any_transfer_in_zfill,hh_year,conditional_base2009_by_year,-0.011431253025589136,0.018011465883134344,0.5256467068443342,110.0,21.0,17.0,ok
+full,future_high,placebo_post2014,any_transfer_in_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+full,future_high,placebo_post2014,any_transfer_in_zfill,hh_provyear,conditional_base2009_by_year,,,,84.0,17.0,14.0,ok
+full,future_high,placebo_post2014,asinh_transfer_in_area_zfill,hh_year,unconditional,-0.02261643306845406,0.02394038473739364,0.34481308932407184,110.0,21.0,17.0,ok
+full,future_high,placebo_post2014,asinh_transfer_in_area_zfill,hh_year,conditional_base2009_by_year,-0.04421987026215066,0.014186339662299948,0.0018265572827259702,110.0,21.0,17.0,ok
+full,future_high,placebo_post2014,asinh_transfer_in_area_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+full,future_high,placebo_post2014,asinh_transfer_in_area_zfill,hh_provyear,conditional_base2009_by_year,,,,84.0,17.0,14.0,ok
+full,future_high,placebo_post2014,asinh_operated_area_end,hh_year,unconditional,-0.30521917609244037,0.1817649291876595,0.09311360041303327,109.0,21.0,17.0,ok
+full,future_high,placebo_post2014,asinh_operated_area_end,hh_year,conditional_base2009_by_year,-0.22153151812794586,0.2534450140831352,0.38207404332573014,109.0,21.0,17.0,ok
+full,future_high,placebo_post2014,asinh_operated_area_end,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+full,future_high,placebo_post2014,asinh_operated_area_end,hh_provyear,conditional_base2009_by_year,,,,83.0,17.0,14.0,ok
+full,future_high,placebo_post2014,asinh_market_volume_area_zfill,hh_year,unconditional,-0.07950400582858477,0.08452905331031176,0.3469342734296669,110.0,21.0,17.0,ok
+full,future_high,placebo_post2014,asinh_market_volume_area_zfill,hh_year,conditional_base2009_by_year,-0.24353250174830307,0.1114336155318624,0.028855929553293514,110.0,21.0,17.0,ok
+full,future_high,placebo_post2014,asinh_market_volume_area_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+full,future_high,placebo_post2014,asinh_market_volume_area_zfill,hh_provyear,conditional_base2009_by_year,,,,84.0,17.0,14.0,ok
+overlap,future_high,linear_2009_2013,any_transfer_in_zfill,hh_year,unconditional,,,,,,,error: too few observations
+overlap,future_high,linear_2009_2013,any_transfer_in_zfill,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_high,linear_2009_2013,any_transfer_in_zfill,hh_provyear,unconditional,,,,,,,error: too few observations
+overlap,future_high,linear_2009_2013,any_transfer_in_zfill,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_high,linear_2009_2013,asinh_transfer_in_area_zfill,hh_year,unconditional,,,,,,,error: too few observations
+overlap,future_high,linear_2009_2013,asinh_transfer_in_area_zfill,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_high,linear_2009_2013,asinh_transfer_in_area_zfill,hh_provyear,unconditional,,,,,,,error: too few observations
+overlap,future_high,linear_2009_2013,asinh_transfer_in_area_zfill,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_high,linear_2009_2013,asinh_operated_area_end,hh_year,unconditional,,,,,,,error: too few observations
+overlap,future_high,linear_2009_2013,asinh_operated_area_end,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_high,linear_2009_2013,asinh_operated_area_end,hh_provyear,unconditional,,,,,,,error: too few observations
+overlap,future_high,linear_2009_2013,asinh_operated_area_end,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_high,linear_2009_2013,asinh_market_volume_area_zfill,hh_year,unconditional,,,,,,,error: too few observations
+overlap,future_high,linear_2009_2013,asinh_market_volume_area_zfill,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_high,linear_2009_2013,asinh_market_volume_area_zfill,hh_provyear,unconditional,,,,,,,error: too few observations
+overlap,future_high,linear_2009_2013,asinh_market_volume_area_zfill,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_high,linear_2009_2014,any_transfer_in_zfill,hh_year,unconditional,,,,,,,error: too few observations
+overlap,future_high,linear_2009_2014,any_transfer_in_zfill,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_high,linear_2009_2014,any_transfer_in_zfill,hh_provyear,unconditional,,,,,,,error: too few observations
+overlap,future_high,linear_2009_2014,any_transfer_in_zfill,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_high,linear_2009_2014,asinh_transfer_in_area_zfill,hh_year,unconditional,,,,,,,error: too few observations
+overlap,future_high,linear_2009_2014,asinh_transfer_in_area_zfill,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_high,linear_2009_2014,asinh_transfer_in_area_zfill,hh_provyear,unconditional,,,,,,,error: too few observations
+overlap,future_high,linear_2009_2014,asinh_transfer_in_area_zfill,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_high,linear_2009_2014,asinh_operated_area_end,hh_year,unconditional,,,,,,,error: too few observations
+overlap,future_high,linear_2009_2014,asinh_operated_area_end,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_high,linear_2009_2014,asinh_operated_area_end,hh_provyear,unconditional,,,,,,,error: too few observations
+overlap,future_high,linear_2009_2014,asinh_operated_area_end,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_high,linear_2009_2014,asinh_market_volume_area_zfill,hh_year,unconditional,,,,,,,error: too few observations
+overlap,future_high,linear_2009_2014,asinh_market_volume_area_zfill,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_high,linear_2009_2014,asinh_market_volume_area_zfill,hh_provyear,unconditional,,,,,,,error: too few observations
+overlap,future_high,linear_2009_2014,asinh_market_volume_area_zfill,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_high,placebo_post2013,any_transfer_in_zfill,hh_year,unconditional,,,,,,,error: too few observations
+overlap,future_high,placebo_post2013,any_transfer_in_zfill,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_high,placebo_post2013,any_transfer_in_zfill,hh_provyear,unconditional,,,,,,,error: too few observations
+overlap,future_high,placebo_post2013,any_transfer_in_zfill,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_high,placebo_post2013,asinh_transfer_in_area_zfill,hh_year,unconditional,,,,,,,error: too few observations
+overlap,future_high,placebo_post2013,asinh_transfer_in_area_zfill,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_high,placebo_post2013,asinh_transfer_in_area_zfill,hh_provyear,unconditional,,,,,,,error: too few observations
+overlap,future_high,placebo_post2013,asinh_transfer_in_area_zfill,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_high,placebo_post2013,asinh_operated_area_end,hh_year,unconditional,,,,,,,error: too few observations
+overlap,future_high,placebo_post2013,asinh_operated_area_end,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_high,placebo_post2013,asinh_operated_area_end,hh_provyear,unconditional,,,,,,,error: too few observations
+overlap,future_high,placebo_post2013,asinh_operated_area_end,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_high,placebo_post2013,asinh_market_volume_area_zfill,hh_year,unconditional,,,,,,,error: too few observations
+overlap,future_high,placebo_post2013,asinh_market_volume_area_zfill,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_high,placebo_post2013,asinh_market_volume_area_zfill,hh_provyear,unconditional,,,,,,,error: too few observations
+overlap,future_high,placebo_post2013,asinh_market_volume_area_zfill,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_high,placebo_post2014,any_transfer_in_zfill,hh_year,unconditional,,,,,,,error: too few observations
+overlap,future_high,placebo_post2014,any_transfer_in_zfill,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_high,placebo_post2014,any_transfer_in_zfill,hh_provyear,unconditional,,,,,,,error: too few observations
+overlap,future_high,placebo_post2014,any_transfer_in_zfill,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_high,placebo_post2014,asinh_transfer_in_area_zfill,hh_year,unconditional,,,,,,,error: too few observations
+overlap,future_high,placebo_post2014,asinh_transfer_in_area_zfill,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_high,placebo_post2014,asinh_transfer_in_area_zfill,hh_provyear,unconditional,,,,,,,error: too few observations
+overlap,future_high,placebo_post2014,asinh_transfer_in_area_zfill,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_high,placebo_post2014,asinh_operated_area_end,hh_year,unconditional,,,,,,,error: too few observations
+overlap,future_high,placebo_post2014,asinh_operated_area_end,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_high,placebo_post2014,asinh_operated_area_end,hh_provyear,unconditional,,,,,,,error: too few observations
+overlap,future_high,placebo_post2014,asinh_operated_area_end,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_high,placebo_post2014,asinh_market_volume_area_zfill,hh_year,unconditional,,,,,,,error: too few observations
+overlap,future_high,placebo_post2014,asinh_market_volume_area_zfill,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_high,placebo_post2014,asinh_market_volume_area_zfill,hh_provyear,unconditional,,,,,,,error: too few observations
+overlap,future_high,placebo_post2014,asinh_market_volume_area_zfill,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_high,linear_2009_2013,any_transfer_in_zfill,hh_year,unconditional,,,,,,,error: too few observations
+long,future_high,linear_2009_2013,any_transfer_in_zfill,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_high,linear_2009_2013,any_transfer_in_zfill,hh_provyear,unconditional,,,,,,,error: too few observations
+long,future_high,linear_2009_2013,any_transfer_in_zfill,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_high,linear_2009_2013,asinh_transfer_in_area_zfill,hh_year,unconditional,,,,,,,error: too few observations
+long,future_high,linear_2009_2013,asinh_transfer_in_area_zfill,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_high,linear_2009_2013,asinh_transfer_in_area_zfill,hh_provyear,unconditional,,,,,,,error: too few observations
+long,future_high,linear_2009_2013,asinh_transfer_in_area_zfill,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_high,linear_2009_2013,asinh_operated_area_end,hh_year,unconditional,,,,,,,error: too few observations
+long,future_high,linear_2009_2013,asinh_operated_area_end,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_high,linear_2009_2013,asinh_operated_area_end,hh_provyear,unconditional,,,,,,,error: too few observations
+long,future_high,linear_2009_2013,asinh_operated_area_end,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_high,linear_2009_2013,asinh_market_volume_area_zfill,hh_year,unconditional,,,,,,,error: too few observations
+long,future_high,linear_2009_2013,asinh_market_volume_area_zfill,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_high,linear_2009_2013,asinh_market_volume_area_zfill,hh_provyear,unconditional,,,,,,,error: too few observations
+long,future_high,linear_2009_2013,asinh_market_volume_area_zfill,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_high,linear_2009_2014,any_transfer_in_zfill,hh_year,unconditional,,,,,,,error: too few observations
+long,future_high,linear_2009_2014,any_transfer_in_zfill,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_high,linear_2009_2014,any_transfer_in_zfill,hh_provyear,unconditional,,,,,,,error: too few observations
+long,future_high,linear_2009_2014,any_transfer_in_zfill,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_high,linear_2009_2014,asinh_transfer_in_area_zfill,hh_year,unconditional,,,,,,,error: too few observations
+long,future_high,linear_2009_2014,asinh_transfer_in_area_zfill,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_high,linear_2009_2014,asinh_transfer_in_area_zfill,hh_provyear,unconditional,,,,,,,error: too few observations
+long,future_high,linear_2009_2014,asinh_transfer_in_area_zfill,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_high,linear_2009_2014,asinh_operated_area_end,hh_year,unconditional,,,,,,,error: too few observations
+long,future_high,linear_2009_2014,asinh_operated_area_end,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_high,linear_2009_2014,asinh_operated_area_end,hh_provyear,unconditional,,,,,,,error: too few observations
+long,future_high,linear_2009_2014,asinh_operated_area_end,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_high,linear_2009_2014,asinh_market_volume_area_zfill,hh_year,unconditional,,,,,,,error: too few observations
+long,future_high,linear_2009_2014,asinh_market_volume_area_zfill,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_high,linear_2009_2014,asinh_market_volume_area_zfill,hh_provyear,unconditional,,,,,,,error: too few observations
+long,future_high,linear_2009_2014,asinh_market_volume_area_zfill,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_high,placebo_post2013,any_transfer_in_zfill,hh_year,unconditional,,,,,,,error: too few observations
+long,future_high,placebo_post2013,any_transfer_in_zfill,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_high,placebo_post2013,any_transfer_in_zfill,hh_provyear,unconditional,,,,,,,error: too few observations
+long,future_high,placebo_post2013,any_transfer_in_zfill,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_high,placebo_post2013,asinh_transfer_in_area_zfill,hh_year,unconditional,,,,,,,error: too few observations
+long,future_high,placebo_post2013,asinh_transfer_in_area_zfill,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_high,placebo_post2013,asinh_transfer_in_area_zfill,hh_provyear,unconditional,,,,,,,error: too few observations
+long,future_high,placebo_post2013,asinh_transfer_in_area_zfill,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_high,placebo_post2013,asinh_operated_area_end,hh_year,unconditional,,,,,,,error: too few observations
+long,future_high,placebo_post2013,asinh_operated_area_end,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_high,placebo_post2013,asinh_operated_area_end,hh_provyear,unconditional,,,,,,,error: too few observations
+long,future_high,placebo_post2013,asinh_operated_area_end,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_high,placebo_post2013,asinh_market_volume_area_zfill,hh_year,unconditional,,,,,,,error: too few observations
+long,future_high,placebo_post2013,asinh_market_volume_area_zfill,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_high,placebo_post2013,asinh_market_volume_area_zfill,hh_provyear,unconditional,,,,,,,error: too few observations
+long,future_high,placebo_post2013,asinh_market_volume_area_zfill,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_high,placebo_post2014,any_transfer_in_zfill,hh_year,unconditional,,,,,,,error: too few observations
+long,future_high,placebo_post2014,any_transfer_in_zfill,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_high,placebo_post2014,any_transfer_in_zfill,hh_provyear,unconditional,,,,,,,error: too few observations
+long,future_high,placebo_post2014,any_transfer_in_zfill,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_high,placebo_post2014,asinh_transfer_in_area_zfill,hh_year,unconditional,,,,,,,error: too few observations
+long,future_high,placebo_post2014,asinh_transfer_in_area_zfill,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_high,placebo_post2014,asinh_transfer_in_area_zfill,hh_provyear,unconditional,,,,,,,error: too few observations
+long,future_high,placebo_post2014,asinh_transfer_in_area_zfill,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_high,placebo_post2014,asinh_operated_area_end,hh_year,unconditional,,,,,,,error: too few observations
+long,future_high,placebo_post2014,asinh_operated_area_end,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_high,placebo_post2014,asinh_operated_area_end,hh_provyear,unconditional,,,,,,,error: too few observations
+long,future_high,placebo_post2014,asinh_operated_area_end,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_high,placebo_post2014,asinh_market_volume_area_zfill,hh_year,unconditional,,,,,,,error: too few observations
+long,future_high,placebo_post2014,asinh_market_volume_area_zfill,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_high,placebo_post2014,asinh_market_volume_area_zfill,hh_provyear,unconditional,,,,,,,error: too few observations
+long,future_high,placebo_post2014,asinh_market_volume_area_zfill,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+full,future_any,linear_2009_2013,any_transfer_in_zfill,hh_year,unconditional,-0.002991642912973358,0.005972527308801181,0.6164410330332057,124.0,28.0,21.0,ok
+full,future_any,linear_2009_2013,any_transfer_in_zfill,hh_year,conditional_base2009_by_year,-0.005847371190194228,0.005865113830038604,0.3187767004185016,124.0,28.0,21.0,ok
+full,future_any,linear_2009_2013,any_transfer_in_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+full,future_any,linear_2009_2013,any_transfer_in_zfill,hh_provyear,conditional_base2009_by_year,,,,95.0,22.0,17.0,ok
+full,future_any,linear_2009_2013,asinh_transfer_in_area_zfill,hh_year,unconditional,-0.006009244462596891,0.009811971512176094,0.540246641355369,124.0,28.0,21.0,ok
+full,future_any,linear_2009_2013,asinh_transfer_in_area_zfill,hh_year,conditional_base2009_by_year,-0.011717304455740277,0.009527593505661288,0.21876139524839722,124.0,28.0,21.0,ok
+full,future_any,linear_2009_2013,asinh_transfer_in_area_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+full,future_any,linear_2009_2013,asinh_transfer_in_area_zfill,hh_provyear,conditional_base2009_by_year,,,,95.0,22.0,17.0,ok
+full,future_any,linear_2009_2013,asinh_operated_area_end,hh_year,unconditional,-0.037011972971681635,0.030400462649208305,0.22342141992585574,119.0,27.0,21.0,ok
+full,future_any,linear_2009_2013,asinh_operated_area_end,hh_year,conditional_base2009_by_year,-0.027918564214699376,0.03153455491442914,0.3759773625725874,119.0,27.0,21.0,ok
+full,future_any,linear_2009_2013,asinh_operated_area_end,hh_provyear,unconditional,0.5130111277103424,35331298.80664909,0.9999999884147011,94.0,22.0,17.0,ok
+full,future_any,linear_2009_2013,asinh_operated_area_end,hh_provyear,conditional_base2009_by_year,0.28085984363269145,7905523.240687746,0.999999971653523,94.0,22.0,17.0,ok
+full,future_any,linear_2009_2013,asinh_market_volume_area_zfill,hh_year,unconditional,-0.015555058138485416,0.02179104529989192,0.4753335475246052,124.0,28.0,21.0,ok
+full,future_any,linear_2009_2013,asinh_market_volume_area_zfill,hh_year,conditional_base2009_by_year,-0.02989283537726655,0.02228277980586652,0.17975108933813766,124.0,28.0,21.0,ok
+full,future_any,linear_2009_2013,asinh_market_volume_area_zfill,hh_provyear,unconditional,,,,,,,error: no regressors after FE
+full,future_any,linear_2009_2013,asinh_market_volume_area_zfill,hh_provyear,conditional_base2009_by_year,,,,95.0,22.0,17.0,ok
+full,future_any,linear_2009_2014,any_transfer_in_zfill,hh_year,unconditional,-0.00427532028438701,0.007198361323627247,0.552559161059188,149.0,28.0,21.0,ok
+full,future_any,linear_2009_2014,any_transfer_in_zfill,hh_year,conditional_base2009_by_year,-0.005481538554287589,0.006727159524284837,0.415165612856525,149.0,28.0,21.0,ok
+full,future_any,linear_2009_2014,any_transfer_in_zfill,hh_provyear,unconditional,0.0035840559285134077,422106.45918540814,0.9999999932252568,113.0,22.0,17.0,ok
+full,future_any,linear_2009_2014,any_transfer_in_zfill,hh_provyear,conditional_base2009_by_year,0.02818482928940656,1539512.1994028077,0.9999999853926197,113.0,22.0,17.0,ok
+full,future_any,linear_2009_2014,asinh_transfer_in_area_zfill,hh_year,unconditional,-0.0076426600991737585,0.012255403630393914,0.5328801053907481,149.0,28.0,21.0,ok
+full,future_any,linear_2009_2014,asinh_transfer_in_area_zfill,hh_year,conditional_base2009_by_year,-0.010488584914735366,0.011716101929614801,0.37066510959141963,149.0,28.0,21.0,ok
+full,future_any,linear_2009_2014,asinh_transfer_in_area_zfill,hh_provyear,unconditional,-0.005977360415272415,696734.5865001938,0.9999999931548632,113.0,22.0,17.0,ok
+full,future_any,linear_2009_2014,asinh_transfer_in_area_zfill,hh_provyear,conditional_base2009_by_year,0.011624166127555274,1714254.6070811807,0.9999999945896353,113.0,22.0,17.0,ok
+full,future_any,linear_2009_2014,asinh_operated_area_end,hh_year,unconditional,-0.02680967567183951,0.02906945342779546,0.35639151007082936,143.0,27.0,21.0,ok
+full,future_any,linear_2009_2014,asinh_operated_area_end,hh_year,conditional_base2009_by_year,-0.03190168098341959,0.03645642776806981,0.3815394795025473,143.0,27.0,21.0,ok
+full,future_any,linear_2009_2014,asinh_operated_area_end,hh_provyear,unconditional,0.217573344707489,15031536.299230801,0.9999999884510532,112.0,22.0,17.0,ok
+full,future_any,linear_2009_2014,asinh_operated_area_end,hh_provyear,conditional_base2009_by_year,0.2072033155709505,6428907.457762893,0.9999999742842267,112.0,22.0,17.0,ok
+full,future_any,linear_2009_2014,asinh_market_volume_area_zfill,hh_year,unconditional,-0.01759092381411188,0.023377610282723792,0.4517691483086951,149.0,28.0,21.0,ok
+full,future_any,linear_2009_2014,asinh_market_volume_area_zfill,hh_year,conditional_base2009_by_year,-0.02309187778454194,0.02252683600668898,0.30532400207049337,149.0,28.0,21.0,ok
+full,future_any,linear_2009_2014,asinh_market_volume_area_zfill,hh_provyear,unconditional,0.0002986234612762928,1586748.983781596,0.9999999998498394,113.0,22.0,17.0,ok
+full,future_any,linear_2009_2014,asinh_market_volume_area_zfill,hh_provyear,conditional_base2009_by_year,-0.054728879268880704,1786019.0598649033,0.9999999755504693,113.0,22.0,17.0,ok
+full,future_any,placebo_post2013,any_transfer_in_zfill,hh_year,unconditional,-0.02433834097988414,0.03167377355806604,0.44224557931145814,149.0,28.0,21.0,ok
+full,future_any,placebo_post2013,any_transfer_in_zfill,hh_year,conditional_base2009_by_year,-0.03129753184430735,0.0289593102816518,0.2798120648299298,149.0,28.0,21.0,ok
+full,future_any,placebo_post2013,any_transfer_in_zfill,hh_provyear,unconditional,0.31386494915932417,1688425.9292421276,0.9999998516796071,113.0,22.0,17.0,ok
+full,future_any,placebo_post2013,any_transfer_in_zfill,hh_provyear,conditional_base2009_by_year,0.8373573397078504,6158048.570873943,0.999999891505485,113.0,22.0,17.0,ok
+full,future_any,placebo_post2013,asinh_transfer_in_area_zfill,hh_year,unconditional,-0.04655826753788187,0.05557037093162942,0.4021287783765868,149.0,28.0,21.0,ok
+full,future_any,placebo_post2013,asinh_transfer_in_area_zfill,hh_year,conditional_base2009_by_year,-0.056777111841497266,0.05342699672990295,0.28791596257106744,149.0,28.0,21.0,ok
+full,future_any,placebo_post2013,asinh_transfer_in_area_zfill,hh_provyear,unconditional,0.4178080908022821,2786938.1980150817,0.9999998803839191,113.0,22.0,17.0,ok
+full,future_any,placebo_post2013,asinh_transfer_in_area_zfill,hh_provyear,conditional_base2009_by_year,0.6933588756620275,6857018.201788921,0.9999999193205668,113.0,22.0,17.0,ok
+full,future_any,placebo_post2013,asinh_operated_area_end,hh_year,unconditional,-0.09640620625904812,0.0891776410503207,0.2796712946745433,143.0,27.0,21.0,ok
+full,future_any,placebo_post2013,asinh_operated_area_end,hh_year,conditional_base2009_by_year,-0.1084403142812318,0.11678594443400109,0.3531280019345724,143.0,27.0,21.0,ok
+full,future_any,placebo_post2013,asinh_operated_area_end,hh_provyear,unconditional,0.35967744141817093,24638292.05649543,0.9999999883522334,112.0,22.0,17.0,ok
+full,future_any,placebo_post2013,asinh_operated_area_end,hh_provyear,conditional_base2009_by_year,0.7511703632771969,10537665.37507297,0.9999999431233376,112.0,22.0,17.0,ok
+full,future_any,placebo_post2013,asinh_market_volume_area_zfill,hh_year,unconditional,-0.09613112134536479,0.09767642732943255,0.3250273443014332,149.0,28.0,21.0,ok
+full,future_any,placebo_post2013,asinh_market_volume_area_zfill,hh_year,conditional_base2009_by_year,-0.11936549873135104,0.0897665734619008,0.18360653807252403,149.0,28.0,21.0,ok
+full,future_any,placebo_post2013,asinh_market_volume_area_zfill,hh_provyear,unconditional,0.7735591791570187,6346995.649199621,0.9999999027554201,113.0,22.0,17.0,ok
+full,future_any,placebo_post2013,asinh_market_volume_area_zfill,hh_provyear,conditional_base2009_by_year,-0.07005926278887525,7144076.248305916,0.9999999921754469,113.0,22.0,17.0,ok
+full,future_any,placebo_post2014,any_transfer_in_zfill,hh_year,unconditional,-0.01794140910256524,0.030531952547804577,0.5567824768819658,149.0,28.0,21.0,ok
+full,future_any,placebo_post2014,any_transfer_in_zfill,hh_year,conditional_base2009_by_year,-0.016087409576139623,0.026332199912054148,0.5412389163171201,149.0,28.0,21.0,ok
+full,future_any,placebo_post2014,any_transfer_in_zfill,hh_provyear,unconditional,0.31386494915932417,1688425.9292421276,0.9999998516796071,113.0,22.0,17.0,ok
+full,future_any,placebo_post2014,any_transfer_in_zfill,hh_provyear,conditional_base2009_by_year,0.8373573387574289,6158048.570873985,0.9999998915054851,113.0,22.0,17.0,ok
+full,future_any,placebo_post2014,asinh_transfer_in_area_zfill,hh_year,unconditional,-0.031064129740706242,0.052451611619033826,0.5536874970018602,149.0,28.0,21.0,ok
+full,future_any,placebo_post2014,asinh_transfer_in_area_zfill,hh_year,conditional_base2009_by_year,-0.030290298787911597,0.048165344065430375,0.5294265709632742,149.0,28.0,21.0,ok
+full,future_any,placebo_post2014,asinh_transfer_in_area_zfill,hh_provyear,unconditional,0.4178080908022821,2786938.1980150817,0.9999998803839191,113.0,22.0,17.0,ok
+full,future_any,placebo_post2014,asinh_transfer_in_area_zfill,hh_provyear,conditional_base2009_by_year,0.6933588728341697,6857018.201788983,0.9999999193205671,113.0,22.0,17.0,ok
+full,future_any,placebo_post2014,asinh_operated_area_end,hh_year,unconditional,-0.05195842880738927,0.11529511698678932,0.6522375455193168,143.0,27.0,21.0,ok
+full,future_any,placebo_post2014,asinh_operated_area_end,hh_year,conditional_base2009_by_year,-0.11575377220230187,0.158401816939914,0.46492552666592735,143.0,27.0,21.0,ok
+full,future_any,placebo_post2014,asinh_operated_area_end,hh_provyear,unconditional,0.35967744141817093,24638292.05649543,0.9999999883522334,112.0,22.0,17.0,ok
+full,future_any,placebo_post2014,asinh_operated_area_end,hh_provyear,conditional_base2009_by_year,0.7511703632771969,10537665.375072874,0.9999999431233376,112.0,22.0,17.0,ok
+full,future_any,placebo_post2014,asinh_market_volume_area_zfill,hh_year,unconditional,-0.06894639552832536,0.10133310661654381,0.49625528283084275,149.0,28.0,21.0,ok
+full,future_any,placebo_post2014,asinh_market_volume_area_zfill,hh_year,conditional_base2009_by_year,-0.05457628618021357,0.10163440517884727,0.5912770570523156,149.0,28.0,21.0,ok
+full,future_any,placebo_post2014,asinh_market_volume_area_zfill,hh_provyear,unconditional,0.7735591791570187,6346995.649199621,0.9999999027554201,113.0,22.0,17.0,ok
+full,future_any,placebo_post2014,asinh_market_volume_area_zfill,hh_provyear,conditional_base2009_by_year,-0.07005927210355335,7144076.248306266,0.9999999921754459,113.0,22.0,17.0,ok
+overlap,future_any,linear_2009_2013,any_transfer_in_zfill,hh_year,unconditional,,,,,,,error: too few observations
+overlap,future_any,linear_2009_2013,any_transfer_in_zfill,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_any,linear_2009_2013,any_transfer_in_zfill,hh_provyear,unconditional,,,,,,,error: too few observations
+overlap,future_any,linear_2009_2013,any_transfer_in_zfill,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_any,linear_2009_2013,asinh_transfer_in_area_zfill,hh_year,unconditional,,,,,,,error: too few observations
+overlap,future_any,linear_2009_2013,asinh_transfer_in_area_zfill,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_any,linear_2009_2013,asinh_transfer_in_area_zfill,hh_provyear,unconditional,,,,,,,error: too few observations
+overlap,future_any,linear_2009_2013,asinh_transfer_in_area_zfill,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_any,linear_2009_2013,asinh_operated_area_end,hh_year,unconditional,,,,,,,error: too few observations
+overlap,future_any,linear_2009_2013,asinh_operated_area_end,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_any,linear_2009_2013,asinh_operated_area_end,hh_provyear,unconditional,,,,,,,error: too few observations
+overlap,future_any,linear_2009_2013,asinh_operated_area_end,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_any,linear_2009_2013,asinh_market_volume_area_zfill,hh_year,unconditional,,,,,,,error: too few observations
+overlap,future_any,linear_2009_2013,asinh_market_volume_area_zfill,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_any,linear_2009_2013,asinh_market_volume_area_zfill,hh_provyear,unconditional,,,,,,,error: too few observations
+overlap,future_any,linear_2009_2013,asinh_market_volume_area_zfill,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_any,linear_2009_2014,any_transfer_in_zfill,hh_year,unconditional,,,,,,,error: too few observations
+overlap,future_any,linear_2009_2014,any_transfer_in_zfill,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_any,linear_2009_2014,any_transfer_in_zfill,hh_provyear,unconditional,,,,,,,error: too few observations
+overlap,future_any,linear_2009_2014,any_transfer_in_zfill,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_any,linear_2009_2014,asinh_transfer_in_area_zfill,hh_year,unconditional,,,,,,,error: too few observations
+overlap,future_any,linear_2009_2014,asinh_transfer_in_area_zfill,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_any,linear_2009_2014,asinh_transfer_in_area_zfill,hh_provyear,unconditional,,,,,,,error: too few observations
+overlap,future_any,linear_2009_2014,asinh_transfer_in_area_zfill,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_any,linear_2009_2014,asinh_operated_area_end,hh_year,unconditional,,,,,,,error: too few observations
+overlap,future_any,linear_2009_2014,asinh_operated_area_end,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_any,linear_2009_2014,asinh_operated_area_end,hh_provyear,unconditional,,,,,,,error: too few observations
+overlap,future_any,linear_2009_2014,asinh_operated_area_end,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_any,linear_2009_2014,asinh_market_volume_area_zfill,hh_year,unconditional,,,,,,,error: too few observations
+overlap,future_any,linear_2009_2014,asinh_market_volume_area_zfill,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_any,linear_2009_2014,asinh_market_volume_area_zfill,hh_provyear,unconditional,,,,,,,error: too few observations
+overlap,future_any,linear_2009_2014,asinh_market_volume_area_zfill,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_any,placebo_post2013,any_transfer_in_zfill,hh_year,unconditional,,,,,,,error: too few observations
+overlap,future_any,placebo_post2013,any_transfer_in_zfill,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_any,placebo_post2013,any_transfer_in_zfill,hh_provyear,unconditional,,,,,,,error: too few observations
+overlap,future_any,placebo_post2013,any_transfer_in_zfill,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_any,placebo_post2013,asinh_transfer_in_area_zfill,hh_year,unconditional,,,,,,,error: too few observations
+overlap,future_any,placebo_post2013,asinh_transfer_in_area_zfill,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_any,placebo_post2013,asinh_transfer_in_area_zfill,hh_provyear,unconditional,,,,,,,error: too few observations
+overlap,future_any,placebo_post2013,asinh_transfer_in_area_zfill,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_any,placebo_post2013,asinh_operated_area_end,hh_year,unconditional,,,,,,,error: too few observations
+overlap,future_any,placebo_post2013,asinh_operated_area_end,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_any,placebo_post2013,asinh_operated_area_end,hh_provyear,unconditional,,,,,,,error: too few observations
+overlap,future_any,placebo_post2013,asinh_operated_area_end,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_any,placebo_post2013,asinh_market_volume_area_zfill,hh_year,unconditional,,,,,,,error: too few observations
+overlap,future_any,placebo_post2013,asinh_market_volume_area_zfill,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_any,placebo_post2013,asinh_market_volume_area_zfill,hh_provyear,unconditional,,,,,,,error: too few observations
+overlap,future_any,placebo_post2013,asinh_market_volume_area_zfill,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_any,placebo_post2014,any_transfer_in_zfill,hh_year,unconditional,,,,,,,error: too few observations
+overlap,future_any,placebo_post2014,any_transfer_in_zfill,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_any,placebo_post2014,any_transfer_in_zfill,hh_provyear,unconditional,,,,,,,error: too few observations
+overlap,future_any,placebo_post2014,any_transfer_in_zfill,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_any,placebo_post2014,asinh_transfer_in_area_zfill,hh_year,unconditional,,,,,,,error: too few observations
+overlap,future_any,placebo_post2014,asinh_transfer_in_area_zfill,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_any,placebo_post2014,asinh_transfer_in_area_zfill,hh_provyear,unconditional,,,,,,,error: too few observations
+overlap,future_any,placebo_post2014,asinh_transfer_in_area_zfill,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_any,placebo_post2014,asinh_operated_area_end,hh_year,unconditional,,,,,,,error: too few observations
+overlap,future_any,placebo_post2014,asinh_operated_area_end,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_any,placebo_post2014,asinh_operated_area_end,hh_provyear,unconditional,,,,,,,error: too few observations
+overlap,future_any,placebo_post2014,asinh_operated_area_end,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_any,placebo_post2014,asinh_market_volume_area_zfill,hh_year,unconditional,,,,,,,error: too few observations
+overlap,future_any,placebo_post2014,asinh_market_volume_area_zfill,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+overlap,future_any,placebo_post2014,asinh_market_volume_area_zfill,hh_provyear,unconditional,,,,,,,error: too few observations
+overlap,future_any,placebo_post2014,asinh_market_volume_area_zfill,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_any,linear_2009_2013,any_transfer_in_zfill,hh_year,unconditional,,,,,,,error: too few observations
+long,future_any,linear_2009_2013,any_transfer_in_zfill,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_any,linear_2009_2013,any_transfer_in_zfill,hh_provyear,unconditional,,,,,,,error: too few observations
+long,future_any,linear_2009_2013,any_transfer_in_zfill,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_any,linear_2009_2013,asinh_transfer_in_area_zfill,hh_year,unconditional,,,,,,,error: too few observations
+long,future_any,linear_2009_2013,asinh_transfer_in_area_zfill,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_any,linear_2009_2013,asinh_transfer_in_area_zfill,hh_provyear,unconditional,,,,,,,error: too few observations
+long,future_any,linear_2009_2013,asinh_transfer_in_area_zfill,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_any,linear_2009_2013,asinh_operated_area_end,hh_year,unconditional,,,,,,,error: too few observations
+long,future_any,linear_2009_2013,asinh_operated_area_end,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_any,linear_2009_2013,asinh_operated_area_end,hh_provyear,unconditional,,,,,,,error: too few observations
+long,future_any,linear_2009_2013,asinh_operated_area_end,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_any,linear_2009_2013,asinh_market_volume_area_zfill,hh_year,unconditional,,,,,,,error: too few observations
+long,future_any,linear_2009_2013,asinh_market_volume_area_zfill,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_any,linear_2009_2013,asinh_market_volume_area_zfill,hh_provyear,unconditional,,,,,,,error: too few observations
+long,future_any,linear_2009_2013,asinh_market_volume_area_zfill,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_any,linear_2009_2014,any_transfer_in_zfill,hh_year,unconditional,,,,,,,error: too few observations
+long,future_any,linear_2009_2014,any_transfer_in_zfill,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_any,linear_2009_2014,any_transfer_in_zfill,hh_provyear,unconditional,,,,,,,error: too few observations
+long,future_any,linear_2009_2014,any_transfer_in_zfill,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_any,linear_2009_2014,asinh_transfer_in_area_zfill,hh_year,unconditional,,,,,,,error: too few observations
+long,future_any,linear_2009_2014,asinh_transfer_in_area_zfill,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_any,linear_2009_2014,asinh_transfer_in_area_zfill,hh_provyear,unconditional,,,,,,,error: too few observations
+long,future_any,linear_2009_2014,asinh_transfer_in_area_zfill,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_any,linear_2009_2014,asinh_operated_area_end,hh_year,unconditional,,,,,,,error: too few observations
+long,future_any,linear_2009_2014,asinh_operated_area_end,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_any,linear_2009_2014,asinh_operated_area_end,hh_provyear,unconditional,,,,,,,error: too few observations
+long,future_any,linear_2009_2014,asinh_operated_area_end,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_any,linear_2009_2014,asinh_market_volume_area_zfill,hh_year,unconditional,,,,,,,error: too few observations
+long,future_any,linear_2009_2014,asinh_market_volume_area_zfill,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_any,linear_2009_2014,asinh_market_volume_area_zfill,hh_provyear,unconditional,,,,,,,error: too few observations
+long,future_any,linear_2009_2014,asinh_market_volume_area_zfill,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_any,placebo_post2013,any_transfer_in_zfill,hh_year,unconditional,,,,,,,error: too few observations
+long,future_any,placebo_post2013,any_transfer_in_zfill,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_any,placebo_post2013,any_transfer_in_zfill,hh_provyear,unconditional,,,,,,,error: too few observations
+long,future_any,placebo_post2013,any_transfer_in_zfill,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_any,placebo_post2013,asinh_transfer_in_area_zfill,hh_year,unconditional,,,,,,,error: too few observations
+long,future_any,placebo_post2013,asinh_transfer_in_area_zfill,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_any,placebo_post2013,asinh_transfer_in_area_zfill,hh_provyear,unconditional,,,,,,,error: too few observations
+long,future_any,placebo_post2013,asinh_transfer_in_area_zfill,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_any,placebo_post2013,asinh_operated_area_end,hh_year,unconditional,,,,,,,error: too few observations
+long,future_any,placebo_post2013,asinh_operated_area_end,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_any,placebo_post2013,asinh_operated_area_end,hh_provyear,unconditional,,,,,,,error: too few observations
+long,future_any,placebo_post2013,asinh_operated_area_end,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_any,placebo_post2013,asinh_market_volume_area_zfill,hh_year,unconditional,,,,,,,error: too few observations
+long,future_any,placebo_post2013,asinh_market_volume_area_zfill,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_any,placebo_post2013,asinh_market_volume_area_zfill,hh_provyear,unconditional,,,,,,,error: too few observations
+long,future_any,placebo_post2013,asinh_market_volume_area_zfill,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_any,placebo_post2014,any_transfer_in_zfill,hh_year,unconditional,,,,,,,error: too few observations
+long,future_any,placebo_post2014,any_transfer_in_zfill,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_any,placebo_post2014,any_transfer_in_zfill,hh_provyear,unconditional,,,,,,,error: too few observations
+long,future_any,placebo_post2014,any_transfer_in_zfill,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_any,placebo_post2014,asinh_transfer_in_area_zfill,hh_year,unconditional,,,,,,,error: too few observations
+long,future_any,placebo_post2014,asinh_transfer_in_area_zfill,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_any,placebo_post2014,asinh_transfer_in_area_zfill,hh_provyear,unconditional,,,,,,,error: too few observations
+long,future_any,placebo_post2014,asinh_transfer_in_area_zfill,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_any,placebo_post2014,asinh_operated_area_end,hh_year,unconditional,,,,,,,error: too few observations
+long,future_any,placebo_post2014,asinh_operated_area_end,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_any,placebo_post2014,asinh_operated_area_end,hh_provyear,unconditional,,,,,,,error: too few observations
+long,future_any,placebo_post2014,asinh_operated_area_end,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_any,placebo_post2014,asinh_market_volume_area_zfill,hh_year,unconditional,,,,,,,error: too few observations
+long,future_any,placebo_post2014,asinh_market_volume_area_zfill,hh_year,conditional_base2009_by_year,,,,,,,error: too few observations
+long,future_any,placebo_post2014,asinh_market_volume_area_zfill,hh_provyear,unconditional,,,,,,,error: too few observations
+long,future_any,placebo_post2014,asinh_market_volume_area_zfill,hh_provyear,conditional_base2009_by_year,,,,,,,error: too few observations
