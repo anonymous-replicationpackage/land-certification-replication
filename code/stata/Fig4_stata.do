@@ -3,7 +3,7 @@
 *-------------------------------------------------------------------------------
 * Manuscript : "Land certification, implementation progress, and farmland
 *               rental: Evidence from China"
-* Target     : Land Use Policy
+* Target     : China Agricultural Economic Review
 * Output     : Fig4.pdf (vector) and Fig4.png (300 dpi)
 * Stata 17+
 *===============================================================================
