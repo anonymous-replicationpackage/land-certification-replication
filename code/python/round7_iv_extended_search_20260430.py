@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import os
 from dataclasses import dataclass
 from pathlib import Path
 
@@ -104,8 +105,12 @@ def ensure_dirs() -> None:
 
 
 def data_root() -> Path:
-    desktop = Path.home() / "Desktop"
-    return next(p for p in desktop.iterdir() if p.is_dir() and p.name.startswith("\u6570\u636e"))
+    root = os.environ.get("REPLICATION_EXTERNAL_DATA_ROOT")
+    if not root:
+        raise FileNotFoundError(
+            "Set REPLICATION_EXTERNAL_DATA_ROOT to the folder containing restricted external covariate files."
+        )
+    return Path(root).expanduser().resolve()
 
 
 def pref_code_from_county(code: pd.Series) -> pd.Series:

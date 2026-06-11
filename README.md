@@ -15,6 +15,8 @@ Restricted microdata from CLDS and FOBS are not redistributed here. Users who ha
 
 The scripts are provided to document the empirical workflow and to support reproduction where data-access agreements permit it.
 
+Optional scripts that require non-redistributable external covariates read those files from the folder specified by the `REPLICATION_EXTERNAL_DATA_ROOT` environment variable.
+
 ## Usage terms
 
 The materials in this repository are provided for anonymous peer review and scholarly replication. Code and derived non-restricted materials may be used to inspect, reproduce, and extend the empirical workflow, subject to the access conditions of the original CLDS and FOBS data providers. Restricted household- or person-level microdata are not redistributed in this repository and must be obtained from the original providers.
